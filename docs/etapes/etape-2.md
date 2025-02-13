@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Sélection et Préparation des Composants
-parent: Étapes de développement
-nav_order: 1
+parent: Etapes de fabrication
+nav_order: 2
 ---
 
 # Sélection et Préparation des Composants
