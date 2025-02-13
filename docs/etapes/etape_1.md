@@ -1,31 +1,36 @@
 ---
 layout: default
-title: Préparation des Matériaux
-parent: Etapes de fabrication
+title: Sélection et Préparation des Composants
+parent: Étapes de développement
 nav_order: 1
 ---
 
-# Préparation des Matériaux
+# Sélection et Préparation des Composants
 
-Cette section décrit la première étape du processus de fabrication : la préparation des matériaux.
+Cette section décrit la première étape du processus de développement : la sélection et la préparation des composants nécessaires à la conception du brassard GPS.
 
-## Liste des Matériaux
+## Liste des Composants
 
-- Matériau A
-- Matériau B
-- Outils nécessaires
+- **Microcontrôleur** : ESP32, Arduino, ou autre selon les besoins.
+- **Module GPS** : Ublox NEO-6M, NEO-M8N ou équivalent.
+- **Batterie et Gestion d’Alimentation** : Li-Po avec circuit de protection.
+- **Capteurs supplémentaires** : Accéléromètre, capteur de température (si nécessaire).
+- **Matériaux de fabrication** : Textile résistant à la chaleur, boîtier de protection.
+- **Outils nécessaires** : Fer à souder, multimètre, câbles de connexion.
 
-## Procédure de Préparation
+## Procédure de Sélection et Préparation
 
-1. **Nettoyage** : Nettoyez tous les matériaux pour enlever la poussière et les débris.
-2. **Découpe** : Découpez les matériaux A et B selon les dimensions spécifiées.
-3. **Prétraitement** : Appliquez un traitement de surface si nécessaire.
+1. **Recherche des composants adaptés** : Comparer les différents composants disponibles en fonction des besoins du projet.
+2. **Commande des composants** : Passer commande auprès de fournisseurs fiables.
+3. **Vérification des composants** : Tester chaque composant pour s’assurer qu’il fonctionne correctement.
+4. **Préparation** : Effectuer les soudures et assemblages préliminaires si nécessaire.
 
 ## Conseils de Sécurité
 
-- Portez toujours l'équipement de protection individuelle.
-- Suivez les instructions de sécurité des outils utilisés.
+- Toujours porter des équipements de protection individuelle lors des manipulations.
+- Vérifier les tensions et connexions avant d’alimenter un circuit.
+- Utiliser un environnement de travail bien ventilé lors des soudures.
 
 ---
 
-Une fois cette étape terminée, passez à l'[Assemblage](/assemblage).
+Une fois cette étape terminée, passez à l'[intégration des composants](/integration).
