@@ -20,7 +20,7 @@ Ici vous publierez le poster de votre projet.
 
 ![Poster projet](images/poster.jpg)
 
-## Vidéo
+## Vidéo v tetete
 
 Ici vous publierez la vidéo de votre projet. 
 - Moins de 1min30
