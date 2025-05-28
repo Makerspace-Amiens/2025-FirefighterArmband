@@ -18,7 +18,7 @@ Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre proj
 
 Ici vous publierez le poster de votre projet.
 
-![Poster projet](images/poster.jpg)
+![Poster projet](images/Poster 9 Brassard pour les pompiers.jpg)
 
 ## Vidéo v tetete
 
