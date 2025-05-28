@@ -1,25 +1,54 @@
 # Brassard GPS pour Pompiers
 
-Ce repository contient toutes les ressources nécessaires au développement du brassard GPS destiné aux pompiers. Ce projet vise à permettre la localisation rapide des points d'eau à proximité en intégrant un module GPS dans un brassard fixé sur l'avant-bras des vestes anti-feu.
+Ce repository centralise l’ensemble des ressources liées au développement d’un brassard GPS innovant destiné aux interventions des sapeurs-pompiers. L’objectif : permettre une localisation rapide et intuitive des points d’eau les plus proches (bouches, poteaux, citernes, etc.) en situation d’urgence, grâce à un module GPS intégré à un brassard résistant et ergonomique.
+
+## Objectif du Projet
+
+Développer un dispositif portable et robuste, intégré à la manche des vestes anti-feu, qui guide les pompiers en temps réel vers la source d’eau la plus proche via :
+
+- Une flèche directionnelle et un affichage de la distance,
+
+- Une interface cartographique dynamique (mode avancé),
+
+- Une utilisation intuitive même avec des gants,
+
+- Une résistance aux chocs, à la chaleur et à l’eau (IP68/IP69K).
 
 ## Contenu du Repository
 
-- **Documentation :** Toutes les documentations techniques et guides d'utilisation sont disponibles dans le dossier `docs`. Voir le site de documentation associé.
-- **`Hardware` :** Schémas électroniques, liste des composants et conception du PCB.
-- **`Software` :** Code source pour le microcontrôleur, scripts de communication GPS et intégration avec les cartes interactives.
-- **`3D Models` :** Conception et fichiers STL pour l’impression 3D du boîtier du module.
+| Dossier         | Description |
+|-----------------|-------------|
+| `docs/`         | Documentation technique, guides, cahier des charges. |
+| `hardware/`     | Schémas électroniques, liste des composants, PCB. |
+| `software/`     | Code source ESP32 (GPS, écran OLED, boutons, alertes). |
+| `3D_models/`    | Fichiers STL pour impression 3D du boîtier. |
+| `tests/` *(à venir)* | Plans de tests (autonomie, robustesse, précision GPS...). |
+
 
 ## Comment Utiliser ce Repository ?
 
-- Consultez la documentation dans le dossier `docs` pour comprendre le fonctionnement et l’architecture du projet.
-- Téléchargez et testez le code disponible dans le dossier `Software`.
-- Imprimez en 3D ou modifiez les fichiers dans le dossier `3D Models`.
-- Si vous souhaitez contribuer, veuillez lire nos directives de contribution.
+1. 📖 Lire la documentation dans `docs/` pour comprendre l’architecture.
+2. 💾 Télécharger et tester le code dans `software/` sur une carte ESP32-S3.
+3. 🖨️ Imprimer le boîtier à l’aide des fichiers dans `3D_models/`.
+4. 🧪 Effectuer vos propres tests ou proposer des améliorations.
 
-## Contribution
 
-Nous accueillons et apprécions toute contribution. Si vous souhaitez aider à améliorer ce projet, veuillez consulter notre guide de contribution pour connaître nos attentes et notre processus.
+##  Contribution
+
+Nous **accueillons volontiers les contributions** au projet !
+
+- Avant toute PR, merci de consulter les **[directives de contribution](./CONTRIBUTING.md)** *(à ajouter)*.
+- Testez les modifications et documentez-les clairement.
+- Si vous ajoutez du matériel, précisez les références techniques.
+
 
 ## Contact
 
-Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter via les issues du repository ou par e-mail.
+Vous avez des questions, suggestions ou retours ?
+
+- Ouvrez une **issue GitHub**
+- Ou contactez l’équipe projet à l’adresse email indiquée dans les documents du dépôt.
+
+
+
+> Ce projet est à visée expérimentale et pédagogique. Il pourra être développé plus en profondeur par des professionnels en sécurité incendie si les conditions le permettent.
