@@ -4,33 +4,48 @@ nav_order: 1
 title: Accueil
 ---
 
-# Bienvenue sur notre documentation !
+# 🚒 FirefighterArmband
 
-Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+![Bannière FirefighterArmband](images/banniere_pompiers.png)
 
-![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
+---
 
-## À propos du Projet
+## 🌍 Un brassard intelligent au service des pompiers
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
+**FirefighterArmband** est un projet innovant pensé pour **faciliter les interventions des sapeurs-pompiers**.  
+Notre objectif : leur permettre de **localiser rapidement les points d’eau à proximité**, grâce à un **brassard connecté et autonome**.
 
-## Poster
+Conçu pour être robuste, intuitif et facilement utilisable sur le terrain, ce dispositif combine **technologie GPS**, **interface minimaliste**, et **ergonomie adaptée aux interventions d'urgence**.
 
-Pour un peu plus d'imagination !
+---
 
-![Poster projet](images/Poster9.pdf)
+## 📚 Contenu du site
 
-## Vidéo v tetete
+Ce site vous guide à travers toutes les étapes du projet, de l’idée à la réalisation :
 
-Ici vous publierez la vidéo de votre projet. 
-- Moins de 1min30
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
+- 🧭 **Cahier des charges** : objectifs, contraintes et besoins
+- 🛠️ **Dossier technique** : conception matérielle et logicielle
+- 🧪 **Prototypage** : tests, itérations et résultats
+- 🎥 **Présentation vidéo** : présentation visuelle du projet
+- 📄 **Poster** : résumé visuel et synthétique
 
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
+---
+
+## 🤝 À qui s'adresse ce projet ?
+
+- Aux **services de secours** souhaitant intégrer des outils innovants
+- Aux **étudiants en ingénierie** intéressés par les projets embarqués
+- Aux **makers** passionnés par l’électronique et la sécurité publique
+
+---
+
+➡️ **Naviguez via le menu latéral** pour explorer chaque partie du projet.  
+Bonne découverte !
+
+
+## 📚 Découvrir les supports visuels
+
+- 📄 [Accéder au poster du projet]({{ site.baseurl }}/supports/poster)
+- 🎥 [Voir la vidéo explicative]({{ site.baseurl }}/supports/vidéo)
 
 ---
