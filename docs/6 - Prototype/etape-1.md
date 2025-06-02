@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Recherche de Projets Similaires
-parent: Etapes de fabrication
+parent: Prototype
 nav_order: 1
 ---
 

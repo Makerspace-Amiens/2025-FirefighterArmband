@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sélection et Préparation des Composants
-parent: Etapes de fabrication
+parent: Prototype
 nav_order: 2
 ---
 

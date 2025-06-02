@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Objectifs techniques
+title: Cahier des Charges Projet
 nav_order: 2
 parent: Cahier des Charges
+has_children: true
 ---
