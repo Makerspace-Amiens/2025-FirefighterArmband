@@ -48,8 +48,8 @@ Conçu pour être robuste, intuitif et facilement utilisable sur le terrain, ce 
 
 ## Accès aux supports
 
-- [Voir le poster du projet](/2025-FirefighterArmband/docs/7-Supports/supports-1poster.md)
-- [Regarder la vidéo de présentation](/2025-FirefighterArmband/docs/7-Supports/supports-6vidéo.md)
+- [Voir le poster du projet](7-Supports/supports-1poster.md)
+- [Regarder la vidéo de présentation](7-Supports/supports-6vidéo.md)
 
 ---
 
