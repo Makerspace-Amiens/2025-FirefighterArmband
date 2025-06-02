@@ -1,9 +1,9 @@
 ---
 layout: default
 nav_order: 5
-title: Conception et prototypage
+title: Conception 
 ---
 
-# Conception et prototypage
+# Conception 
 
 test

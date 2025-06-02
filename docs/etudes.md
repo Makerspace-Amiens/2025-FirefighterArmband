@@ -1,7 +1,9 @@
 ---
 layout: default
-nav_order: 4
-title: Études et choix techniques
+title: Recherches
+nav_order: 3
+title: Recherches
+has_children: true
 ---
 
 # Études et choix techniques

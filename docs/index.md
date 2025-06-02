@@ -18,7 +18,7 @@ Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre proj
 
 Pour un peu plus d'imagination !
 
-![Poster projet](images/Poster 9 Brassard pour les pompiers.pdf)
+![Poster projet](images/Poster9.pdf)
 
 ## Vidéo v tetete
 
