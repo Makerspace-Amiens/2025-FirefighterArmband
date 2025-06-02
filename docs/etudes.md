@@ -5,4 +5,4 @@ nav_order: 3
 has_children: true
 ---
 
-# Études et choix techniques
+# Recherches et contacts
