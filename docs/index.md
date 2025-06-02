@@ -33,7 +33,25 @@ title: Accueil
 <div class="titre-projet">FirefighterArmband</div>
 <div class="soustitre">Brassard localisant les points d'eaux pour les pompiers</div>
 
-<img src="images/banniere_pompiers.png" alt="Bannière FirefighterArmband" width="100%" style="height: auto;" class="banniere" />
+<style>
+.full-banner-container {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+}
+
+.full-banner {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+</style>
+
+<div class="full-banner-container">
+  <img src="images/banniere_pompiers.png" alt="Bannière FirefighterArmband" class="full-banner" />
+</div>
+
+<!-- -------------------------------------------------------------------------------- -->
 
 <style>
 .titre-brassard {
