@@ -35,51 +35,53 @@ title: Accueil
 
 <img src="images/banniere_pompiers.png" alt="Bannière FirefighterArmband" class="banniere" />
 
----
-
 <style>
-.section-brassard {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  gap: 2rem;
-  margin: 2em 0;
+.titre-brassard {
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
-.image-cadre {
+.bloc-brassard {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: nowrap;
+}
+
+.bloc-brassard img {
   max-width: 320px;
   border-radius: 12px;
   box-shadow: -8px 8px 20px rgba(0, 0, 0, 0.25);
 }
 
-.titre-bloc {
-  width: 100%;
-  font-size: 1.8em;
-  font-weight: bold;
-  margin-bottom: 1em;
+.bloc-brassard .texte {
+  max-width: 600px;
 }
 
-@media (max-width: 768px) {
-  .section-brassard {
+@media (max-width: 900px) {
+  .bloc-brassard {
     flex-direction: column;
-  }
-
-  .texte-brassard {
+    align-items: center;
     text-align: center;
   }
 }
 </style>
 
-<div class="titre-bloc">Un brassard intelligent au service des pompiers</div>
+<div class="titre-brassard">Un brassard intelligent au service des pompiers</div>
 
-<div class="section-brassard">
-  <img src="images/brasprojet.png" alt="Brassard connecté pour pompiers" class="image-cadre" />
-  <div class="texte-brassard">
-    <p><strong>FirefighterArmband</strong> est un projet innovant pensé pour <strong>faciliter les interventions des sapeurs-pompiers</strong>.</p>
-    <p>Notre objectif : leur permettre de <strong>localiser rapidement les points d’eau à proximité</strong>, grâce à un <strong>brassard connecté et autonome</strong>.</p>
-    <p>Conçu pour être robuste, intuitif et facilement utilisable sur le terrain, ce dispositif combine <strong>technologie GPS</strong>, <strong>interface minimaliste</strong>, et <strong>ergonomie adaptée aux interventions d'urgence</strong>.</p>
+<div class="bloc-brassard">
+  <img src="images/brasprojet.png" alt="Brassard connecté pour pompiers" />
+  <div class="texte">
+  <p><strong>FirefighterArmband</strong> est un projet innovant pensé pour <strong>faciliter les interventions des sapeurs-pompiers</strong>.</p>
+  <p>Notre objectif : leur permettre de <strong>localiser rapidement les points d’eau à proximité</strong>, grâce à un <strong>brassard connecté et autonome</strong>.</p>
+  <p>Conçu pour être robuste, intuitif et facilement utilisable sur le terrain, ce dispositif combine <strong>technologie GPS</strong>, <strong>interface minimaliste</strong>, et <strong>ergonomie adaptée aux interventions d'urgence</strong>.</p>
   </div>
 </div>
+
 
 ---
 
