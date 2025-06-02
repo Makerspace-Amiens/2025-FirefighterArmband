@@ -4,13 +4,40 @@ nav_order: 1
 title: Accueil
 ---
 
-# 🚒 FirefighterArmband
+<style>
+.titre-projet {
+  text-align: center;
+  font-size: 2.8em;
+  font-weight: bold;
+  margin-bottom: 0.2em;
+  background: linear-gradient(to right, #ff5722, #ff9800);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 
-![Bannière FirefighterArmband](images/banniere_pompiers.png)
+.soustitre {
+  text-align: center;
+  font-size: 1.4em;
+  color: #444;
+  margin-bottom: 1.5em;
+}
+
+.banniere {
+  display: block;
+  margin: 0 auto 2em auto;
+  max-width: 100%;
+  height: auto;
+}
+</style>
+
+<div class="titre-projet">FirefighterArmband</div>
+<div class="soustitre">Brassard localisant les points d'eaux pour les pompiers</div>
+
+<img src="images/banniere_pompiers.png" alt="Bannière FirefighterArmband" class="banniere" />
 
 ---
 
-## 🌍 Un brassard intelligent au service des pompiers
+## Un brassard intelligent au service des pompiers
 
 **FirefighterArmband** est un projet innovant pensé pour **faciliter les interventions des sapeurs-pompiers**.  
 Notre objectif : leur permettre de **localiser rapidement les points d’eau à proximité**, grâce à un **brassard connecté et autonome**.
@@ -19,23 +46,23 @@ Conçu pour être robuste, intuitif et facilement utilisable sur le terrain, ce 
 
 ---
 
-## 📚 Contenu du site
+## Accès aux supports
 
-Ce site vous guide à travers toutes les étapes du projet, de l’idée à la réalisation :
-
-- 🧭 **Cahier des charges** : objectifs, contraintes et besoins
-- 🛠️ **Dossier technique** : conception matérielle et logicielle
-- 🧪 **Prototypage** : tests, itérations et résultats
-- 🎥 **Présentation vidéo** : présentation visuelle du projet
-- 📄 **Poster** : résumé visuel et synthétique
+- [Voir le poster du projet](/2025-FirefighterArmband/docs/7-Supports/supports-1poster.md)
+- [Regarder la vidéo de présentation](/2025-FirefighterArmband/docs/7-Supports/supports-6vidéo.md)
 
 ---
 
-## 🤝 À qui s'adresse ce projet ?
+## Structure du site
 
-- Aux **services de secours** souhaitant intégrer des outils innovants
-- Aux **étudiants en ingénierie** intéressés par les projets embarqués
-- Aux **makers** passionnés par l’électronique et la sécurité publique
+Vous trouverez dans les différentes sections :
+- Le cahier des charges initial et idéal
+- Les contraintes techniques
+- Le dossier technique (matériel, logiciel)
+- Les tests et prototypes
+- Les supports de présentation (poster, vidéo)
+
+> Ce site vise à fournir une documentation claire, complète et structurée pour comprendre et reproduire le projet dans un cadre professionnel ou pédagogique.
 
 ---
 
@@ -43,9 +70,3 @@ Ce site vous guide à travers toutes les étapes du projet, de l’idée à la r
 Bonne découverte !
 
 
-## 📚 Découvrir les supports visuels
-
-- 📄 [Accéder au poster du projet]({{ site.baseurl }}/supports/poster)
-- 🎥 [Voir la vidéo explicative]({{ site.baseurl }}/supports/vidéo)
-
----
