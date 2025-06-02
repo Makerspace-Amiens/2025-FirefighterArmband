@@ -37,12 +37,38 @@ title: Accueil
 
 ---
 
-## Un brassard intelligent au service des pompiers
+<style>
+.section-brassard {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2rem;
+  margin: 2em 0;
+}
 
-**FirefighterArmband** est un projet innovant pensé pour **faciliter les interventions des sapeurs-pompiers**.  
-Notre objectif : leur permettre de **localiser rapidement les points d’eau à proximité**, grâce à un **brassard connecté et autonome**.
+.image-cadre {
+  max-width: 320px;
+  border-radius: 12px;
+  box-shadow: -8px 8px 20px rgba(0, 0, 0, 0.25);
+}
+@media (max-width: 768px) {
+  .section-brassard {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+</style>
 
-Conçu pour être robuste, intuitif et facilement utilisable sur le terrain, ce dispositif combine **technologie GPS**, **interface minimaliste**, et **ergonomie adaptée aux interventions d'urgence**.
+<div class="section-brassard">
+  <img src="images/brasprojet.png" alt="Brassard connecté pour pompiers" class="image-cadre" />
+  <div>
+    <h2>Un brassard intelligent au service des pompiers</h2>
+    <p><strong>FirefighterArmband</strong> est un projet innovant pensé pour <strong>faciliter les interventions des sapeurs-pompiers</strong>.</p>
+    <p>Notre objectif : leur permettre de <strong>localiser rapidement les points d’eau à proximité</strong>, grâce à un <strong>brassard connecté et autonome</strong>.</p>
+    <p>Conçu pour être robuste, intuitif et facilement utilisable sur le terrain, ce dispositif combine <strong>technologie GPS</strong>, <strong>interface minimaliste</strong>, et <strong>ergonomie adaptée aux interventions d'urgence</strong>.</p>
+  </div>
+</div>
+
 
 ---
 
@@ -66,7 +92,15 @@ Vous trouverez dans les différentes sections :
 
 ---
 
-➡️ **Naviguez via le menu latéral** pour explorer chaque partie du projet.  
+## À qui s'adresse ce projet ?
+
+- Aux **services de secours** souhaitant intégrer des outils innovants
+- Aux **étudiants en ingénierie** intéressés par les projets embarqués
+- Aux **makers** passionnés par l’électronique et la sécurité publique
+
+---
+
+--> **Naviguez via le menu latéral** pour explorer chaque partie du projet.  
 Bonne découverte !
 
 
