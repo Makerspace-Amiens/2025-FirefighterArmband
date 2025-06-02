@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Premiers pas sur le template
+parent: Premiers pas vers la création du site
 nav_order: 3
 title: Guide de Syntaxe Markdown
 ---

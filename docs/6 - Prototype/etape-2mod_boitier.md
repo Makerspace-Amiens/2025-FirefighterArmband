@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sélection et Préparation des Composants
+title: Modélisation d'un boitier
 parent: Prototype
 nav_order: 2
 ---

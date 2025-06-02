@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction à GitHub et Git
-parent: Premiers pas sur le template
+parent: Premiers pas vers la création du site
 nav_order: 1
 ---
 
