@@ -5,6 +5,19 @@ nav_order: 1
 parent: Recherches
 ---
 
+# Contexte du Projet
+
+Les interventions incendie exigent une localisation rapide des ressources disponibles. Or, dans certains contextes (zones rurales, forêts, bâtiments industriels étendus), l’accès à l’information est limité une fois le pompier éloigné de son véhicule.
+
+> Aujourd’hui, la majorité des données concernant les points d’eau est embarquée dans les véhicules d’intervention via des cartographies numériques.
+
+Ce mode de fonctionnement entraîne :
+- une perte de temps en déplacement à pied,
+- un risque d’erreur en cas de mauvaise visibilité (fumée, nuit),
+- un besoin croissant de solutions individuelles, mobiles et fiables.
+
+Le projet FirefighterArmband s’inscrit dans cette logique : rendre ces données **accessibles directement sur le pompier**, de manière **autonome, rapide et robuste**.
+
 
 <!----------------------------------------------------------------------------->
 

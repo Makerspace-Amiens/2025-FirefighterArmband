@@ -2,15 +2,6 @@
 layout: home
 nav_order: 1
 title: Accueil
-theme: just-the-docs
-# Activer un schéma de couleurs custom
-color_scheme: fire
-# Logo facultatif
-logo: /images/logo_ULS.png
-# Navigation
-nav_sort: case_sensitive
-# Search config
-search_enabled: true
 ---
 
 <style>

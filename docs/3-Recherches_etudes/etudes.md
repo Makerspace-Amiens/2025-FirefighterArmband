@@ -7,7 +7,13 @@ has_children: true
 
 # Recherches et contacts
 
+Cette section présente l’ensemble des recherches préalables ayant permis de cadrer, valider ou ajuster le projet.
 
+Elle comprend notamment :
+- L’analyse du contexte terrain,
+- Les échanges avec les pompiers du SDIS,
+- L’étude des systèmes actuels de localisation des points d’eau,
+- Une veille technologique sur les projets similaires existants.
 
 <!----------------------------------------------------------------------------->
 

@@ -7,37 +7,41 @@ parent: Recherches
 
 # Recherche de Projets Similaires
 
-Avant de commencer la conception, il est essentiel d'étudier les projets existants pour s'inspirer des bonnes pratiques et identifier les défis potentiels.
+Avant de démarrer la conception, une analyse approfondie des projets existants a été réalisée afin de s’inspirer des bonnes pratiques, identifier les défis courants et orienter le développement du **FirefighterArmband**.
 
-## Étapes de Recherche
+## Méthodologie de Recherche
 
-1. **Identification des Projets** : Recherchez des brassards électroniques similaires, notamment ceux intégrant une application mobile.
-2. **Analyse des Fonctionnalités** : Étudiez les caractéristiques techniques, les matériaux utilisés et les technologies employées.
-3. **Comparaison des Solutions** : Comparez les avantages et les inconvénients des différentes approches.
+1. **Identification des projets pertinents**  
+   Recherche de brassards électroniques industriels (logistique, santé) et de solutions mobiles de localisation GPS.
 
-## Points Clés à Analyser
+2. **Analyse des fonctionnalités clés**  
+   Étude des technologies de communication, des matériaux utilisés, de l’ergonomie, et des interfaces utilisateur.
 
-- Les technologies de communication utilisées (Bluetooth, Wi-Fi, GPS, etc.).
-- L'ergonomie et le confort du brassard.
-- L'intégration avec des applications mobiles.
+3. **Comparaison des contraintes et des solutions adoptées**  
+   Focus sur l’autonomie, la robustesse, la résistance aux environnements extrêmes, et les normes de protection.
 
-## Problèmes Communs et Solutions
+## Points d’attention majeurs
 
-- **Autonomie de la batterie** : Rechercher des solutions d'optimisation énergétique.
-- **Résistance aux conditions extrêmes** : Étudier les matériaux et les normes de protection utilisées.
-- **Fiabilité de la communication** : Comparer les protocoles et les méthodes de synchronisation les plus efficaces.
+- **Technologies de communication** : Bluetooth, Wi-Fi, GPS  
+- **Ergonomie et confort** : Adaptabilité au port prolongé et aux conditions d’intervention  
+- **Matériaux** : Résistance à la chaleur, chocs et aux normes IP spécifiques  
+- **Autonomie** : Entre 4 et 12 heures selon les projets  
+- **Interface utilisateur** : Simplicité pour ne pas distraire l’utilisateur en intervention  
+- **Normes de protection** : IP67 à IP69K principalement  
 
-## Comparaison et Applicabilité à Notre Projet
+## Synthèse comparative
 
-| Critère | Projets existants | Applicabilité à notre projet |
-|---------|------------------|-----------------------------|
-| **Technologie de communication** | Bluetooth, Wi-Fi, GPS | GPS obligatoire, Bluetooth envisageable pour la connexion à une application mobile |
-| **Matériaux** | Plastique, tissus techniques | Doit être résistant à la chaleur et aux chocs |
-| **Autonomie** | 4h à 12h selon la taille de la batterie | Optimisation nécessaire pour garantir plusieurs heures d'utilisation sans recharge |
-| **Interface utilisateur** | Boutons physiques, écran tactile, retour haptique | Interface minimale, privilégier un retour simple pour éviter toute distraction |
-| **Normes de protection** | IP67, IP68, normes industrielles | Doit respecter les normes spécifiques aux équipements des pompiers |
+| Critère             | Projets existants                         | Notre projet FirefighterArmband                 |
+|---------------------|-----------------------------------------|------------------------------------------------|
+| **Communication**    | Bluetooth / Wi-Fi / GPS                  | GPS avec base locale (fonctionnement offline)  |
+| **Autonomie**        | 4 à 12 heures                           | Minimum 6 heures, optimisée pour interventions |
+| **Matériaux**        | Textile, plastique dur                   | Boîtier rigide + tenue compatible feu          |
+| **Interface**        | Écran tactile, boutons physiques        | Affichage directionnel et distance simplifié   |
+| **Normes**           | IP67 souvent                            | Objectif IP68/IP69K, adapté aux conditions extrêmes |
 
-En fonction de cette analyse, nous pourrons adapter les meilleures pratiques tout en respectant les contraintes spécifiques du projet.
+---
+
+Cette étude a permis de **cibler les adaptations nécessaires** pour concevoir un brassard robuste, fiable et parfaitement adapté aux besoins opérationnels des pompiers, sans chercher à reproduire un système existant mais en l’optimisant pour le terrain.
 
 
 <!----------------------------------------------------------------------------->

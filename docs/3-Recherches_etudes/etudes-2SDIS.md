@@ -5,7 +5,26 @@ nav_order: 2
 parent: Recherches
 ---
 
+# Partenariat avec le SDIS
 
+Pour garantir la pertinence du projet, nous avons sollicité l’aide de plusieurs intervenants du **SDIS de la Somme** :
+
+- **Adjudant-chef RADKE Robert**, pompier professionnel et connaissance, a facilité les premiers échanges,
+- **Commandant DUCROS Mathieu**, a permis la prise de contact avec les services techniques en charge de la cartographie, de l'informatique et de la logistique vestimentaire.
+
+## Actions réalisées
+
+- Présentation du projet aux pompiers du SDIS,
+- Étude des contraintes opérationnelles liées aux tenues, déplacements, autonomie et ergonomie,
+- **Attestation sur l’honneur** rédigée pour encadrer l’usage des données issues du SDIS.
+
+## Soutiens concrets
+
+- Prêt d’une **veste anti-feu complète** pour la journée des projets,
+- Présentation des interventions incendies en zone rurale (Mailly-Maillet) ainsi que des localisations et extractions de l'eau;
+- Conseils techniques sur les risques électriques, les normes, la sécurité thermique et la compatibilité terrain.
+
+Ces retours ont été essentiels pour ajuster notre prototype et comprendre les besoins réels des utilisateurs.
 
 <!----------------------------------------------------------------------------->
 

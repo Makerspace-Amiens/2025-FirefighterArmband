@@ -5,6 +5,22 @@ nav_order: 3
 parent: Recherches
 ---
 
+# Localisation des Points d’Eau
+
+## Données utilisées
+
+Grâce au contact avec le SDIS, nous avons pu identifier les éléments suivants :
+- Les pompiers utilisent des **bases de données cartographiques internes**,
+- Les points d’eau sont classés (bouches, poteaux, citernes, etc.),
+- Ces données sont confidentielles et soumises à autorisation.
+
+## Enjeux pour notre projet
+
+- Nous avons demandé l'accès à une **extraction anonymisée** ou à des **coordonnées fictives réalistes** à des fins de test.
+- Malheureusement, les délais de négociations et d'obtentions des ressources étaient trop longues vis-à-vis de nos délais pour ce projet. Nous avons donc utiliser des coordonnées tests.
+
+L’objectif est de garantir le **fonctionnement hors ligne** du système, tout en préservant la sécurité des données sensibles.
+
 
 <!----------------------------------------------------------------------------->
 

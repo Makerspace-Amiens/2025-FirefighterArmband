@@ -4,25 +4,63 @@ nav_order: 2
 title: Objectifs du projet
 ---
 
-# Introduction
+# Objectifs du Projet
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+<div style="margin-bottom: 2rem;">
+Le <strong>FirefighterArmband</strong> vise à fournir un outil embarqué permettant aux pompiers de localiser rapidement les points d’eau les plus proches, même dans des contextes d’urgence ou de faible visibilité. Il s’agit d’un <strong>dispositif GPS intégré à un brassard</strong>, conçu pour fonctionner dans des conditions extrêmes (chaleur, humidité, chocs) et afficher les données essentielles de manière claire, ergonomique et intuitive.
+</div>
 
-## Contexte du Projet
+---
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+## Contexte opérationnel
 
-## Objectifs du Projet
+Lors des interventions, les pompiers doivent accéder rapidement à une source d’eau (bouche, poteau, citerne, point naturel). Actuellement, ces informations sont souvent disponibles uniquement depuis les véhicules via des cartographies embarquées, ce qui ralentit la prise de décision sur le terrain, en particulier dans :
 
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+- des zones forestières ou rurales éloignées,
+- des sites industriels étendus,
+- des environnements à visibilité réduite (fumée dense, nuit, etc.).
 
-# Existant
+Le besoin d’un outil individuel, mobile, accessible **directement sur l’équipement du pompier** devient alors une évidence opérationnelle.
 
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
+---
 
-# Cahier des Charges
+## Objectifs techniques
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+Le dispositif vise à répondre à plusieurs impératifs :
+
+- **Localisation GPS précise** des points d’eau à proximité et de notre possition.
+- **Affichage ergonomique** : flèche directionnelle ou carte dynamique.
+- **Utilisation intuitive**, même avec des gants de feu.
+- **Autonomie suffisante** pour une intervention complète (> 6h).
+- **Robustesse** face aux conditions extrêmes (IP68/IP69K, températures élevées).
+- **Fixation sécurisée** à la manche (poche à scratch renforcée).
+- **Mode connecté & hors-ligne** via base de données locale.
+
+---
+
+## Existant et inspiration
+
+Des solutions partielles existent déjà :
+
+- Applications de localisation de points d’eau,
+- Systèmes GPS embarqués dans les véhicules,
+- Brassards connectés dans l’industrie logistique.
+
+Cependant, aucune ne répond entièrement aux **contraintes d’usage terrain des pompiers**. Le FirefighterArmband ambitionne de réunir les meilleures pratiques de ces solutions tout en respectant les exigences spécifiques du domaine incendie.
+
+---
+
+## Cahier des charges fonctionnel (résumé)
+
+- Localisation des points d’eau par GPS
+- Indication directionnelle + distance
+- Affichage cartographique (mode avancé)
+- Alerte vibratoire ou sonore
+- Interface simple, lisible, tactile
+- Résistance thermique, étanchéité, fiabilité
+
+Ce projet inclut également un prototype réel, basé sur un écran tactile 7 pouces, un ESP32-S3, un module GPS et une boussole Grove.
+
 
 <!----------------------------------------------------------------------------->
 
