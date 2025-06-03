@@ -85,7 +85,7 @@ title: Accueil
   <p>Conçu pour être robuste, intuitif et facilement utilisable sur le terrain, ce dispositif combine <strong>technologie GPS</strong>, <strong>interface minimaliste</strong>, et <strong>ergonomie adaptée aux interventions d'urgence</strong>.</p>
   </div>
 </div>
-<div style="width: 100%; box-sizing: border-box; padding: 1rem; border: 2px solid #d62828; border-radius: 12px; background-color: #fdf3f3; margin: 1rem 0;">
+<div style="width: 100%; box-sizing: border-box; padding: 1rem; border: 2px solid #d62828; border-radius: 12px; background-color: #fdf3f3; margin: 1rem 0; text-align: center;">
   <p style="margin: 0; font-size: 1.1rem;">
     Notre objectif : leur permettre de <strong>localiser rapidement les points d’eau à proximité</strong>, grâce à un <strong>brassard connecté et autonome</strong>.
   </p>
@@ -100,6 +100,7 @@ title: Accueil
 
 <div style="text-align: center;">
 <h2>Accès aux supports</h2>
+<br>
 <p><a href="7-Supports/supports-1poster.md">Voir le poster du projet</a></p>
 <p><a href="7-Supports/supports-6vidéo.md">Regarder la vidéo de présentation</a></p>
 </div>
