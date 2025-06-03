@@ -88,7 +88,9 @@ title: Accueil
 </div>
 
 
----
+<br>
+<div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
+
 
 ## Accès aux supports
 
@@ -108,7 +110,8 @@ Vous trouverez dans les différentes sections :
 
 > Ce site vise à fournir une documentation claire, complète et structurée pour comprendre et reproduire le projet dans un cadre professionnel ou pédagogique.
 
----
+<br>
+<div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
 ## À qui s'adresse ce projet ?
 

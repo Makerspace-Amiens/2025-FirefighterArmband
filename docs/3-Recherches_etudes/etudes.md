@@ -7,6 +7,9 @@ has_children: true
 
 # Recherches et contacts
 
+<br>
+<div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
+
 Cette section présente l’ensemble des recherches préalables ayant permis de cadrer, valider ou ajuster le projet.
 
 Elle comprend notamment :

@@ -4,7 +4,11 @@ title: Premiers pas vers la création du site
 nav_order: 11
 has_children: true
 ---
+
 # Introduction aux Sites Jekyll
+
+<br>
+<div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
 Ce document vise à expliquer ce qu'est un site Jekyll et comment il est utilisé dans ce repository pour la documentation et la gestion de votre projet.
 

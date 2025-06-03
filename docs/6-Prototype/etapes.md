@@ -5,6 +5,12 @@ nav_order: 6
 has_children: true
 ---
 
+
+
+<br>
+<div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
+
+
 # Étapes de Fabrication
 
 Bienvenue dans la section dédiée aux étapes de fabrication du projet XYZ. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
