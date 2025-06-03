@@ -64,3 +64,38 @@ En fonction de cette analyse, nous pourrons adapter les meilleures pratiques tou
 </style>
 
 <a class="bouton-suivant" href="../4-Cahier-des-Charges/cahier">Next→</a>
+
+<!----------------------------------------------------------------------------->
+
+<style>
+.footer-bandeau {
+  background-color: #f8d7da; /* rouge pastel */
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 3rem;
+  border-top: 2px solid #d62828;
+  font-weight: bold;
+}
+
+.footer-bandeau img {
+  height: 40px;
+}
+
+.footer-bandeau a {
+  color: #d62828;
+  text-decoration: none;
+  font-weight: bold;
+  margin-right: 40px; /* ← ajoute une marge à droite */
+}
+
+.footer-bandeau a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<div class="footer-bandeau">
+  <img src="../images/logoULS.png" alt="Logo ULS" />
+  <a href="../12-Contacts/contacts">Contacts</a>
+</div>
