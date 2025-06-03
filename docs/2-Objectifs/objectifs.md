@@ -6,7 +6,8 @@ title: Objectifs du projet
 
 # Objectifs du Projet
 
-<div style="margin-bottom: 2rem;">
+<div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
+
 Le <strong>FirefighterArmband</strong> vise à fournir un outil embarqué permettant aux pompiers de localiser rapidement les points d’eau les plus proches, même dans des contextes d’urgence ou de faible visibilité. Il s’agit d’un <strong>dispositif GPS intégré à un brassard</strong>, conçu pour fonctionner dans des conditions extrêmes (chaleur, humidité, chocs) et afficher les données essentielles de manière claire, ergonomique et intuitive.
 </div>
 

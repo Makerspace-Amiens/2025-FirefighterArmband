@@ -16,7 +16,7 @@ Pour garantir la pertinence du projet, nous avons sollicité l’aide de plusieu
 
 - Présentation du projet aux pompiers du SDIS,
 - Étude des contraintes opérationnelles liées aux tenues, déplacements, autonomie et ergonomie,
-- **Attestation sur l’honneur** rédigée pour encadrer l’usage des données issues du SDIS.
+- Attestation sur l’honneur rédigée pour encadrer l’usage des données issues du SDIS.
 
 ## Soutiens concrets
 
