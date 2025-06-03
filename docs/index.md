@@ -91,15 +91,21 @@ title: Accueil
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
+<!-- --------------------------------------------------------------------------------- -->
+
+
 <div style="text-align: center;">
 <h2>Accès aux supports</h2>
 <p><a href="7-Supports/supports-1poster.md">Voir le poster du projet</a></p>
 <p><a href="7-Supports/supports-6vidéo.md">Regarder la vidéo de présentation</a></p>
 </div>
-</div>
+
 
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
+
+<!-- --------------------------------------------------------------------------------- -->
+
 
 ## Structure du site
 
@@ -131,6 +137,10 @@ Vous trouverez dans les différentes sections :
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
+
+<!-- --------------------------------------------------------------------------------- -->
+
+
 ## À qui s'adresse ce projet ?
 
 <div style="display: flex; justify-content: space-between; gap: 1rem; margin: 2rem 0; text-align: center;">
@@ -152,6 +162,9 @@ Vous trouverez dans les différentes sections :
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 <br>
+
+
+<!-- --------------------------------------------------------------------------------- -->
 
 <div style="text-align: center;">
 --> <strong>Naviguez via le menu latéral</strong> pour explorer chaque partie du projet.  
