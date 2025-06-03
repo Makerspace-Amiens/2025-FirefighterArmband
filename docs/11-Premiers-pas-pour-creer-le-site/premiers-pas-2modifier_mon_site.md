@@ -66,4 +66,4 @@ Ce guide est destiné à aider les utilisateurs débutants avec GitHub et Jekyll
 }
 </style>
 
-<a class="bouton-suivant" href="11-Premiers-pas-pour-créer-le-site/premiers-pas-3markdown_cheatsheet.md">Next→</a>
+<a class="bouton-suivant" href="11-Premiers-pas-pour-creer-le-site/premiers-pas-3markdown_cheatsheet.md">Next→</a>

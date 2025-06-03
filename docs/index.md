@@ -145,7 +145,7 @@ Bonne découverte !
 }
 </style>
 
-<a class="bouton-suivant" href="2-Objectifs/objectifs.md">Découverte →</a>
+<a class="bouton-suivant" href="2-Objectifs/objectifs.md">Découverte→</a>
 
 <!----------------------------------------------------------------------------->
 

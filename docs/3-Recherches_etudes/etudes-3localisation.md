@@ -1,10 +1,9 @@
 ---
 layout: default
-title: SDIS
-nav_order: 2
+title: Localisation des points d'eaux
+nav_order: 3
 parent: Recherches
 ---
-
 
 <style>
 .bouton-suivant {
@@ -27,4 +26,4 @@ parent: Recherches
 }
 </style>
 
-<a class="bouton-suivant" href="3-Recherches_études/etudes-3localisation.md">Next→</a>
+<a class="bouton-suivant" href="3-Recherches_etudes/etudes-4pj_simil.md">Next→</a>

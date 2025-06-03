@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Localisation des points d'eaux
-nav_order: 3
+title: Contexte du Projet
+nav_order: 1
 parent: Recherches
 ---
+
 
 <style>
 .bouton-suivant {
@@ -26,4 +27,4 @@ parent: Recherches
 }
 </style>
 
-<a class="bouton-suivant" href="3-Recherches_études/etudes-4pj_simil.md">Next→</a>
+<a class="bouton-suivant" href="3-Recherches_etudes/etudes-2SDIS.md">Next→</a>

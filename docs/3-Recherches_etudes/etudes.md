@@ -30,4 +30,4 @@ has_children: true
 }
 </style>
 
-<a class="bouton-suivant" href="3-Recherches_études/etudes-1contexte.md">Next→</a>
+<a class="bouton-suivant" href="3-Recherches_etudes/etudes-1contexte.md">Next→</a>

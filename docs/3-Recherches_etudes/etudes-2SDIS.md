@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Contexte du Projet
-nav_order: 1
+title: SDIS
+nav_order: 2
 parent: Recherches
 ---
 
@@ -27,4 +27,4 @@ parent: Recherches
 }
 </style>
 
-<a class="bouton-suivant" href="3-Recherches_études/etudes-2SDIS.md">Next→</a>
+<a class="bouton-suivant" href="3-Recherches_etudes/etudes-3localisation.md">Next→</a>
