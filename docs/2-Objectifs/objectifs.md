@@ -80,6 +80,6 @@ Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auct
 </style>
 
 <div class="footer-bandeau">
-  <img src="images/logoULS.png" alt="Logo ULS" />
-  <a href="12-Contacts/contacts">Contacts</a>
+  <img src="../images/logoULS.png" alt="Logo ULS" />
+  <a href="../12-Contacts/contacts">Contacts</a>
 </div>
