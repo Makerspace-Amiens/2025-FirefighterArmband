@@ -92,10 +92,10 @@ title: Accueil
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
 <div style="text-align: center;">
-## Accès aux supports
-
-- [Voir le poster du projet](7-Supports/supports-1poster.md)
-- [Regarder la vidéo de présentation](7-Supports/supports-6vidéo.md)
+<h2>Accès aux supports</h2>
+<p><a href="7-Supports/supports-1poster.md">Voir le poster du projet</a></p>
+<p><a href="7-Supports/supports-6vidéo.md">Regarder la vidéo de présentation</a></p>
+</div>
 </div>
 
 <br>
