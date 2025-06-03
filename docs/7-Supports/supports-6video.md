@@ -21,6 +21,8 @@ Ici vous publierez la vidéo de votre projet.
 
 
 
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -42,4 +44,4 @@ Ici vous publierez la vidéo de votre projet.
 }
 </style>
 
-<a class="bouton-suivant" href="8-Retour/retour.md">Next→</a>
+<a class="bouton-suivant" href="8-Retour/retour">Next→</a>

@@ -179,6 +179,6 @@ Bonne découverte !
 
 <div class="footer-bandeau">
   <img src="images/logoULS.png" alt="Logo ULS" />
-  <a href="/2025-FirefighterArmband/docs/12-Contacts/">Contacts</a>
+  <a href="12-Contacts/contacts">Contacts</a>
 </div>
 

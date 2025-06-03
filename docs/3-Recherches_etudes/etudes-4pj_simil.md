@@ -39,6 +39,9 @@ Avant de commencer la conception, il est essentiel d'étudier les projets exista
 
 En fonction de cette analyse, nous pourrons adapter les meilleures pratiques tout en respectant les contraintes spécifiques du projet.
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -60,4 +63,4 @@ En fonction de cette analyse, nous pourrons adapter les meilleures pratiques tou
 }
 </style>
 
-<a class="bouton-suivant" href="4-Cahier-des-Charges/cahier.md">Next→</a>
+<a class="bouton-suivant" href="4-Cahier-des-Charges/cahier">Next→</a>

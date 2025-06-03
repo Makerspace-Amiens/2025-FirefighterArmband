@@ -35,6 +35,10 @@ Cette section décrit la première étape du processus de développement : la s�
 
 Une fois cette étape terminée, passez à l'[intégration des composants](/integration).
 
+
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -56,4 +60,4 @@ Une fois cette étape terminée, passez à l'[intégration des composants](/inte
 }
 </style>
 
-<a class="bouton-suivant" href="6-Prototype/etapes-3prog.md">Next→</a>
+<a class="bouton-suivant" href="6-Prototype/etapes-3prog">Next→</a>

@@ -106,6 +106,9 @@ Dans le terminal ouvert :
 
 ---
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -127,4 +130,4 @@ Dans le terminal ouvert :
 }
 </style>
 
-<a class="bouton-suivant" href="12-Contacts/contacts.md">Next→</a>
+<a class="bouton-suivant" href="12-Contacts/contacts">Next→</a>

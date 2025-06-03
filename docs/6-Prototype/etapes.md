@@ -27,6 +27,9 @@ Pour commencer, assurez-vous de bien comprendre chaque étape et de disposer de 
 Pour toute question ou aide supplémentaire, n'hésitez pas à contacter notre équipe.
 
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -48,4 +51,4 @@ Pour toute question ou aide supplémentaire, n'hésitez pas à contacter notre �
 }
 </style>
 
-<a class="bouton-suivant" href="6-Prototype/etapes-1elec.md">Next→</a>
+<a class="bouton-suivant" href="6-Prototype/etapes-1elec">Next→</a>

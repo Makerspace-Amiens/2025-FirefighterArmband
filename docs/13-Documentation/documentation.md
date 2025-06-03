@@ -4,6 +4,9 @@ nav_order: 13
 title: Documentation
 ---
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -25,4 +28,4 @@ title: Documentation
 }
 </style>
 
-<a class="bouton-suivant" href="index.md">Retour à l'Accueil→</a>
+<a class="bouton-suivant" href="index">Retour à l'Accueil→</a>

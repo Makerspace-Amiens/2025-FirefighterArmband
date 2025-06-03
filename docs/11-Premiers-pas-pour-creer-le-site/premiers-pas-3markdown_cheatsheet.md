@@ -152,6 +152,9 @@ Créez des tableaux en séparant les textes par des barres verticales `|` et des
 
 Si vous souhaitez aller plus loin, vous pouvez vous rendre sur la page de documentation du template du site ["Just the Docs"](https://just-the-docs.com).
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -173,4 +176,4 @@ Si vous souhaitez aller plus loin, vous pouvez vous rendre sur la page de docume
 }
 </style>
 
-<a class="bouton-suivant" href="11-Premiers-pas-pour-creer-le-site/premiers-pas-4modifier_mon_site_avance.md">Next→</a>
+<a class="bouton-suivant" href="11-Premiers-pas-pour-creer-le-site/premiers-pas-4modifier_mon_site_avance">Next→</a>

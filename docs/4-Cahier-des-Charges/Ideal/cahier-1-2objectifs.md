@@ -5,6 +5,9 @@ nav_order: 2
 parent: Cahier des Charges Idéal
 ---
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -26,4 +29,4 @@ parent: Cahier des Charges Idéal
 }
 </style>
 
-<a class="bouton-suivant" href="4-Cahier-des-Charges/cahier-2projet.md">Next→</a>
+<a class="bouton-suivant" href="4-Cahier-des-Charges/cahier-2projet">Next→</a>

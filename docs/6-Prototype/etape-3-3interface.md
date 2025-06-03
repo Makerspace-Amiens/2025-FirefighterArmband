@@ -5,6 +5,9 @@ parent: Programmation du brassard
 nav_order: 3
 ---
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -26,4 +29,4 @@ nav_order: 3
 }
 </style>
 
-<a class="bouton-suivant" href="7-Supports/supports.md">Next→</a>
+<a class="bouton-suivant" href="7-Supports/supports">Next→</a>

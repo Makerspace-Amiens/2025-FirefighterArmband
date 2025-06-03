@@ -45,6 +45,9 @@ GitHub est une plateforme en ligne qui permet de stocker, partager et collaborer
 L'utilisation de GitHub avec GitHub Desktop et VSCode offre une expérience complète pour la gestion de projets de code. Cette combinaison est particulièrement utile pour ceux qui préfèrent une approche visuelle et intuitive de la gestion de version.
 
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -66,4 +69,4 @@ L'utilisation de GitHub avec GitHub Desktop et VSCode offre une expérience comp
 }
 </style>
 
-<a class="bouton-suivant" href="11-Premiers-pas-pour-creer-le-site/premiers-pas-2modifier_mon_site.md">Next→</a>
+<a class="bouton-suivant" href="11-Premiers-pas-pour-creer-le-site/premiers-pas-2modifier_mon_site">Next→</a>

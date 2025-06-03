@@ -5,6 +5,9 @@ parent: Supports
 nav_order: 2
 ---
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -26,4 +29,4 @@ nav_order: 2
 }
 </style>
 
-<a class="bouton-suivant" href="7-Supports/supports-3trello.md">Next→</a>
+<a class="bouton-suivant" href="7-Supports/supports-3trello">Next→</a>

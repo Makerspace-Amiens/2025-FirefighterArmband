@@ -6,6 +6,9 @@ parent: Cahier des Charges
 has_children: true
 ---
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -27,4 +30,4 @@ has_children: true
 }
 </style>
 
-<a class="bouton-suivant" href="4-Cahier-des-Charges/cahier-1-1contraintes.md">Next→</a>
+<a class="bouton-suivant" href="4-Cahier-des-Charges/cahier-1-1contraintes">Next→</a>

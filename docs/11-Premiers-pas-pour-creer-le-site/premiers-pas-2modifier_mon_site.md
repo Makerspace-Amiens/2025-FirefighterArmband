@@ -45,6 +45,9 @@ Une fois que vous avez commis vos changements, Jekyll va automatiquement reconst
 
 Ce guide est destiné à aider les utilisateurs débutants avec GitHub et Jekyll. Pour des modifications plus complexes, il est nécessaire d'utiliser un IDE ou d'autres outils de développement.
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -66,4 +69,4 @@ Ce guide est destiné à aider les utilisateurs débutants avec GitHub et Jekyll
 }
 </style>
 
-<a class="bouton-suivant" href="11-Premiers-pas-pour-creer-le-site/premiers-pas-3markdown_cheatsheet.md">Next→</a>
+<a class="bouton-suivant" href="11-Premiers-pas-pour-creer-le-site/premiers-pas-3markdown_cheatsheet">Next→</a>

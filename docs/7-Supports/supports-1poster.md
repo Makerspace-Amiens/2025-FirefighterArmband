@@ -11,6 +11,10 @@ Pour un peu plus d'imagination !
 
 ![Poster projet](images/Poster9.pdf)
 
+
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -32,4 +36,4 @@ Pour un peu plus d'imagination !
 }
 </style>
 
-<a class="bouton-suivant" href="7-Supports/supports-2teams.md">Next→</a>
+<a class="bouton-suivant" href="7-Supports/supports-2teams">Next→</a>

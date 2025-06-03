@@ -5,6 +5,9 @@ nav_order: 1
 parent: Conception
 ---
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -26,4 +29,4 @@ parent: Conception
 }
 </style>
 
-<a class="bouton-suivant" href="5-Conception/conception-2composants.md">Next→</a>
+<a class="bouton-suivant" href="5-Conception/conception-2composants">Next→</a>

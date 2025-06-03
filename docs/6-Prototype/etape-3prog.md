@@ -6,6 +6,9 @@ nav_order: 3
 has_children: true
 ---
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -27,4 +30,4 @@ has_children: true
 }
 </style>
 
-<a class="bouton-suivant" href="6-Prototype/etapes-3-1contraintes.md">Next→</a>
+<a class="bouton-suivant" href="6-Prototype/etapes-3-1contraintes">Next→</a>

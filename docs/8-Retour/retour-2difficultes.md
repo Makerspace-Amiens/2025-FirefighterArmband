@@ -5,6 +5,9 @@ parent: Retour
 nav_order: 2
 ---
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -26,4 +29,4 @@ nav_order: 2
 }
 </style>
 
-<a class="bouton-suivant" href="8-Retour/retour-3amelio.md">Next→</a>
+<a class="bouton-suivant" href="8-Retour/retour-3amelio">Next→</a>

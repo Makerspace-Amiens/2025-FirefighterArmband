@@ -24,6 +24,8 @@ Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel p
 
 Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
 
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -45,4 +47,4 @@ Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auct
 }
 </style>
 
-<a class="bouton-suivant" href="3-Recherches_etudes/etudes.md">Next→</a>
+<a class="bouton-suivant" href="3-Recherches_etudes/etudes">Next→</a>

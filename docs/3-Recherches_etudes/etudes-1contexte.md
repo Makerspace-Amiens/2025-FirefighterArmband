@@ -6,6 +6,8 @@ parent: Recherches
 ---
 
 
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -27,4 +29,4 @@ parent: Recherches
 }
 </style>
 
-<a class="bouton-suivant" href="3-Recherches_etudes/etudes-2SDIS.md">Next→</a>
+<a class="bouton-suivant" href="3-Recherches_etudes/etudes-2SDIS">Next→</a>

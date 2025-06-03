@@ -4,6 +4,10 @@ nav_order: 9
 title: Remerciements
 ---
 
+
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -25,4 +29,4 @@ title: Remerciements
 }
 </style>
 
-<a class="bouton-suivant" href="10-Conclusion/conclusion.md">Next→</a>
+<a class="bouton-suivant" href="10-Conclusion/conclusion">Next→</a>

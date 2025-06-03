@@ -8,6 +8,9 @@ has_children: true
 # Cahier des Charges
 
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -29,4 +32,4 @@ has_children: true
 }
 </style>
 
-<a class="bouton-suivant" href="4-Cahier-des-Charges/cahier-1ideal.md">Next→</a>
+<a class="bouton-suivant" href="4-Cahier-des-Charges/cahier-1ideal">Next→</a>

@@ -5,6 +5,9 @@ nav_order: 3
 parent: Recherches
 ---
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -26,4 +29,4 @@ parent: Recherches
 }
 </style>
 
-<a class="bouton-suivant" href="3-Recherches_etudes/etudes-4pj_simil.md">Next→</a>
+<a class="bouton-suivant" href="3-Recherches_etudes/etudes-4pj_simil">Next→</a>

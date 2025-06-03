@@ -5,6 +5,10 @@ nav_order: 7
 has_children: true
 ---
 
+
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -26,4 +30,4 @@ has_children: true
 }
 </style>
 
-<a class="bouton-suivant" href="7-Supports/supports-1poster.md">Next→</a>
+<a class="bouton-suivant" href="7-Supports/supports-1poster">Next→</a>

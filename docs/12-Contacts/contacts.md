@@ -5,6 +5,9 @@ title: Contacts
 ---
 
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -26,4 +29,4 @@ title: Contacts
 }
 </style>
 
-<a class="bouton-suivant" href="13-Documentation/documentation.md">Next→</a>
+<a class="bouton-suivant" href="13-Documentation/documentation">Next→</a>

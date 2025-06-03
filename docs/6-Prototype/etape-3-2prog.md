@@ -6,6 +6,9 @@ nav_order: 2
 ---
 
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -27,4 +30,4 @@ nav_order: 2
 }
 </style>
 
-<a class="bouton-suivant" href="6-Prototype/etapes-3-3interface.md">Next→</a>
+<a class="bouton-suivant" href="6-Prototype/etapes-3-3interface">Next→</a>

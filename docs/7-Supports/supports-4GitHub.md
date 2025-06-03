@@ -5,6 +5,10 @@ parent: Supports
 nav_order: 4
 ---
 
+
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -26,4 +30,4 @@ nav_order: 4
 }
 </style>
 
-<a class="bouton-suivant" href="7-Supports/supports-5site.md">Next→</a>
+<a class="bouton-suivant" href="7-Supports/supports-5site">Next→</a>
