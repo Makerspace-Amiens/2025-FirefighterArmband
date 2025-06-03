@@ -29,4 +29,4 @@ nav_order: 1
 }
 </style>
 
-<a class="bouton-suivant" href="../6-Prototype/etapes-3-2prog">Next→</a>
+<a class="bouton-suivant" href="../6-Prototype/etape-3-2prog">Next→</a>

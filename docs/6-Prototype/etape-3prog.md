@@ -30,4 +30,4 @@ has_children: true
 }
 </style>
 
-<a class="bouton-suivant" href="../6-Prototype/etapes-3-1contraintes">Next→</a>
+<a class="bouton-suivant" href="../6-Prototype/etape-3-1contraintes">Next→</a>

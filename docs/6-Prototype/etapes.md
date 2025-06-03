@@ -51,4 +51,4 @@ Pour toute question ou aide supplémentaire, n'hésitez pas à contacter notre �
 }
 </style>
 
-<a class="bouton-suivant" href="../6-Prototype/etapes-1elec">Next→</a>
+<a class="bouton-suivant" href="../6-Prototype/etape-1elec">Next→</a>
