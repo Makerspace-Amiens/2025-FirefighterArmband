@@ -169,6 +169,7 @@ Bonne découverte !
   color: #d62828;
   text-decoration: none;
   font-weight: bold;
+  margin-right: 40px; /* ← ajoute une marge à droite */
 }
 
 .footer-bandeau a:hover {
@@ -178,5 +179,6 @@ Bonne découverte !
 
 <div class="footer-bandeau">
   <img src="images/logoULS.png" alt="Logo ULS" />
-  <a href="12-Contacts/contacts.md">Contacts</a>
+  <a href="/2025-FirefighterArmband/docs/12-Contacts/">Contacts</a>
 </div>
+
