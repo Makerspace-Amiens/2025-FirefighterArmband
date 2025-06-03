@@ -30,4 +30,4 @@ has_children: true
 }
 </style>
 
-<a class="bouton-suivant" href="4-Cahier-des-Charges/cahier-1-1contraintes">Next→</a>
+<a class="bouton-suivant" href="Ideal/cahier-1-1contraintes">Next→</a>
