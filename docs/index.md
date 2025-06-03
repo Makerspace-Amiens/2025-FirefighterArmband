@@ -178,5 +178,5 @@ Bonne découverte !
 
 <div class="footer-bandeau">
   <img src="images/logoULS.png" alt="Logo ULS" />
-  <a href="docs/12-Contacts/contacts.md">Contacts</a>
+  <a href="12-Contacts/contacts.md">Contacts</a>
 </div>
