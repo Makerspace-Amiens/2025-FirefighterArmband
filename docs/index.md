@@ -100,7 +100,6 @@ title: Accueil
 
 <div style="text-align: center;">
 <h2>Accès aux supports</h2>
-<br>
 <p><a href="7-Supports/supports-1poster.md">Voir le poster du projet</a></p>
 <p><a href="7-Supports/supports-6vidéo.md">Regarder la vidéo de présentation</a></p>
 </div>
