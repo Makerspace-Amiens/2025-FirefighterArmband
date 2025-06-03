@@ -29,4 +29,4 @@ title: Remerciements
 }
 </style>
 
-<a class="bouton-suivant" href="10-Conclusion/conclusion">Next→</a>
+<a class="bouton-suivant" href="../10-Conclusion/conclusion">Next→</a>

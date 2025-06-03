@@ -29,4 +29,4 @@ has_children: true
 }
 </style>
 
-<a class="bouton-suivant" href="8-Retour/retour-1JPJ">Next→</a>
+<a class="bouton-suivant" href="../8-Retour/retour-1JPJ">Next→</a>

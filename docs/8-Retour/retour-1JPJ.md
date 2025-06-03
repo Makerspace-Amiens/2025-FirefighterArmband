@@ -29,4 +29,4 @@ nav_order: 1
 }
 </style>
 
-<a class="bouton-suivant" href="8-Retour/retour-2difficultes">Next→</a>
+<a class="bouton-suivant" href="../8-Retour/retour-2difficultes">Next→</a>

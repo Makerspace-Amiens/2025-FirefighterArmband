@@ -29,4 +29,4 @@ title: Conclusion
 }
 </style>
 
-<a class="bouton-suivant" href="11-Premiers-pas-pour-creer-le-site/premiers-pas">Next→</a>
+<a class="bouton-suivant" href="../11-Premiers-pas-pour-creer-le-site/premiers-pas">Next→</a>

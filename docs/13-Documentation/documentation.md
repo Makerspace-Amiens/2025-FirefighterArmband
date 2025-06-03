@@ -28,4 +28,4 @@ title: Documentation
 }
 </style>
 
-<a class="bouton-suivant" href="index">Retour à l'Accueil→</a>
+<a class="bouton-suivant" href="../index">Retour à l'Accueil→</a>

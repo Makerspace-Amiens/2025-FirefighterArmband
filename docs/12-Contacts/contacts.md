@@ -29,4 +29,4 @@ title: Contacts
 }
 </style>
 
-<a class="bouton-suivant" href="13-Documentation/documentation">Next→</a>
+<a class="bouton-suivant" href="../13-Documentation/documentation">Next→</a>

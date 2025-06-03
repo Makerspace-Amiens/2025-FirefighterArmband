@@ -29,4 +29,4 @@ parent: Recherches
 }
 </style>
 
-<a class="bouton-suivant" href="3-Recherches_etudes/etudes-2SDIS">Next→</a>
+<a class="bouton-suivant" href="../3-Recherches_etudes/etudes-2SDIS">Next→</a>
