@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Trello
-parent: Supports
-nav_order: 3
+title: Difficultés rencontrées
+parent: Retour
+nav_order: 2
 ---
-
 
 <style>
 .bouton-suivant {
@@ -27,4 +26,4 @@ nav_order: 3
 }
 </style>
 
-<a class="bouton-suivant" href="7-Supports/supports-4GitHub.md">Next→</a>
+<a class="bouton-suivant" href="8-Retour/retour-3amelio.md">Next→</a>

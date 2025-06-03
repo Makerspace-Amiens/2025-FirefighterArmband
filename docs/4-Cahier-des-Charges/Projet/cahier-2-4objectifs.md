@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Trello
-parent: Supports
-nav_order: 3
+title: Objectifs techniques
+nav_order: 2
+parent: Cahier des Charges Projet
 ---
-
 
 <style>
 .bouton-suivant {
@@ -27,4 +26,4 @@ nav_order: 3
 }
 </style>
 
-<a class="bouton-suivant" href="7-Supports/supports-4GitHub.md">Next→</a>
+<a class="bouton-suivant" href="5-Conception/conception.md">Next→</a>

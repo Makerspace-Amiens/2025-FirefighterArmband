@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Trello
-parent: Supports
-nav_order: 3
+title: SDIS
+nav_order: 2
+parent: Recherches
 ---
 
 
@@ -27,4 +27,4 @@ nav_order: 3
 }
 </style>
 
-<a class="bouton-suivant" href="7-Supports/supports-4GitHub.md">Next→</a>
+<a class="bouton-suivant" href="3-Recherches_études/etudes-3localisation.md">Next→</a>

@@ -1,9 +1,13 @@
 ---
 layout: default
-title: Électronique
-parent: Prototype
-nav_order: 1
+title: Recherches
+nav_order: 3
+has_children: true
 ---
+
+# Recherches et contacts
+
+
 
 <style>
 .bouton-suivant {
@@ -26,4 +30,4 @@ nav_order: 1
 }
 </style>
 
-<a class="bouton-suivant" href="6-Prototype/etapes-2mod_boitier.md">Next→</a>
+<a class="bouton-suivant" href="3-Recherches_études/etudes-1contexte.md">Next→</a>

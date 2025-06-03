@@ -31,3 +31,26 @@ Dans ce repository, Jekyll est utilisé pour créer et gérer la documentation d
 ### Premiers Pas avec Jekyll
 
 Dans la section `docs` de ce repository, vous trouverez des informations et des guides sur la façon de modifier et de créer de nouveaux contenus pour votre documentation Jekyll. Que vous soyez un contributeur expérimenté ou un débutant, ces ressources vous aideront à prendre en main la gestion de votre site Jekyll.
+
+<style>
+.bouton-suivant {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #d62828;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.2);
+  transition: background-color 0.3s ease;
+  z-index: 1000;
+}
+
+.bouton-suivant:hover {
+  background-color: #a61c1c;
+}
+</style>
+
+<a class="bouton-suivant" href="11-Premiers-pas-pour-créer-le-site/premiers-pas-1introduction_git_github.md">Next→</a>

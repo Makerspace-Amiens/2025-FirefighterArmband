@@ -121,6 +121,9 @@ Vous trouverez dans les différentes sections :
 --> **Naviguez via le menu latéral** pour explorer chaque partie du projet.  
 Bonne découverte !
 
+
+<!----------------------------------------------------------------------------->
+
 <style>
 .bouton-suivant {
   position: fixed;
@@ -142,5 +145,38 @@ Bonne découverte !
 }
 </style>
 
-<a class="bouton-suivant" href="2-Objectifs/objectifs.md">Page suivante →</a>
+<a class="bouton-suivant" href="2-Objectifs/objectifs.md">Découverte →</a>
 
+<!----------------------------------------------------------------------------->
+
+<style>
+.footer-bandeau {
+  background-color: #f8d7da; /* rouge pastel */
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 3rem;
+  border-top: 2px solid #d62828;
+  font-weight: bold;
+}
+
+.footer-bandeau img {
+  height: 40px;
+}
+
+.footer-bandeau a {
+  color: #d62828;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer-bandeau a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<div class="footer-bandeau">
+  <img src="images/logoULS.png" alt="Logo ULS" />
+  <a href="docs/12-Contacts/contacts.md">Contacts</a>
+</div>
