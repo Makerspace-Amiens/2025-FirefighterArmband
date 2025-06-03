@@ -36,4 +36,4 @@ Pour un peu plus d'imagination !
 }
 </style>
 
-<a class="bouton-suivant" href="7-Supports/supports-2teams">Next→</a>
+<a class="bouton-suivant" href="../7-Supports/supports-2teams">Next→</a>

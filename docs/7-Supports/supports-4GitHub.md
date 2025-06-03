@@ -30,4 +30,4 @@ nav_order: 4
 }
 </style>
 
-<a class="bouton-suivant" href="7-Supports/supports-5site">Next→</a>
+<a class="bouton-suivant" href="../7-Supports/supports-5site">Next→</a>

@@ -44,4 +44,4 @@ Ici vous publierez la vidéo de votre projet.
 }
 </style>
 
-<a class="bouton-suivant" href="8-Retour/retour">Next→</a>
+<a class="bouton-suivant" href="../8-Retour/retour">Next→</a>

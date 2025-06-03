@@ -69,4 +69,4 @@ L'utilisation de GitHub avec GitHub Desktop et VSCode offre une expérience comp
 }
 </style>
 
-<a class="bouton-suivant" href="11-Premiers-pas-pour-creer-le-site/premiers-pas-2modifier_mon_site">Next→</a>
+<a class="bouton-suivant" href="../11-Premiers-pas-pour-creer-le-site/premiers-pas-2modifier_mon_site">Next→</a>

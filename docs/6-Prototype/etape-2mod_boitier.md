@@ -60,4 +60,4 @@ Une fois cette étape terminée, passez à l'[intégration des composants](/inte
 }
 </style>
 
-<a class="bouton-suivant" href="6-Prototype/etapes-3prog">Next→</a>
+<a class="bouton-suivant" href="../6-Prototype/etapes-3prog">Next→</a>

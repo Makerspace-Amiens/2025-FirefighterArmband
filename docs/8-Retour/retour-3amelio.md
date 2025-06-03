@@ -29,4 +29,4 @@ nav_order: 3
 }
 </style>
 
-<a class="bouton-suivant" href="../../9-Remerciements/remerciements">Next→</a>
+<a class="bouton-suivant" href="../9-Remerciements/remerciements">Next→</a>

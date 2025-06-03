@@ -30,4 +30,4 @@ has_children: true
 }
 </style>
 
-<a class="bouton-suivant" href="7-Supports/supports-1poster">Next→</a>
+<a class="bouton-suivant" href="../7-Supports/supports-1poster">Next→</a>

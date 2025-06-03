@@ -29,4 +29,4 @@ nav_order: 5
 }
 </style>
 
-<a class="bouton-suivant" href="7-Supports/supports-6video">Next→</a>
+<a class="bouton-suivant" href="../7-Supports/supports-6video">Next→</a>

@@ -30,4 +30,4 @@ parent: Conception
 }
 </style>
 
-<a class="bouton-suivant" href="6-Prototype/etapes">Next→</a>
+<a class="bouton-suivant" href="../6-Prototype/etapes">Next→</a>

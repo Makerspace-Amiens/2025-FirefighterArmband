@@ -32,4 +32,4 @@ has_children: true
 }
 </style>
 
-<a class="bouton-suivant" href="5-Conception/conception-1choixmat">Next→</a>
+<a class="bouton-suivant" href="../5-Conception/conception-1choixmat">Next→</a>
