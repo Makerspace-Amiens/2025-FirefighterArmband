@@ -47,4 +47,4 @@ Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auct
 }
 </style>
 
-<a class="bouton-suivant" href="3-Recherches_etudes/etudes">Next→</a>
+<a class="bouton-suivant" href="../3-Recherches_etudes/etudes">Next→</a>
