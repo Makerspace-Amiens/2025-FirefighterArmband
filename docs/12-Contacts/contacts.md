@@ -38,7 +38,7 @@ title: Contacts
   background-color: #f8d7da; /* rouge pastel */
   padding: 1rem 2rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: center; /* centre horizontalement le contenu */
   align-items: center;
   margin-top: 3rem;
   border-top: 2px solid #d62828;
@@ -48,20 +48,8 @@ title: Contacts
 .footer-bandeau img {
   height: 40px;
 }
-
-.footer-bandeau a {
-  color: #d62828;
-  text-decoration: none;
-  font-weight: bold;
-  margin-right: 40px; /* ← ajoute une marge à droite */
-}
-
-.footer-bandeau a:hover {
-  text-decoration: underline;
-}
 </style>
 
 <div class="footer-bandeau">
   <img src="../images/logoULS.png" alt="Logo ULS" />
-  <a href="../12-Contacts/contacts">Contacts</a>
 </div>
