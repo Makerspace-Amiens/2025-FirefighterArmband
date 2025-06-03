@@ -91,11 +91,12 @@ title: Accueil
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
-
+<div style="text-align: center;">
 ## Accès aux supports
 
 - [Voir le poster du projet](7-Supports/supports-1poster.md)
 - [Regarder la vidéo de présentation](7-Supports/supports-6vidéo.md)
+</div>
 
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
@@ -103,11 +104,28 @@ title: Accueil
 ## Structure du site
 
 Vous trouverez dans les différentes sections :
-- Le cahier des charges initial et idéal
-- Les contraintes techniques
-- Le dossier technique (matériel, logiciel)
-- Les tests et prototypes
-- Les supports de présentation (poster, vidéo)
+<div style="max-width: 800px; margin: auto; padding: 1rem; font-size: 1.1em; line-height: 1.8;">
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
+    🔹 Le cahier des charges initial et idéal
+  </li>
+  <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
+    🔹 Les contraintes techniques
+  </li>
+  <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
+    🔹 Le dossier technique (matériel, logiciel)
+  </li>
+  <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
+    🔹 Les tests et prototypes
+  </li>
+  <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
+    🔹 Les supports de présentation (poster, vidéo)
+  </li>
+</ul>
+
+</div>
+
 
 > Ce site vise à fournir une documentation claire, complète et structurée pour comprendre et reproduire le projet dans un cadre professionnel ou pédagogique.
 
@@ -122,9 +140,12 @@ Vous trouverez dans les différentes sections :
 
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
+<br>
 
+<div style="text-align: center;">
 --> **Naviguez via le menu latéral** pour explorer chaque partie du projet.  
 Bonne découverte !
+</div>
 
 
 <!----------------------------------------------------------------------------->
