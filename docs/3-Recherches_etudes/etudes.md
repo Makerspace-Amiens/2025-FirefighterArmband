@@ -32,4 +32,4 @@ has_children: true
 }
 </style>
 
-<a class="bouton-suivant" href="3-Recherches_etudes/etudes-1contexte">Next→</a>
+<a class="bouton-suivant" href="../3-Recherches_etudes/etudes-1contexte">Next→</a>
