@@ -135,15 +135,15 @@ Vous trouverez dans les différentes sections :
 
 <div style="display: flex; justify-content: space-between; gap: 1rem; margin: 2rem 0; text-align: center;">
 <div style="flex: 1; padding: 1rem; border: 2px solid #d62828; border-radius: 12px; background-color: #fdf3f3;">
-  <strong>Aux <br>services de secours</strong><br>
+  <strong>Aux services<br>de secours</strong><br>
   souhaitant intégrer des outils innovants
 </div>
 <div style="flex: 1; padding: 1rem; border: 2px solid #d62828; border-radius: 12px; background-color: #fdf3f3;">
-  <strong>Aux <br>étudiants en ingénierie</strong><br>
+  <strong>Aux étudiants<br>en ingénierie</strong><br>
   intéressés par les projets embarqués
 </div>
 <div style="flex: 1; padding: 1rem; border: 2px solid #d62828; border-radius: 12px; background-color: #fdf3f3;">
-  <strong>Aux <br>makers</strong><br>
+  <strong>Aux makers</strong><br>
   passionnés par l’électronique et la sécurité publique
 </div>
 </div>
@@ -154,8 +154,8 @@ Vous trouverez dans les différentes sections :
 <br>
 
 <div style="text-align: center;">
---> **Naviguez via le menu latéral** pour explorer chaque partie du projet.  
-Bonne découverte !
+--> <strong>Naviguez via le menu latéral</strong> pour explorer chaque partie du projet.  
+<br><strong>Bonne découverte !</strong>
 </div>
 
 
