@@ -63,4 +63,4 @@ En fonction de cette analyse, nous pourrons adapter les meilleures pratiques tou
 }
 </style>
 
-<a class="bouton-suivant" href="../../4-Cahier-des-Charges/cahier">Next→</a>
+<a class="bouton-suivant" href="../4-Cahier-des-Charges/cahier">Next→</a>
