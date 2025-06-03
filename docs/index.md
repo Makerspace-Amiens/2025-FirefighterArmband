@@ -97,7 +97,8 @@ title: Accueil
 - [Voir le poster du projet](7-Supports/supports-1poster.md)
 - [Regarder la vidéo de présentation](7-Supports/supports-6vidéo.md)
 
----
+<br>
+<div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
 ## Structure du site
 
@@ -119,7 +120,8 @@ Vous trouverez dans les différentes sections :
 - Aux **étudiants en ingénierie** intéressés par les projets embarqués
 - Aux **makers** passionnés par l’électronique et la sécurité publique
 
----
+<br>
+<div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
 --> **Naviguez via le menu latéral** pour explorer chaque partie du projet.  
 Bonne découverte !
