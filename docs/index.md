@@ -105,7 +105,6 @@ title: Accueil
 
 Vous trouverez dans les différentes sections :
 <div style="max-width: 800px; margin: auto; padding: 1rem; font-size: 1.1em; line-height: 1.8;">
-
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
     🔹 Le cahier des charges initial et idéal
@@ -134,9 +133,21 @@ Vous trouverez dans les différentes sections :
 
 ## À qui s'adresse ce projet ?
 
-- Aux **services de secours** souhaitant intégrer des outils innovants
-- Aux **étudiants en ingénierie** intéressés par les projets embarqués
-- Aux **makers** passionnés par l’électronique et la sécurité publique
+<div style="display: flex; justify-content: space-between; gap: 1rem; margin: 2rem 0; text-align: center;">
+<div style="flex: 1; padding: 1rem; border: 2px solid #d62828; border-radius: 12px; background-color: #fdf3f3;">
+  <strong>Aux <br>services de secours</strong><br>
+  souhaitant intégrer des outils innovants
+</div>
+<div style="flex: 1; padding: 1rem; border: 2px solid #d62828; border-radius: 12px; background-color: #fdf3f3;">
+  <strong>Aux <br>étudiants en ingénierie</strong><br>
+  intéressés par les projets embarqués
+</div>
+<div style="flex: 1; padding: 1rem; border: 2px solid #d62828; border-radius: 12px; background-color: #fdf3f3;">
+  <strong>Aux <br>makers</strong><br>
+  passionnés par l’électronique et la sécurité publique
+</div>
+</div>
+
 
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
