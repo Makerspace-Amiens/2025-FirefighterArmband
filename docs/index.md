@@ -79,12 +79,16 @@ title: Accueil
 <div class="titre-brassard">Un brassard intelligent au service des pompiers</div>
 
 <div class="bloc-brassard">
-  <br><img src="images/brasprojet.png" alt="Brassard connecté pour pompiers" />
+  <img src="images/brasprojet.png" alt="Brassard connecté pour pompiers" />
   <div class="texte">
   <p><strong>FirefighterArmband</strong> est un projet innovant pensé pour <strong>faciliter les interventions des sapeurs-pompiers</strong>.</p>
-  <p>Notre objectif : leur permettre de <strong>localiser rapidement les points d’eau à proximité</strong>, grâce à un <strong>brassard connecté et autonome</strong>.</p>
   <p>Conçu pour être robuste, intuitif et facilement utilisable sur le terrain, ce dispositif combine <strong>technologie GPS</strong>, <strong>interface minimaliste</strong>, et <strong>ergonomie adaptée aux interventions d'urgence</strong>.</p>
   </div>
+</div>
+<div style="width: 100%; box-sizing: border-box; padding: 1rem; border: 2px solid #d62828; border-radius: 12px; background-color: #fdf3f3; margin: 1rem 0;">
+  <p style="margin: 0; font-size: 1.1rem;">
+    Notre objectif : leur permettre de <strong>localiser rapidement les points d’eau à proximité</strong>, grâce à un <strong>brassard connecté et autonome</strong>.
+  </p>
 </div>
 
 
