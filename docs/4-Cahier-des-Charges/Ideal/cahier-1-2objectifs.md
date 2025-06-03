@@ -29,4 +29,4 @@ parent: Cahier des Charges Idéal
 }
 </style>
 
-<a class="bouton-suivant" href="4-Cahier-des-Charges/cahier-2projet">Next→</a>
+<a class="bouton-suivant" href="../Projet/cahier-2projet">Next→</a>
