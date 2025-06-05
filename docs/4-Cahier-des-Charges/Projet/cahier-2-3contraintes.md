@@ -10,12 +10,14 @@ parent: Cahier des Charges Projet
 ## Techniques
 
 - Composants sélectionnés pour leur disponibilité
-- Résistance aux chocs modérée (boîtier imprimé 3D)
+- Résistance aux chocs modérée (boîtier imprimé en 3D)
 - Pas d'étanchéité certifiée
 - Utilisation de coordonnées fictives
+- Récupération d'une veste de feu et Intégration du brassard
 
 ## Fonctionnelles
 
+- Obtention et réadaptation du logiciel des pompiers
 - Mode direction uniquement (pas de carte interactive)
 - Affichage sur écran tactile 7” (CrowPanel ESP32)
 - Guidage par flèche et distance GPS
@@ -23,7 +25,10 @@ parent: Cahier des Charges Projet
 
 ## Limites
 
+- Délais d'obtention du logiciel et dee la veste de feu par le SDIS
+- Projet partant de rien et nécessitant une grande phase de recherches au préalable (donc moins de temps pour la phase technique)
 - Batterie non certifiée (Li-ion classique)
+- Matériaux courants (non résistants)
 - Absence de test en conditions extrêmes
 - Pas de validation professionnelle
 

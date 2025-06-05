@@ -12,6 +12,7 @@ L’objectif est de proposer un **équipement de localisation embarqué**, utili
 Ce brassard doit permettre de :
 
 - **Réduire les délais d’identification** de points d’eau
+- **Adapter parfaitement le logiciel des pompiers**
 - **Améliorer la réactivité** en situation d’urgence
 - **Assurer un guidage sûr, rapide et robuste**
 - **Limiter les erreurs de localisation**

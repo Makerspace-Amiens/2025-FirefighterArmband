@@ -13,7 +13,8 @@ Ce prototype devait :
 - **Simuler l’usage** avec une interface opérationnelle
 - **Afficher une flèche directionnelle** vers un point GPS
 - **Utiliser de vrais composants embarqués** (GPS, boussole, ESP32)
-- **S’intégrer à une tenue pompier réelle** (testée)
+- **S’intégrer à une tenue pompier réelle** 
+- **Adapter le logiciel des pompiers** pour la localisation des points d'eau
 
 Même si certaines contraintes ne sont pas respectées (IP, batterie…), ce prototype permet une démonstration crédible du concept global.
 

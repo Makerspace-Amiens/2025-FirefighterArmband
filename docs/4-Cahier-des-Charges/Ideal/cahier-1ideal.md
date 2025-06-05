@@ -14,6 +14,7 @@ has_children: true
 Cette version définit le projet tel qu’il aurait été conçu dans un cadre **professionnel** avec :
 
 - Un budget réaliste pour un équipement de terrain
+- Une utilisation concrête avec le logiciel de localisation des points d'eau des pompiers
 - Des **normes de sécurité incendie** respectées
 - Un **fonctionnement 100 % fiable** en intervention réelle
 

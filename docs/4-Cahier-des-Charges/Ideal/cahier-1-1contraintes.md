@@ -9,21 +9,23 @@ parent: Cahier des Charges Idéal
 
 ## Fonctionnelles
 
+- Utilisation et adaptation du logiciel de localisation des points d'eau des pompiers
 - Localisation automatique des points d’eau
 - Mode direction (flèche + distance) et carte interactive
 - Retour utilisateur par vibration/son
 - Ergonomie utilisable avec des gants
+- Intégrer directement dans la manche de la veste de feu
 - Affichage lumineux lisible en fumée / nuit
 - Fonctionnement hors-ligne
 
 ## Techniques
 
-- Résistance thermique élevée
-- Autonomie > 6h
+- Résistance thermique élevée >800°C
+- Autonomie > 6-8h
 - Certification IP68/IP69K
-- Boîtier ignifugé
+- Boîtier ignifugé et poche à scratch de protection de feu
 - Mise à jour Wi-Fi / Bluetooth sécurisée
-- Fixation résistante à l'arrachement
+- Fixation résistante à l'arrachement mais avec un arrachement volontaire d'urgence
 
 ## Sécurité
 
