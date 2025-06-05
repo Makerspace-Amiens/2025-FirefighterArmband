@@ -33,7 +33,7 @@ has_children: true
 }
 </style>
 
-<a class="bouton-suivant" href="../11-Documentation/11-1-Premiers-pas-pour-creer-le-site/premiers-pas.md">Next→</a>
+<a class="bouton-suivant" href="../11-Documentation/11-1-Premiers-pas-pour-creer-le-site/premiers-pas">Next→</a>
 
 <!----------------------------------------------------------------------------->
 
