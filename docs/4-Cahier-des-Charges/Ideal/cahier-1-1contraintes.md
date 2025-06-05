@@ -5,6 +5,32 @@ nav_order: 1
 parent: Cahier des Charges Idéal
 ---
 
+# Contraintes Fonctionnelles et Techniques (Projet idéal)
+
+## Fonctionnelles
+
+- Localisation automatique des points d’eau
+- Mode direction (flèche + distance) et carte interactive
+- Retour utilisateur par vibration/son
+- Ergonomie utilisable avec des gants
+- Affichage lumineux lisible en fumée / nuit
+- Fonctionnement hors-ligne
+
+## Techniques
+
+- Résistance thermique élevée
+- Autonomie > 6h
+- Certification IP68/IP69K
+- Boîtier ignifugé
+- Mise à jour Wi-Fi / Bluetooth sécurisée
+- Fixation résistante à l'arrachement
+
+## Sécurité
+
+- Batterie type **LiFePO4**
+- Étanchéité totale
+- Tests validés par pompiers
+- Matériaux non conducteurs, anti-chocs
 
 <!----------------------------------------------------------------------------->
 

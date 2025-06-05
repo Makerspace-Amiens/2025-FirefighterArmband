@@ -5,6 +5,18 @@ nav_order: 2
 parent: Cahier des Charges Projet
 ---
 
+# Objectif du Prototype
+
+L’objectif du prototype était de **démontrer la faisabilité technique** d’un dispositif embarqué, utilisable par un pompier sur le terrain.
+
+Ce prototype devait :
+- **Simuler l’usage** avec une interface opérationnelle
+- **Afficher une flèche directionnelle** vers un point GPS
+- **Utiliser de vrais composants embarqués** (GPS, boussole, ESP32)
+- **S’intégrer à une tenue pompier réelle** (testée)
+
+Même si certaines contraintes ne sont pas respectées (IP, batterie…), ce prototype permet une démonstration crédible du concept global.
+
 
 <!----------------------------------------------------------------------------->
 

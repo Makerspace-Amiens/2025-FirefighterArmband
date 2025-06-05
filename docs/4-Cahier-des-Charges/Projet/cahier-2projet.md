@@ -6,11 +6,19 @@ parent: Cahier des Charges
 has_children: true
 ---
 
+# Cahier des Charges Réel (Prototype)
 
 <br>
 <div style="border-bottom: 3px solidrgb(148, 38, 38); width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
+Dans le cadre de notre projet pédagogique, nous avons dû adapter la conception à des contraintes concrètes :
 
+- Temps limité à **72h de travail effectif**
+- Budget maximal de **250 €**
+- Matériel accessible et documenté
+- Conception faisable à notre niveau d’étude
+
+Cette version conserve les **principes clés du projet**, tout en étant réalisable avec nos ressources.
 
 <!----------------------------------------------------------------------------->
 

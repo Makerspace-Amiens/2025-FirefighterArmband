@@ -6,11 +6,18 @@ parent: Cahier des Charges
 has_children: true
 ---
 
+# Cahier des Charges Idéal
 
 <br>
 <div style="border-bottom: 3px solidrgb(148, 38, 38); width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
+Cette version définit le projet tel qu’il aurait été conçu dans un cadre **professionnel** avec :
 
+- Un budget réaliste pour un équipement de terrain
+- Des **normes de sécurité incendie** respectées
+- Un **fonctionnement 100 % fiable** en intervention réelle
+
+Les éléments ci-dessous sont à considérer comme **objectifs de référence** pour une éventuelle reprise du projet par un fabricant ou un laboratoire R&D.
 
 <!----------------------------------------------------------------------------->
 

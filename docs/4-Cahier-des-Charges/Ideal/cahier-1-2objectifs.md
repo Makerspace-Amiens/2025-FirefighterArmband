@@ -5,6 +5,19 @@ nav_order: 2
 parent: Cahier des Charges Idéal
 ---
 
+# Objectif du Projet Idéal
+
+L’objectif est de proposer un **équipement de localisation embarqué**, utilisable en toute autonomie par un pompier sur le terrain, sans dépendre de son véhicule ou de la visibilité.
+
+Ce brassard doit permettre de :
+
+- **Réduire les délais d’identification** de points d’eau
+- **Améliorer la réactivité** en situation d’urgence
+- **Assurer un guidage sûr, rapide et robuste**
+- **Limiter les erreurs de localisation**
+
+Ce système pourrait, à terme, être **connecté à un réseau local** pour synchronisation en caserne ou dans les véhicules de commandement.
+
 
 <!----------------------------------------------------------------------------->
 

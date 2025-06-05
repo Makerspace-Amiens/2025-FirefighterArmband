@@ -10,6 +10,15 @@ has_children: true
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
+Cette section présente le **cadrage complet du projet FirefighterArmband**, tel qu'il a été envisagé au départ, puis adapté à notre contexte réel.
+
+Nous avons structuré ce cahier des charges en deux volets :
+
+- **Le projet idéal** : répondant aux normes professionnelles (IP68, LiFePO4, certification feu…)
+- **Le projet prototypé** : pensé pour une démonstration technique dans un cadre pédagogique (72h, 250€, matériel accessible)
+
+Chacune de ces deux visions comporte des contraintes et des objectifs adaptés à son niveau d’ambition.
+
 
 <!----------------------------------------------------------------------------->
 

@@ -5,6 +5,27 @@ nav_order: 1
 parent: Cahier des Charges Projet
 ---
 
+# Contraintes du Prototype Réel
+
+## Techniques
+
+- Composants sélectionnés pour leur disponibilité
+- Résistance aux chocs modérée (boîtier imprimé 3D)
+- Pas d'étanchéité certifiée
+- Utilisation de coordonnées fictives
+
+## Fonctionnelles
+
+- Mode direction uniquement (pas de carte interactive)
+- Affichage sur écran tactile 7” (CrowPanel ESP32)
+- Guidage par flèche et distance GPS
+- Interface utilisable avec gants (testée)
+
+## Limites
+
+- Batterie non certifiée (Li-ion classique)
+- Absence de test en conditions extrêmes
+- Pas de validation professionnelle
 
 <!----------------------------------------------------------------------------->
 
