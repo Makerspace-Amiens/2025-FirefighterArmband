@@ -176,7 +176,7 @@ Si vous souhaitez aller plus loin, vous pouvez vous rendre sur la page de docume
 }
 </style>
 
-<a class="bouton-suivant" href="../11-Premiers-pas-pour-creer-le-site/premiers-pas-4modifier_mon_site_avance">Next→</a>
+<a class="bouton-suivant" href="../11-1-Premiers-pas-pour-creer-le-site/premiers-pas-4modifier_mon_site_avance">Next→</a>
 
 <!----------------------------------------------------------------------------->
 

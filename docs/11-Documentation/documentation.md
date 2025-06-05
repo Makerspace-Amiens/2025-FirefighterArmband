@@ -1,7 +1,8 @@
 ---
 layout: default
-nav_order: 12
-title: Contacts
+nav_order: 11
+title: Documentation
+has_children: true
 ---
 
 
@@ -32,7 +33,7 @@ title: Contacts
 }
 </style>
 
-<a class="bouton-suivant" href="../index">Retour à l'Accueil→</a>
+<a class="bouton-suivant" href="../11-Documentation/11-1-Premiers-pas-pour-creer-le-site/premiers-pas.md">Next→</a>
 
 <!----------------------------------------------------------------------------->
 
@@ -41,7 +42,7 @@ title: Contacts
   background-color: #f8d7da; /* rouge pastel */
   padding: 1rem 2rem;
   display: flex;
-  justify-content: center; /* centre horizontalement le contenu */
+  justify-content: space-between;
   align-items: center;
   margin-top: 3rem;
   border-top: 2px solid #d62828;
@@ -51,8 +52,20 @@ title: Contacts
 .footer-bandeau img {
   height: 40px;
 }
+
+.footer-bandeau a {
+  color: #d62828;
+  text-decoration: none;
+  font-weight: bold;
+  margin-right: 40px; /* ← ajoute une marge à droite */
+}
+
+.footer-bandeau a:hover {
+  text-decoration: underline;
+}
 </style>
 
 <div class="footer-bandeau">
   <img src="../images/logoULS.png" alt="Logo ULS" />
+  <a href="../12-Contacts/contacts">Contacts</a>
 </div>

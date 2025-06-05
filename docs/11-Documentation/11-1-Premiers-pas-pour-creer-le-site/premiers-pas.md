@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Premiers pas vers la création du site
-nav_order: 11
+nav_order: 1
+parent: Documentation
 has_children: true
 ---
 
@@ -60,7 +61,7 @@ Dans la section `docs` de ce repository, vous trouverez des informations et des 
 }
 </style>
 
-<a class="bouton-suivant" href="../11-Premiers-pas-pour-creer-le-site/premiers-pas-1introduction_git_github">Next→</a>
+<a class="bouton-suivant" href="../11-1-Premiers-pas-pour-creer-le-site/premiers-pas-1introduction_git_github">Next→</a>
 
 <!----------------------------------------------------------------------------->
 

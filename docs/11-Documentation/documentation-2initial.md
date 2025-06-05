@@ -1,12 +1,10 @@
 ---
 layout: default
-nav_order: 13
-title: Documentation
+title: Choix des Matériaux
+nav_order: 2
+parent: Documentation
 ---
 
-
-<br>
-<div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
 
 <!----------------------------------------------------------------------------->
@@ -32,7 +30,7 @@ title: Documentation
 }
 </style>
 
-<a class="bouton-suivant" href="../index">Retour à l'Accueil→</a>
+<a class="bouton-suivant" href="../12-Contacts/contacts">Next→</a>
 
 <!----------------------------------------------------------------------------->
 
