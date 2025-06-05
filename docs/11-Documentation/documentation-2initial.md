@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documents Techniques Initiaux de Présentation
+title: Documents Techniques Initiaux de Présentation du Projet
 nav_order: 2
 parent: Documentation
 ---
