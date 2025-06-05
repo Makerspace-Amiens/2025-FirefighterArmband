@@ -171,7 +171,7 @@ Vous trouverez dans les différentes sections :
 <!-- --------------------------------------------------------------------------------- -->
 
 <div style="text-align: center;">
---> <strong>Naviguez via le menu latéral</strong> pour explorer chaque partie du projet.  
+--> <strong>Naviguez via le menu</strong> pour explorer chaque partie du projet.  
 <br><strong>Bonne découverte !</strong>
 </div>
 
