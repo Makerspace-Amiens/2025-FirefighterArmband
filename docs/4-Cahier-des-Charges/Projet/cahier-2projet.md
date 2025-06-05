@@ -13,7 +13,7 @@ has_children: true
 
 Dans le cadre de notre projet pédagogique, nous avons dû adapter la conception à des contraintes concrètes :
 
-- Temps limité à **72h de travail effectif**
+- Temps limité à **75h de travail effectif**
 - Budget maximal de **250 €**
 - Matériel accessible et documenté
 - Conception faisable à notre niveau d’étude

@@ -15,7 +15,7 @@ Cette section présente le **cadrage complet du projet FirefighterArmband**, tel
 Nous avons structuré ce cahier des charges en deux volets :
 
 - **Le projet idéal** : répondant aux normes professionnelles (IP68, LiFePO4, certification feu…)
-- **Le projet prototypé** : pensé pour une démonstration technique dans un cadre pédagogique (72h, 250€, matériel accessible)
+- **Le projet prototypé** : pensé pour une démonstration technique dans un cadre pédagogique (75h, 250€, matériel accessible)
 
 Chacune de ces deux visions comporte des contraintes et des objectifs adaptés à son niveau d’ambition.
 
