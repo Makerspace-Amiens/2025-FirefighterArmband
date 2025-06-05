@@ -5,11 +5,20 @@ title: Conception
 has_children: true
 ---
 
-# Conception 
+# Conception du Projet
 
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
+La phase de conception a été structurée autour des contraintes de notre prototype réel : **temps limité**, **budget réduit**, **matériel disponible** et **niveau technique maîtrisé**.
+
+Nous avons privilégié la simplicité, la fiabilité et la cohérence fonctionnelle, tout en nous assurant que chaque choix réponde aux usages réels des pompiers sur le terrain.
+
+Cette section présente successivement :
+
+- Le choix des matériaux pour la structure du brassard
+- La sélection des composants électroniques embarqués
+- La stratégie d’achat et les fournisseurs mobilisés
 
 <!----------------------------------------------------------------------------->
 

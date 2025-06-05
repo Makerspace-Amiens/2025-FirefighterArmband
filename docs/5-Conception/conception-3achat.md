@@ -5,6 +5,32 @@ nav_order: 3
 parent: Conception
 ---
 
+# Approvisionnement et Budget
+
+## Objectif
+
+Rester sous un budget de **250 € TTC**, frais de port compris, pour l’ensemble du prototype.
+
+## Dépenses par catégorie
+
+| Élément | Détail | Coût approximatif |
+|--------|--------|-------------------|
+| ESP32-S3 CrowPanel 7” | Wi-Fi, BLE, écran intégré | ~110 € |
+| Module GPS TEL0094 | Compatible ESP32 | ~25 € |
+| Module Boussole Grove V2 | Orientation | ~15 € |
+| Batterie Li-ion 3.7V + câbles | Alimentation | ~20 € |
+| Matériaux impression 3D | PLA + mousse | ~25 € |
+| Connectique divers (Grove, câbles, etc.) | Tests et montage | ~15 € |
+| **Total estimé** |  | **~210 €** |
+
+## Fournisseurs
+
+- **DFRobot** : GPS, boussole Grove, connectique
+- **Mouser / Digikey** : composants électroniques
+- **Amazon / Aliexpress** : éléments standards, câbles
+- **Fablab / imprimante perso** : impression 3D en interne
+
+> Nous avons conservé une **marge de 40 €** pour pallier d’éventuels imprévus (batterie défectueuse, connectique supplémentaire…).
 
 
 <!----------------------------------------------------------------------------->

@@ -5,6 +5,34 @@ nav_order: 2
 parent: Conception
 ---
 
+# Composants Électroniques
+
+## Objectif
+
+Rassembler les composants nécessaires pour assurer les trois fonctions essentielles du prototype :
+- Acquisition de position GPS
+- Orientation via boussole
+- Affichage graphique clair et interactif
+
+## Liste des composants
+
+| Composant | Référence | Fonction |
+|----------|------------|----------|
+| Microcontrôleur | **ESP32-S3 CrowPanel** | Affichage, GPS, gestion interface |
+| Écran | intégré (7” tactile) | Interface utilisateur principale |
+| GPS | **Module TEL0094** | Localisation des points d’eau |
+| Boussole | **Grove 3-Axis Compass V2** | Orientation / calcul direction |
+| Batterie | 3.7V Li-ion | Alimentation autonome (usage ponctuel) |
+| Divers | Câbles, connecteurs Grove | Intégration simple, fiable et modulaire |
+
+## Justification des choix
+
+- **ESP32-S3 CrowPanel** : puissant, compatible Arduino/Micropython, écran intégré
+- **Connecteurs Grove** : simplifient le câblage, réduisent les erreurs
+- **Modules compatibles entre eux**, testés dans des projets similaires
+
+> Tous les composants ont été choisis pour leur **compatibilité logicielle**, leur **disponibilité** et leur **coût maîtrisé**.
+
 
 <!----------------------------------------------------------------------------->
 
