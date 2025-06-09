@@ -16,9 +16,19 @@ Nous avons privilégié la simplicité, la fiabilité et la cohérence fonctionn
 
 Cette section présente successivement :
 
-- Le choix des matériaux pour la structure du brassard
-- La sélection des composants électroniques embarqués
-- La stratégie d’achat et les fournisseurs mobilisés
+<div style="max-width: 800px; margin: auto; padding: 1rem; font-size: 1.1em; line-height: 1.8;">
+<ul style="list-style-type: none; padding-left: 0;">
+  <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
+    - Le choix des matériaux pour la structure du brassard
+  </li>
+  <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
+    - La sélection des composants électroniques embarqués
+  </li>
+  <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
+    - La stratégie d’achat et les fournisseurs mobilisés
+  </li>
+</ul>
+</div>
 
 <!----------------------------------------------------------------------------->
 

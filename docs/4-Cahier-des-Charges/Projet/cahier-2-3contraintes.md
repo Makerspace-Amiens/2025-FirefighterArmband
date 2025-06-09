@@ -37,7 +37,7 @@ parent: Cahier des Charges Projet
 
 ## <span style="color:#d62828;">Limites</span>
 
-<div style="background-color:#fff7f7; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
+<div style="background-color:#fff7f7; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px;">
 
 - Délais d'obtention du logiciel et dee la veste de feu par le SDIS<br>
 - Projet partant de rien et nécessitant une grande phase de recherches au préalable (donc moins de temps pour la phase technique)<br>

@@ -9,20 +9,39 @@ parent: Conception
 
 ## <span style="color:#d62828;">Objectif</span>
 
-Créer une enveloppe protectrice pour l’ensemble des composants, intégrable à une tenue pompier, sans viser une certification anti-feu.
+Sélectionner des matériaux simples, accessibles et compatibles avec notre environnement de test, tout en anticipant une future intégration dans une **tenue de pompier réelle**.  
+L’enveloppe devait protéger efficacement l’électronique embarquée, sans viser la certification feu à ce stade du projet.
+
+---
 
 ## <span style="color:#d62828;">Matériaux retenus</span>
 
-- **PLA renforcé (impression 3D)** : léger, facilement modélisable, imprimable rapidement.
-- **Mousse dense** (pour isolation interne) : atténue les vibrations et protège les composants.
-- **Velcro + sangle** : pour fixer le boîtier sur la manche ou l’avant-bras.
-- **Film plastique transparent** : pour protéger l’écran tout en restant tactile.
+<div style="background-color:#f0f0f0; padding: 1rem 1.5rem; border-radius: 6px; margin-bottom: 1.5rem;">
 
-## <span style="color:#d62828;">Critères de sélection</span>
+- <strong>Boîtier en PLA</strong> (impression 3D) : utilisé pour le prototype. Léger, facilement imprimable. Structure provisoire en attente d’intégration finale sur tenue. <br>
 
-- Facilité d’usinage ou d'impression
-- Résistance mécanique suffisante pour les tests
-- Adaptabilité à la tenue réelle (testée avec une veste pompier prêtée)
+- <strong>Verre trempé transparent</strong> : protège l’écran tout en assurant lisibilité et utilisation avec des gants.<br>
+
+- <strong>Mousse de calage interne</strong> : amortit les vibrations et protège les composants internes.<br>
+
+- <strong>Système de fixation par inserts métalliques</strong> : permet d’ouvrir et refermer le boîtier proprement, en assurant sa robustesse.<br>
+
+- <strong>Poche à scratch (prévue)</strong> : inspirée des poches ignifugées des tenues de feu. Non intégrée faute de temps, mais testée et validée comme solution d’intégration future.<br>
+
+</div>
+
+---
+
+<div style="background-color:#fff7f7; padding: 1rem 1.5rem; border-radius: 6px;">
+
+- **Compatibilité avec la tenue de feu** : tests réalisés avec une veste réelle, prêtée par un pompier professionnel.
+- **Facilité de fabrication** : impression 3D, assemblage standard, découpe manuelle réalisable dans un Fablab.
+- **Solidité suffisante** : bon compromis entre rigidité, légèreté et coût.
+- **Évolutivité** : le boîtier et ses composants peuvent être intégrés dans un dispositif ignifugé dans une version avancée.
+
+</div>
+
+---
 
 > À noter : ces matériaux ne sont **pas certifiés feu**, mais ont été choisis pour une démonstration fonctionnelle cohérente avec l’environnement ciblé.
 
