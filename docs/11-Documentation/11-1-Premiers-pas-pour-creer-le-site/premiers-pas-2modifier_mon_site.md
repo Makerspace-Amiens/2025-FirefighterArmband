@@ -102,6 +102,6 @@ Ce guide est destiné à aider les utilisateurs débutants avec GitHub et Jekyll
 </style>
 
 <div class="footer-bandeau">
-  <img src="../images/logoULS.png" alt="Logo ULS" />
-  <a href="../12-Contacts/contacts">Contacts</a>
+  <img src="../../images/logoULS.png" alt="Logo ULS" />
+  <a href="../../12-Contacts/contacts">Contacts</a>
 </div>

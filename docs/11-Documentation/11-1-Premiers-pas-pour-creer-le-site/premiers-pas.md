@@ -94,6 +94,6 @@ Dans la section `docs` de ce repository, vous trouverez des informations et des 
 </style>
 
 <div class="footer-bandeau">
-  <img src="../images/logoULS.png" alt="Logo ULS" />
-  <a href="../12-Contacts/contacts">Contacts</a>
+  <img src="../../images/logoULS.png" alt="Logo ULS" />
+  <a href="../../12-Contacts/contacts">Contacts</a>
 </div>
