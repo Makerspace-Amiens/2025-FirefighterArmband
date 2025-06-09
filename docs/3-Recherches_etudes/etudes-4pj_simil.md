@@ -9,24 +9,22 @@ parent: Recherches
 
 Avant de démarrer la conception, une analyse approfondie des projets existants a été réalisée afin de s’inspirer des bonnes pratiques, identifier les défis courants et orienter le développement du **FirefighterArmband**.
 
----
 
 ## <span style="color:#d62828;">Méthodologie de Recherche</span>
 
 <div style="background-color:#f9f9f9; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
 
 1. <strong>Identification des projets pertinents</strong>  
-   Recherche de brassards électroniques industriels (logistique, santé) et de solutions mobiles de localisation GPS.
+   Recherche de brassards électroniques industriels (logistique, santé) et de solutions mobiles de localisation GPS. <br>
 
 2. <strong>Analyse des fonctionnalités clés</strong>  
-   Étude des technologies de communication, des matériaux utilisés, de l’ergonomie, et des interfaces utilisateur.
+   Étude des technologies de communication, des matériaux utilisés, de l’ergonomie, et des interfaces utilisateur. <br>
 
 3. <strong>Comparaison des contraintes et des solutions adoptées</strong>  
    Focus sur l’autonomie, la robustesse, la résistance aux environnements extrêmes, et les normes de protection.
 
 </div>
 
----
 
 ## <span style="color:#d62828;">Exemples étudiés</span>
 
@@ -54,37 +52,39 @@ Support de poignet pour appareil professionnel. Fixation fiable, mais pas de sys
 
 ### <u>Applications de localisation des points d’eau</u>
 
-<div style="background-color:#eef3f7; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
+<div style="background-color:#f0f0f0; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
 <strong>🔹 FreeTaps</strong><br/>
 <a href="https://freetaps.earth" target="_blank">Site officiel</a><br/>
 Application communautaire pour localiser les points d’eau publics. Carte interactive simple. Non adaptée à un usage pompier.
 </div>
 
-<div style="background-color:#eef3f7; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
+<div style="background-color:#f0f0f0; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
 <strong>🔹 Owater</strong><br/>
 <a href="https://www.owater.fr" target="_blank">Site officiel</a><br/>
 Application similaire avec interface moderne. Utile pour le grand public, non prévue pour un fonctionnement hors-ligne ou en conditions extrêmes.
 </div>
 
+---
 
 ### <u>Projets open source ou universitaires</u>
 
-<div style="background-color:#f6f0ff; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
+<div style="background-color:#f0f0f0; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
 <strong>🔹 Firefighter Finder GPS (GitHub)</strong><br/>
 <a href="https://github.com/lukeskywokka/firefighterFinderGPS.git" target="_blank">Voir le projet GitHub</a><br/>
 Projet universitaire avec guidage GPS vers un point fixe. Concept proche, sans boîtier terrain ni écran avancé.
 </div>
 
-<div style="background-color:#f6f0ff; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
+<div style="background-color:#f0f0f0; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
 <strong>🔹 Vidéo de présentation</strong><br/>
 *Firefighter Finder – SJSU Spring 2019 CMPE Demo* (YouTube)<br/>
 Démonstration du projet, utile pour comparer la logique de guidage. Limité au niveau matériel.
 </div>
 
+---
 
 ### <u>Solution professionnelle – DECI Escort CR+</u>
 
-<div style="background-color:#fff7eb; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
+<div style="background-color:#f0f0f0; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
 <strong>🔹 DECI Escort CR+ – Berger-Levrault</strong><br/>
 <a href="https://www.berger-levrault.com/fr/produit/escort-cr-points-deau/" target="_blank">Site du produit</a><br/>
 Logiciel professionnel pour la gestion des points d’eau incendie (cartographie + inventaire). Réservé aux SDIS, non portable.
