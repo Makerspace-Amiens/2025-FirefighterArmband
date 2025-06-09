@@ -13,10 +13,45 @@ has_children: true
 
 Dans le cadre de notre projet pédagogique, nous avons dû adapter la conception à des contraintes concrètes :
 
-- Temps limité à **75h de travail effectif**
-- Budget maximal de **250 €**
-- Matériel accessible et documenté
-- Conception faisable à notre niveau d’étude
+<div class="objectifs-carre">
+
+  <div class="bulle">
+    <p>Temps limité à<br><strong>75h de travail effectif</strong></p>
+  </div>
+
+  <div class="bulle">
+    <p>Budget maximal de<br><strong>250 €</strong></p>
+  </div>
+
+  <div class="bulle">
+    <p><strong>Matériel accessible</strong><br>et documenté</p>
+  </div>
+
+  <div class="bulle">
+    <p><strong>Conception faisable</strong><br>à notre niveau d’étude</p>
+  </div>
+
+</div>
+
+<style>
+.objectifs-carre {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(220px, 1fr));
+  gap: 20px;
+  justify-content: center;
+  margin: 2rem auto;
+  max-width: 700px;
+}
+.bulle {
+  background-color: #f7f7f7;
+  padding: 1.2rem;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  font-size: 0.95em;
+  font-weight: 500;
+}
+</style>
 
 Cette version conserve les **principes clés du projet**, tout en étant réalisable avec nos ressources.
 

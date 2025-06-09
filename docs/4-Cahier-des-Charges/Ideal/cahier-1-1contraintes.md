@@ -7,32 +7,48 @@ parent: Cahier des Charges Idéal
 
 # Contraintes Fonctionnelles et Techniques (Projet idéal)
 
-##  <span style="color:#d62828;">Fonctionnelles</span>
+## <span style="color:#d62828;">Fonctionnelles</span>
 
-- Utilisation et adaptation du logiciel de localisation des points d'eau des pompiers
-- Localisation automatique des points d’eau
-- Mode direction (flèche + distance) et carte interactive
-- Retour utilisateur par vibration/son
-- Ergonomie utilisable avec des gants
-- Intégrer directement dans la manche de la veste de feu
-- Affichage lumineux lisible en fumée / nuit
-- Fonctionnement hors-ligne
+<div style="background-color:#f9f9f9; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
+
+- Utilisation et adaptation du logiciel de localisation des points d'eau des pompiers  
+- Localisation automatique des points d’eau  
+- Mode direction (flèche + distance) et carte interactive  
+- Retour utilisateur par vibration/son  
+- Ergonomie utilisable avec des gants  
+- Intégrer directement dans la manche de la veste de feu  
+- Affichage lumineux lisible en fumée / nuit  
+- Fonctionnement hors-ligne  
+
+</div>
+
+---
 
 ## <span style="color:#d62828;">Techniques</span>
 
-- Résistance thermique élevée >800°C
-- Autonomie > 6-8h
-- Certification IP68/IP69K
-- Boîtier ignifugé et poche à scratch de protection de feu
-- Mise à jour Wi-Fi / Bluetooth sécurisée
-- Fixation résistante à l'arrachement mais avec un arrachement volontaire d'urgence
+<div style="background-color:#f0f0f0; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
+
+- Résistance thermique élevée >800°C  
+- Autonomie > 6–8h  
+- Certification IP68/IP69K  
+- Boîtier ignifugé et poche à scratch de protection de feu  
+- Mise à jour Wi-Fi / Bluetooth sécurisée  
+- Fixation résistante à l'arrachement mais avec un arrachement volontaire d'urgence  
+
+</div>
+
+---
 
 ## <span style="color:#d62828;">Sécurité</span>
 
-- Batterie type **LiFePO4**
-- Étanchéité totale
-- Tests validés par pompiers
-- Matériaux non conducteurs, anti-chocs
+<div style="background-color:#fff7f7; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px;">
+
+- Batterie type **LiFePO4**  
+- Étanchéité totale  
+- Tests validés par pompiers  
+- Matériaux non conducteurs, anti-chocs  
+
+</div>
 
 <!----------------------------------------------------------------------------->
 

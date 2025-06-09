@@ -14,8 +14,52 @@ Cette section présente le **cadrage complet du projet FirefighterArmband**, tel
 
 Nous avons structuré ce cahier des charges en deux volets :
 
-- **Le projet idéal** : répondant aux normes professionnelles (IP68, LiFePO4, certification feu…)
-- **Le projet prototypé** : pensé pour une démonstration technique dans un cadre pédagogique (75h, 250€, matériel accessible)
+<div class="comparaison-container">
+
+  <div class="bloc-comparaison">
+    <h3>Projet Idéal</h3>
+    <p><strong>Répondant aux normes professionnelles</strong><br/>
+    IP68, batterie LiFePO₄, matériaux ignifugés, certification feu…</p>
+  </div>
+
+  <div class="fleche-double">⇄</div>
+
+  <div class="bloc-comparaison">
+    <h3>Projet Prototypé</h3>
+    <p><strong>Démonstration technique pédagogique</strong><br/>
+    Réalisé en 75h avec un budget de 250 €, composants disponibles et non certifiés.</p>
+  </div>
+
+</div>
+
+<style>
+.comparaison-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  margin: 2rem 0;
+  flex-wrap: wrap;
+}
+.bloc-comparaison {
+  background-color: #f7f7f7;
+  padding: 1.5rem;
+  border-radius: 12px;
+  width: 280px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-align: center;
+}
+.bloc-comparaison h3 {
+  margin-top: 0;
+  color: #d62828;
+}
+.fleche-double {
+  font-size: 2.2rem;
+  font-weight: bold;
+  color: #333;
+}
+</style>
+
 
 Chacune de ces deux visions comporte des contraintes et des objectifs adaptés à son niveau d’ambition.
 

@@ -13,10 +13,35 @@ has_children: true
 
 Cette version définit le projet tel qu’il aurait été conçu dans un cadre **professionnel** avec :
 
-- Un budget réaliste pour un équipement de terrain
-- Une utilisation concrête avec le logiciel de localisation des points d'eau des pompiers
-- Des **normes de sécurité incendie** respectées
-- Un **fonctionnement 100 % fiable** en intervention réelle
+<div class="objectifs-carre">
+
+  <div class="bulle"><p><strong>Budget réaliste</strong><br>pour un équipement de terrain</p></div>
+  <div class="bulle"><p><strong>Utilisation concrète</strong><br>du logiciel des pompiers</p></div>
+  <div class="bulle"><p><strong>Normes de sécurité</strong><br>incendie respectées</p></div>
+  <div class="bulle"><p><strong>Fiabilité à 100 %</strong><br>en intervention réelle</p></div>
+
+</div>
+
+<style>
+.objectifs-carre {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(220px, 1fr));
+  gap: 20px;
+  justify-content: center;
+  margin: 2rem auto;
+  max-width: 700px;
+}
+.bulle {
+  background-color: #f7f7f7;
+  padding: 1.2rem;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  font-size: 0.95em;
+  font-weight: 500;
+}
+</style>
+
 
 Les éléments ci-dessous sont à considérer comme **objectifs de référence** pour une éventuelle reprise du projet par un fabricant ou un laboratoire R&D.
 

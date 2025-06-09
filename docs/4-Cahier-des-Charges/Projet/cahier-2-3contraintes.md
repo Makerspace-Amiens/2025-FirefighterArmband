@@ -9,28 +9,45 @@ parent: Cahier des Charges Projet
 
 ## <span style="color:#d62828;">Techniques</span>
 
+<div style="background-color:#f0f0f0; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
+
 - Composants sélectionnés pour leur disponibilité
 - Résistance aux chocs modérée (boîtier imprimé en 3D)
 - Pas d'étanchéité certifiée
 - Utilisation de coordonnées fictives
-- Récupération d'une veste de feu et Intégration du brassard
+- Récupération d'une veste de feu et Intégration du brassard 
+
+</div>
+
+---
 
 ## <span style="color:#d62828;">Fonctionnelles</span>
+
+<div style="background-color:#f0f0f0; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
 
 - Obtention et réadaptation du logiciel des pompiers
 - Mode direction uniquement (pas de carte interactive)
 - Affichage sur écran tactile 7” (CrowPanel ESP32)
 - Guidage par flèche et distance GPS
-- Interface utilisable avec gants (testée)
+- Interface utilisable avec gants (testée) 
+
+</div>
+
+---
 
 ## <span style="color:#d62828;">Limites</span>
+
+<div style="background-color:#f0f0f0; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
 
 - Délais d'obtention du logiciel et dee la veste de feu par le SDIS
 - Projet partant de rien et nécessitant une grande phase de recherches au préalable (donc moins de temps pour la phase technique)
 - Batterie non certifiée (Li-ion classique)
 - Matériaux courants (non résistants)
 - Absence de test en conditions extrêmes
-- Pas de validation professionnelle
+- Pas de validation professionnelle 
+
+</div>
+
 
 <!----------------------------------------------------------------------------->
 
