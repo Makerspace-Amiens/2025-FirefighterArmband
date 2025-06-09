@@ -27,19 +27,19 @@ nav_order: 12
 
 <!-- Max -->
 <div class="team-member">
-  <img src="../assets/img/photo_max.png" alt="Max Mallevays">
+  <img src="photo_max.png" alt="Max Mallevays">
   <p><a href="javascript:void(0);" onclick="openModal('modal-max')">Max Mallevays</a></p>
 </div>
 
 <!-- Roméo -->
 <div class="team-member">
-  <img src="../assets/img/photo_romeo.jpg" alt="Roméo Smagghe">
+  <img src="photo_romeo.jpg" alt="Roméo Smagghe">
   <p><a href="javascript:void(0);" onclick="openModal('modal-romeo')">Roméo Smagghe</a></p>
 </div>
 
 <!-- Iléana -->
 <div class="team-member">
-  <img src="../assets/img/photo_ile.jpg" alt="Iléana Laurent">
+  <img src="photo_ile.jpg" alt="Iléana Laurent">
   <p><a href="javascript:void(0);" onclick="openModal('modal-ileana')">Iléana Laurent</a></p>
 </div>
 
@@ -53,13 +53,13 @@ nav_order: 12
 
 <!-- Adrien -->
 <div class="team-member">
-  <img src="../assets/img/photo_adrien.jpg" alt="Adrien Bracq">
+  <img src="img/photo_adrien.jpg" alt="Adrien Bracq">
   <p><a href="javascript:void(0);" onclick="openModal('modal-adrien')">Adrien Bracq</a></p>
 </div>
 
 <!-- Rémi -->
 <div class="team-member">
-  <img src="../assets/img/photo_remi.jpg" alt="Rémi Lacombe">
+  <img src="photo_remi.jpg" alt="Rémi Lacombe">
   <p><a href="javascript:void(0);" onclick="openModal('modal-remi')">Rémi Lacombe</a></p>
 </div>
 
