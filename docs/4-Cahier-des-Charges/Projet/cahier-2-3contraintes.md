@@ -11,11 +11,11 @@ parent: Cahier des Charges Projet
 
 <div style="background-color:#f0f0f0; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
 
-- Composants sélectionnés pour leur disponibilité
-- Résistance aux chocs modérée (boîtier imprimé en 3D)
-- Pas d'étanchéité certifiée
-- Utilisation de coordonnées fictives
-- Récupération d'une veste de feu et Intégration du brassard 
+- Composants sélectionnés pour leur disponibilité <br>
+- Résistance aux chocs modérée (boîtier imprimé en 3D)<br>
+- Pas d'étanchéité certifiée<br>
+- Utilisation de coordonnées fictives<br>
+- Récupération d'une veste de feu et Intégration du brassard <br>
 
 </div>
 
@@ -25,11 +25,11 @@ parent: Cahier des Charges Projet
 
 <div style="background-color:#f0f0f0; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
 
-- Obtention et réadaptation du logiciel des pompiers
-- Mode direction uniquement (pas de carte interactive)
-- Affichage sur écran tactile 7” (CrowPanel ESP32)
-- Guidage par flèche et distance GPS
-- Interface utilisable avec gants (testée) 
+- Obtention et réadaptation du logiciel des pompiers<br>
+- Mode direction uniquement (pas de carte interactive)<br>
+- Affichage sur écran tactile 7” (CrowPanel ESP32)<br>
+- Guidage par flèche et distance GPS<br>
+- Interface utilisable avec gants (testée) <br>
 
 </div>
 
@@ -37,14 +37,14 @@ parent: Cahier des Charges Projet
 
 ## <span style="color:#d62828;">Limites</span>
 
-<div style="background-color:#f0f0f0; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
+<div style="background-color:#fff7f7; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
 
-- Délais d'obtention du logiciel et dee la veste de feu par le SDIS
-- Projet partant de rien et nécessitant une grande phase de recherches au préalable (donc moins de temps pour la phase technique)
-- Batterie non certifiée (Li-ion classique)
-- Matériaux courants (non résistants)
-- Absence de test en conditions extrêmes
-- Pas de validation professionnelle 
+- Délais d'obtention du logiciel et dee la veste de feu par le SDIS<br>
+- Projet partant de rien et nécessitant une grande phase de recherches au préalable (donc moins de temps pour la phase technique)<br>
+- Batterie non certifiée (Li-ion classique)<br>
+- Matériaux courants (non résistants)<br>
+- Absence de test en conditions extrêmes<br>
+- Pas de validation professionnelle <br>
 
 </div>
 

@@ -9,16 +9,16 @@ parent: Cahier des Charges Idéal
 
 ## <span style="color:#d62828;">Fonctionnelles</span>
 
-<div style="background-color:#f9f9f9; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
+<div style="background-color:#f0f0f0; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
 
-- Utilisation et adaptation du logiciel de localisation des points d'eau des pompiers  
-- Localisation automatique des points d’eau  
-- Mode direction (flèche + distance) et carte interactive  
-- Retour utilisateur par vibration/son  
-- Ergonomie utilisable avec des gants  
-- Intégrer directement dans la manche de la veste de feu  
-- Affichage lumineux lisible en fumée / nuit  
-- Fonctionnement hors-ligne  
+- Utilisation et adaptation du logiciel de localisation des points d'eau des pompiers  <br>
+- Localisation automatique des points d’eau  <br>
+- Mode direction (flèche + distance) et carte interactive  <br>
+- Retour utilisateur par vibration/son  <br>
+- Ergonomie utilisable avec des gants  <br>
+- Intégrer directement dans la manche de la veste de feu  <br>
+- Affichage lumineux lisible en fumée / nuit  <br>
+- Fonctionnement hors-ligne  <br>
 
 </div>
 
@@ -28,12 +28,12 @@ parent: Cahier des Charges Idéal
 
 <div style="background-color:#f0f0f0; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
 
-- Résistance thermique élevée >800°C  
-- Autonomie > 6–8h  
-- Certification IP68/IP69K  
-- Boîtier ignifugé et poche à scratch de protection de feu  
-- Mise à jour Wi-Fi / Bluetooth sécurisée  
-- Fixation résistante à l'arrachement mais avec un arrachement volontaire d'urgence  
+- Résistance thermique élevée >800°C  <br>
+- Autonomie > 6–8h  <br>
+- Certification IP68/IP69K  <br>
+- Boîtier ignifugé et poche à scratch de protection de feu  <br>
+- Mise à jour Wi-Fi / Bluetooth sécurisée  <br>
+- Fixation résistante à l'arrachement mais avec un arrachement volontaire d'urgence  <br>
 
 </div>
 
@@ -43,10 +43,10 @@ parent: Cahier des Charges Idéal
 
 <div style="background-color:#fff7f7; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px;">
 
-- Batterie type **LiFePO4**  
-- Étanchéité totale  
-- Tests validés par pompiers  
-- Matériaux non conducteurs, anti-chocs  
+- Batterie type **LiFePO4**  <br>
+- Étanchéité totale  <br>
+- Tests validés par pompiers  <br>
+- Matériaux non conducteurs, anti-chocs  <br>
 
 </div>
 
