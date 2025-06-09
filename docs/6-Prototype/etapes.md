@@ -15,19 +15,19 @@ Cette section présente les différentes étapes de conception du prototype, div
 <style>
 .triangle-wrapper {
   position: relative;
-  width: 500px;
-  height: 420px;
+  width: 550px;
+  height: 470px;
   margin: 3rem auto;
 }
 
 .bubble {
   position: absolute;
-  width: 180px;
-  height: 120px;
+  width: 220px;
+  height: 140px;
   background-color: #fff7f7;
   border: 2px solid #d62828;
   border-radius: 12px;
-  padding: 1rem;
+  padding: 1.2rem;
   box-sizing: border-box;
   text-align: center;
   font-weight: bold;
@@ -75,14 +75,11 @@ Cette section présente les différentes étapes de conception du prototype, div
     Programmation du brassard<br><small>Architecture, contraintes, affichage…</small>
   </div>
 
-  <!-- Lignes courbes SVG (partent en dessous/au-dessus des bulles) -->
-  <svg class="svg-lines" width="500" height="420">
-    <!-- De bulle 1 vers centre -->
-    <path d="M 250 120 Q 250 220 250 220" stroke="#6a040f" stroke-width="2" fill="none" />
-    <!-- De bulle 2 vers centre -->
-    <path d="M 90 300 Q 250 250 250 220" stroke="#6a040f" stroke-width="2" fill="none" />
-    <!-- De bulle 3 vers centre -->
-    <path d="M 410 300 Q 250 250 250 220" stroke="#6a040f" stroke-width="2" fill="none" />
+  <!-- Lignes courbes SVG -->
+  <svg class="svg-lines" width="550" height="470">
+    <path d="M 275 140 Q 275 250 275 250" stroke="#6a040f" stroke-width="2" fill="none" />
+    <path d="M 110 330 Q 275 270 275 250" stroke="#6a040f" stroke-width="2" fill="none" />
+    <path d="M 440 330 Q 275 270 275 250" stroke="#6a040f" stroke-width="2" fill="none" />
   </svg>
 
 </div>
