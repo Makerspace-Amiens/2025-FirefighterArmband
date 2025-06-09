@@ -5,33 +5,96 @@ nav_order: 6
 has_children: true
 ---
 
-
+# Prototype et Étapes de Fabrication
 
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
+Cette section présente les différentes étapes de conception du prototype, divisées en trois volets principaux :
 
-# Étapes de Fabrication
+<style>
+.triangle-container {
+  position: relative;
+  width: 400px;
+  height: 360px;
+  margin: 2rem auto;
+}
 
-Bienvenue dans la section dédiée aux étapes de fabrication du projet XYZ. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
+.bubble {
+  position: absolute;
+  width: 150px;
+  padding: 1rem;
+  background-color: #fefefe;
+  border: 2px solid #d62828;
+  border-radius: 1rem;
+  text-align: center;
+  font-weight: bold;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
 
-## <span style="color:#d62828;">Aperçu des Étapes</span>
+#bubble1 {
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+#bubble2 {
+  bottom: 0;
+  left: 0;
+}
+#bubble3 {
+  bottom: 0;
+  right: 0;
+}
 
-Le processus de fabrication est divisé en plusieurs étapes clés :
+.arrow {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  border: 2px solid transparent;
+  border-top-color: #6a040f;
+  border-left-color: #6a040f;
+  border-radius: 50%;
+  transform: rotate(45deg);
+}
 
-1. [Préparation des Matériaux](etape_1)
-2. [Assemblage](etape_2)
-3. [Finition]()
-4. [Contrôle Qualité]()
+#arrow1 {
+  top: 60px;
+  left: 145px;
+  transform: rotate(225deg);
+}
+#arrow2 {
+  bottom: 95px;
+  left: 30px;
+  transform: rotate(315deg);
+}
+#arrow3 {
+  bottom: 95px;
+  right: 30px;
+  transform: rotate(135deg);
+}
+</style>
 
-## <span style="color:#d62828;">Commencer</span>
+<div class="triangle-container">
+  <div class="bubble" id="bubble1">
+    Électronique<br>
+    <small>Choix des composants, schémas, alimentation…</small>
+  </div>
+  <div class="bubble" id="bubble2">
+    Modélisation d’un boîtier<br>
+    <small>Conception, impression 3D, ergonomie…</small>
+  </div>
+  <div class="bubble" id="bubble3">
+    Programmation du brassard<br>
+    <small>Architecture logicielle, affichage, contraintes…</small>
+  </div>
 
-Pour commencer, assurez-vous de bien comprendre chaque étape et de disposer de tous les outils et matériaux nécessaires. Suivez les étapes dans l'ordre pour garantir la qualité et l'efficacité du processus de fabrication.
+  <div class="arrow" id="arrow1"></div>
+  <div class="arrow" id="arrow2"></div>
+  <div class="arrow" id="arrow3"></div>
+</div>
 
----
 
-Pour toute question ou aide supplémentaire, n'hésitez pas à contacter notre équipe.
-
+Chaque volet est documenté dans une sous-page dédiée. La programmation est elle-même subdivisée pour clarifier les aspects logiques, graphiques et les contraintes liées à l’utilisation embarquée.
 
 
 <!----------------------------------------------------------------------------->
