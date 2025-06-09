@@ -9,16 +9,88 @@ parent: Recherches
 
 Avant de démarrer la conception, une analyse approfondie des projets existants a été réalisée afin de s’inspirer des bonnes pratiques, identifier les défis courants et orienter le développement du **FirefighterArmband**.
 
-## Méthodologie de Recherche
+---
 
-1. **Identification des projets pertinents**  
+## <span style="color:#d62828;">Méthodologie de Recherche</span>
+
+<div style="background-color:#f9f9f9; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 2rem;">
+
+1. <strong>Identification des projets pertinents</strong>  
    Recherche de brassards électroniques industriels (logistique, santé) et de solutions mobiles de localisation GPS.
 
-2. **Analyse des fonctionnalités clés**  
+2. <strong>Analyse des fonctionnalités clés</strong>  
    Étude des technologies de communication, des matériaux utilisés, de l’ergonomie, et des interfaces utilisateur.
 
-3. **Comparaison des contraintes et des solutions adoptées**  
+3. <strong>Comparaison des contraintes et des solutions adoptées</strong>  
    Focus sur l’autonomie, la robustesse, la résistance aux environnements extrêmes, et les normes de protection.
+
+</div>
+
+---
+
+## <span style="color:#d62828;">Exemples étudiés</span>
+
+### <u>Brassards et dispositifs portables</u>
+
+<div style="background-color:#f0f0f0; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
+<strong>🔹 Brassard sport Cdiscount</strong><br/>
+<a href="https://www.cdiscount.com/le-sport/sports-individuels/brassard-sport-poignet-pour-iphone-7-smartphone-co/f-12103040405-auc3006014899095.html" target="_blank">Lien vers le produit</a><br/>
+Utilisé pour les activités sportives avec smartphone. Léger, pratique mais non adapté aux environnements extrêmes.
+</div>
+
+<div style="background-color:#f0f0f0; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
+<strong>🔹 Zebra RS51 (scanner entrepôt)</strong><br/>
+<a href="https://www.barcodefactory.com/zebra/mobile-computers/wearable/rs51c0-tbdnwr" target="_blank">Lien vers le produit</a><br/>
+Scanner professionnel mains-libres pour entrepôts. Robuste, mais non adapté au guidage ou localisation.
+</div>
+
+<div style="background-color:#f0f0f0; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
+<strong>🔹 Support Squids 5545</strong><br/>
+<a href="https://www.seton.fr/support-scanner-bras-poignet-squids-5545.html#311IVA100" target="_blank">Lien vers le produit</a><br/>
+Support de poignet pour appareil professionnel. Fixation fiable, mais pas de système électronique intégré.
+</div>
+
+---
+
+### <u>Applications de localisation des points d’eau</u>
+
+<div style="background-color:#eef3f7; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
+<strong>🔹 FreeTaps</strong><br/>
+<a href="https://freetaps.earth" target="_blank">Site officiel</a><br/>
+Application communautaire pour localiser les points d’eau publics. Carte interactive simple. Non adaptée à un usage pompier.
+</div>
+
+<div style="background-color:#eef3f7; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
+<strong>🔹 Owater</strong><br/>
+<a href="https://www.owater.fr" target="_blank">Site officiel</a><br/>
+Application similaire avec interface moderne. Utile pour le grand public, non prévue pour un fonctionnement hors-ligne ou en conditions extrêmes.
+</div>
+
+
+### <u>Projets open source ou universitaires</u>
+
+<div style="background-color:#f6f0ff; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
+<strong>🔹 Firefighter Finder GPS (GitHub)</strong><br/>
+<a href="https://github.com/lukeskywokka/firefighterFinderGPS.git" target="_blank">Voir le projet GitHub</a><br/>
+Projet universitaire avec guidage GPS vers un point fixe. Concept proche, sans boîtier terrain ni écran avancé.
+</div>
+
+<div style="background-color:#f6f0ff; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
+<strong>🔹 Vidéo de présentation</strong><br/>
+*Firefighter Finder – SJSU Spring 2019 CMPE Demo* (YouTube)<br/>
+Démonstration du projet, utile pour comparer la logique de guidage. Limité au niveau matériel.
+</div>
+
+
+### <u>Solution professionnelle – DECI Escort CR+</u>
+
+<div style="background-color:#fff7eb; padding: 1rem; border-radius: 6px; margin-bottom: 1rem;">
+<strong>🔹 DECI Escort CR+ – Berger-Levrault</strong><br/>
+<a href="https://www.berger-levrault.com/fr/produit/escort-cr-points-deau/" target="_blank">Site du produit</a><br/>
+Logiciel professionnel pour la gestion des points d’eau incendie (cartographie + inventaire). Réservé aux SDIS, non portable.
+</div>
+
+---
 
 ## Points d’attention majeurs
 
@@ -28,6 +100,8 @@ Avant de démarrer la conception, une analyse approfondie des projets existants 
 - **Autonomie** : Entre 4 et 12 heures selon les projets  
 - **Interface utilisateur** : Simplicité pour ne pas distraire l’utilisateur en intervention  
 - **Normes de protection** : IP67 à IP69K principalement  
+
+---
 
 ## Synthèse comparative
 
