@@ -15,7 +15,7 @@ has_children: true
 
 Bienvenue dans la section dédiée aux étapes de fabrication du projet XYZ. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
 
-## Aperçu des Étapes
+## <span style="color:#d62828;">Aperçu des Étapes</span>
 
 Le processus de fabrication est divisé en plusieurs étapes clés :
 
@@ -24,7 +24,7 @@ Le processus de fabrication est divisé en plusieurs étapes clés :
 3. [Finition]()
 4. [Contrôle Qualité]()
 
-## Commencer
+## <span style="color:#d62828;">Commencer</span>
 
 Pour commencer, assurez-vous de bien comprendre chaque étape et de disposer de tous les outils et matériaux nécessaires. Suivez les étapes dans l'ordre pour garantir la qualité et l'efficacité du processus de fabrication.
 

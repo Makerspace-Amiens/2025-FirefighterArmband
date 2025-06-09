@@ -7,18 +7,18 @@ parent: Conception
 
 # Choix des Matériaux
 
-## Objectif
+## <span style="color:#d62828;">Objectif</span>
 
 Créer une enveloppe protectrice pour l’ensemble des composants, intégrable à une tenue pompier, sans viser une certification anti-feu.
 
-## Matériaux retenus
+## <span style="color:#d62828;">Matériaux retenus</span>
 
 - **PLA renforcé (impression 3D)** : léger, facilement modélisable, imprimable rapidement.
 - **Mousse dense** (pour isolation interne) : atténue les vibrations et protège les composants.
 - **Velcro + sangle** : pour fixer le boîtier sur la manche ou l’avant-bras.
 - **Film plastique transparent** : pour protéger l’écran tout en restant tactile.
 
-## Critères de sélection
+## <span style="color:#d62828;">Critères de sélection</span>
 
 - Facilité d’usinage ou d'impression
 - Résistance mécanique suffisante pour les tests

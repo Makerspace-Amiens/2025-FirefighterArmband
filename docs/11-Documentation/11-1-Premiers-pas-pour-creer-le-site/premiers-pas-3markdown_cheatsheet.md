@@ -9,23 +9,23 @@ title: Guide de Syntaxe Markdown
 
 Markdown est un langage de balisage léger conçu pour être converti en HTML. Il est souvent utilisé pour formater des fichiers README, pour écrire des messages dans des forums en ligne, et pour créer des documents texte riches en utilisant un éditeur de texte brut. Son objectif principal est la lisibilité et la facilité d'utilisation.
 
-## Qu'est-ce que Markdown ?
+## <span style="color:#d62828;">Qu'est-ce que Markdown ?</span>
 
 Markdown a été créé en 2004 par John Gruber avec l'aide d'Aaron Swartz, avec l'idée de permettre aux gens d'écrire en utilisant un format de texte brut facile à lire et à écrire, qui pourrait être converti en HTML de manière transparente.
 
-## Pourquoi utiliser Markdown ?
+## <span style="color:#d62828;">Pourquoi utiliser Markdown ?</span>
 
 - **Simplicité et facilité d'apprentissage :** La syntaxe de Markdown est très simple à apprendre, ce qui en fait un bon choix pour ceux qui ne sont pas familiers avec les langages de balisage plus complexes comme HTML.
 - **Portabilité :** Les fichiers Markdown sont des fichiers texte brut, donc ils sont légers et compatibles avec de nombreuses plateformes et éditeurs de texte.
 - **Flexibilité :** Markdown est souvent utilisé pour la documentation de projets, les fichiers README, et les forums en ligne, mais il peut également être utilisé pour créer des livres, des présentations et d'autres types de documents.
 - **Conversion en d'autres formats :** Il est facile de convertir des fichiers Markdown en HTML, PDF, et d'autres formats.
 
-## Comment utiliser ce guide ?
+## <span style="color:#d62828;">Comment utiliser ce guide ?</span>
 
 Ce guide fournit des exemples de la syntaxe de base de Markdown. Vous pouvez vous référer à ce guide pour comprendre comment formater vos textes en Markdown.
 
 
-## Titres
+## <span style="color:#d62828;">Titres</span>
 
 Les titres sont créés en utilisant le symbole `#`. Le nombre de `#` détermine le niveau du titre.
 
@@ -38,7 +38,7 @@ Les titres sont créés en utilisant le symbole `#`. Le nombre de `#` détermine
 ###### Titre de niveau 6
 ```
 
-## Texte en gras et en italique
+## <span style="color:#d62828;">Texte en gras et en italique</span>
 
 *Texte en italique* s'écrit en entourant le texte de `*` ou de `_`.
 **Texte en gras** utilise deux `*` ou `_` de chaque côté.
@@ -52,7 +52,7 @@ __Texte en gras__
 ***Texte en gras et en italique***
 ```
 
-## Listes
+## <span style="color:#d62828;">Listes</span>
 
 ### Listes non ordonnées
 
@@ -76,7 +76,7 @@ Les nombres suivis d'un point créent une liste ordonnée.
    2. Sous-élément 2.2
 ```
 
-## Liens
+## <span style="color:#d62828;">Liens</span>
 
 Pour créer un lien, mettez le texte du lien entre crochets `[]` et l'URL entre parenthèses `()`.
 
@@ -84,7 +84,7 @@ Pour créer un lien, mettez le texte du lien entre crochets `[]` et l'URL entre 
 [OpenAI](https://www.openai.com)
 ```
 
-## Images
+## <span style="color:#d62828;">Images</span>
 
 Les images sont similaires aux liens, mais avec un point d'exclamation `!` devant.
 
@@ -92,7 +92,7 @@ Les images sont similaires aux liens, mais avec un point d'exclamation `!` devan
 ![Alt text](url_de_l'image.jpg)
 ```
 
-## Citations
+## <span style="color:#d62828;">Citations</span>
 
 Les citations sont créées en utilisant le symbole `>`.
 
@@ -100,7 +100,7 @@ Les citations sont créées en utilisant le symbole `>`.
 > Ceci est une citation.
 ```
 
-## Code
+## <span style="color:#d62828;">Code</span>
 
 Pour un bloc de code, utilisez trois backticks `` ``` `` ou quatre espaces d'indentation. Pour du code inline, utilisez un seul backtick.
 
@@ -128,7 +128,7 @@ void loop() {
 }
 ```
 
-## Lignes horizontales
+## <span style="color:#d62828;">Lignes horizontales</span>
 
 Utilisez trois ou plus de `*`, `-`, ou `_` pour créer une ligne horizontale.
 
@@ -136,7 +136,7 @@ Utilisez trois ou plus de `*`, `-`, ou `_` pour créer une ligne horizontale.
 ---
 ```
 
-## Tableaux
+## <span style="color:#d62828;">Tableaux</span>
 
 Créez des tableaux en séparant les textes par des barres verticales `|` et des tirets `-`.
 
@@ -148,7 +148,7 @@ Créez des tableaux en séparant les textes par des barres verticales `|` et des
 ```
 
 
-## Aller plus loin
+## <span style="color:#d62828;">Aller plus loin</span>
 
 Si vous souhaitez aller plus loin, vous pouvez vous rendre sur la page de documentation du template du site ["Just the Docs"](https://just-the-docs.com).
 

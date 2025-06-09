@@ -10,7 +10,7 @@ nav_order: 1
 
 Ce document fournit une introduction simple à l'utilisation de GitHub pour la gestion de version, ainsi qu'une présentation de GitHub Desktop et de l'intégration avec Visual Studio Code (VSCode).
 
-## GitHub : Gestion de Version Simplifiée
+## <span style="color:#d62828;">GitHub : Gestion de Version Simplifiée</span>
 
 GitHub est une plateforme en ligne qui permet de stocker, partager et collaborer sur des projets de code. Il utilise Git, un système de contrôle de version, pour suivre les changements dans les fichiers au fil du temps.
 
@@ -20,7 +20,7 @@ GitHub est une plateforme en ligne qui permet de stocker, partager et collaborer
 - **Historique des modifications :** Chaque modification est enregistrée, permettant de revenir à des versions antérieures si nécessaire.
 - **Facilité d'accès :** Accédez à vos projets de n'importe où et partagez-les facilement avec d'autres.
 
-## [GitHub Desktop](https://desktop.github.com) : Gestion de Version sans Commandes
+## [GitHub Desktop](https://desktop.github.com)<span style="color:#d62828;"> : Gestion de Version sans Commandes</span>
 
 [GitHub Desktop](https://desktop.github.com) est une application qui simplifie l'utilisation de Git et GitHub sans avoir besoin d'utiliser la ligne de commande.
 
@@ -40,7 +40,7 @@ GitHub est une plateforme en ligne qui permet de stocker, partager et collaborer
 - **Intégration Git :** Permet de réaliser des opérations Git de base directement depuis l'éditeur.
 - **Prévisualisation de Markdown :** Utile pour éditer des fichiers README et d'autres documents en Markdown.
 
-## Conclusion
+## <span style="color:#d62828;">Conclusion</span>
 
 L'utilisation de GitHub avec GitHub Desktop et VSCode offre une expérience complète pour la gestion de projets de code. Cette combinaison est particulièrement utile pour ceux qui préfèrent une approche visuelle et intuitive de la gestion de version.
 

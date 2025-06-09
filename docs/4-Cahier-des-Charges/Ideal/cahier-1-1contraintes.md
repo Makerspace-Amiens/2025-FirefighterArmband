@@ -7,7 +7,7 @@ parent: Cahier des Charges Idéal
 
 # Contraintes Fonctionnelles et Techniques (Projet idéal)
 
-## Fonctionnelles
+##  <span style="color:#d62828;">Fonctionnelles</span>
 
 - Utilisation et adaptation du logiciel de localisation des points d'eau des pompiers
 - Localisation automatique des points d’eau
@@ -18,7 +18,7 @@ parent: Cahier des Charges Idéal
 - Affichage lumineux lisible en fumée / nuit
 - Fonctionnement hors-ligne
 
-## Techniques
+## <span style="color:#d62828;">Techniques</span>
 
 - Résistance thermique élevée >800°C
 - Autonomie > 6-8h
@@ -27,7 +27,7 @@ parent: Cahier des Charges Idéal
 - Mise à jour Wi-Fi / Bluetooth sécurisée
 - Fixation résistante à l'arrachement mais avec un arrachement volontaire d'urgence
 
-## Sécurité
+## <span style="color:#d62828;">Sécurité</span>
 
 - Batterie type **LiFePO4**
 - Étanchéité totale

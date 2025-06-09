@@ -9,7 +9,7 @@ nav_order: 2
 
 Cette section décrit la première étape du processus de développement : la sélection et la préparation des composants nécessaires à la conception du brassard GPS.
 
-## Liste des Composants
+## <span style="color:#d62828;">Liste des Composants</span>
 
 - **Microcontrôleur** : ESP32, Arduino, ou autre selon les besoins.
 - **Module GPS** : Ublox NEO-6M, NEO-M8N ou équivalent.
@@ -18,14 +18,14 @@ Cette section décrit la première étape du processus de développement : la s�
 - **Matériaux de fabrication** : Textile résistant à la chaleur, boîtier de protection.
 - **Outils nécessaires** : Fer à souder, multimètre, câbles de connexion.
 
-## Procédure de Sélection et Préparation
+## <span style="color:#d62828;">Procédure de Sélection et Préparation</span>
 
 1. **Recherche des composants adaptés** : Comparer les différents composants disponibles en fonction des besoins du projet.
 2. **Commande des composants** : Passer commande auprès de fournisseurs fiables.
 3. **Vérification des composants** : Tester chaque composant pour s’assurer qu’il fonctionne correctement.
 4. **Préparation** : Effectuer les soudures et assemblages préliminaires si nécessaire.
 
-## Conseils de Sécurité
+## <span style="color:#d62828;">Conseils de Sécurité</span>
 
 - Toujours porter des équipements de protection individuelle lors des manipulations.
 - Vérifier les tensions et connexions avant d’alimenter un circuit.

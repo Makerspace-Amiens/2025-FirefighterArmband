@@ -5,7 +5,7 @@ parent: Supports
 nav_order: 1
 ---
 
-## Poster
+## <span style="color:#d62828;">Poster</span>
 
 Pour un peu plus d'imagination !
 

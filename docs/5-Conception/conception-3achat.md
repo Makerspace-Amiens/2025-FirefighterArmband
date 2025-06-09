@@ -7,11 +7,11 @@ parent: Conception
 
 # Approvisionnement et Budget
 
-## Objectif
+## <span style="color:#d62828;">Objectif</span>
 
 Rester sous un budget de **250 € TTC**, frais de port compris, pour l’ensemble du prototype.
 
-## Dépenses par catégorie
+## <span style="color:#d62828;">Dépenses par catégorie</span>
 
 | Élément | Détail | Coût approximatif |
 |--------|--------|-------------------|
@@ -23,7 +23,7 @@ Rester sous un budget de **250 € TTC**, frais de port compris, pour l’ensemb
 | Connectique divers (Grove, câbles, etc.) | Tests et montage | ~15 € |
 | **Total estimé** |  | **~210 €** |
 
-## Fournisseurs
+## <span style="color:#d62828;">Fournisseurs</span>
 
 - **DFRobot** : GPS, boussole Grove, connectique
 - **Mouser / Digikey** : composants électroniques

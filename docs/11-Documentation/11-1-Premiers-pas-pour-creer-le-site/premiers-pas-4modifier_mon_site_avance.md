@@ -17,7 +17,7 @@ Une fois cela effectué, vous pourrez voir votre site localement dans votre navi
 
 A noter que si vous le souhaitez, vous pouvez également utiliser l'envirronement WSL pour construire localement votre site. Mais cette méthode, bien que similaire, demande un peu plus de connaissances et n'est pas décrite ici. 
 
-## Sur Windows
+## <span style="color:#d62828;">Sur Windows</span>
 
 ### Étape 1 : Installer Visual Studio Code
 
@@ -68,7 +68,7 @@ Dans le terminal ouvert :
 
 ---
 
-## Sur Linux (non testé)
+## <span style="color:#d62828;">Sur Linux (non testé)</span>
 
 ### Étape 1 : Installer Visual Studio Code
 {: .no_toc }
@@ -94,7 +94,7 @@ Dans le terminal ouvert :
 **Étape 5 : similaires à celles de Windows**
 {: .no_toc }
 
-## Sur macOS (non testé)
+## <span style="color:#d62828;">Sur macOS (non testé)</span>
 
 ### Installer Ruby
 {: .no_toc }

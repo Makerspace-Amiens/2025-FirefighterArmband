@@ -7,14 +7,14 @@ parent: Conception
 
 # Composants Électroniques
 
-## Objectif
+## <span style="color:#d62828;">Objectif</span>
 
 Rassembler les composants nécessaires pour assurer les trois fonctions essentielles du prototype :
 - Acquisition de position GPS
 - Orientation via boussole
 - Affichage graphique clair et interactif
 
-## Liste des composants
+## <span style="color:#d62828;">Liste des composants</span>
 
 | Composant | Référence | Fonction |
 |----------|------------|----------|
@@ -25,7 +25,7 @@ Rassembler les composants nécessaires pour assurer les trois fonctions essentie
 | Batterie | 3.7V Li-ion | Alimentation autonome (usage ponctuel) |
 | Divers | Câbles, connecteurs Grove | Intégration simple, fiable et modulaire |
 
-## Justification des choix
+## <span style="color:#d62828;">Justification des choix</span>
 
 - **ESP32-S3 CrowPanel** : puissant, compatible Arduino/Micropython, écran intégré
 - **Connecteurs Grove** : simplifient le câblage, réduisent les erreurs

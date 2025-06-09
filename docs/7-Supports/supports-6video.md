@@ -6,7 +6,7 @@ nav_order: 6
 ---
 
 
-## Vidéo 
+##  <span style="color:#d62828;">Vidéo</span>
 
 Ici vous publierez la vidéo de votre projet. 
 - Moins de 1min30

@@ -13,7 +13,7 @@ has_children: true
 
 Ce document vise à expliquer ce qu'est un site Jekyll et comment il est utilisé dans ce repository pour la documentation et la gestion de votre projet.
 
-## Qu'est-ce que Jekyll ?
+## <span style="color:#d62828;">Qu'est-ce que Jekyll ?</span>
 
 Jekyll est un générateur de sites statiques simple, blog-aware, utilisé pour créer un site web ou un blog à partir de texte brut. Il est particulièrement bien adapté pour créer des sites de documentation de projets.
 
@@ -24,7 +24,7 @@ Jekyll est un générateur de sites statiques simple, blog-aware, utilisé pour 
 - **Personnalisable :** Thèmes modulables et système de plugins pour étendre les fonctionnalités.
 - **Markdown :** Utilise la syntaxe Markdown pour le contenu, ce qui facilite la rédaction et la mise en page.
 
-## Utilisation de Jekyll dans ce Repository
+## <span style="color:#d62828;">Utilisation de Jekyll dans ce Repository </span>
 
 Dans ce repository, Jekyll est utilisé pour créer et gérer la documentation de votre projet. 
 

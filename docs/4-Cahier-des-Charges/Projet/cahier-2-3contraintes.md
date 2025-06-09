@@ -7,7 +7,7 @@ parent: Cahier des Charges Projet
 
 # Contraintes du Prototype Réel
 
-## Techniques
+## <span style="color:#d62828;">Techniques</span>
 
 - Composants sélectionnés pour leur disponibilité
 - Résistance aux chocs modérée (boîtier imprimé en 3D)
@@ -15,7 +15,7 @@ parent: Cahier des Charges Projet
 - Utilisation de coordonnées fictives
 - Récupération d'une veste de feu et Intégration du brassard
 
-## Fonctionnelles
+## <span style="color:#d62828;">Fonctionnelles</span>
 
 - Obtention et réadaptation du logiciel des pompiers
 - Mode direction uniquement (pas de carte interactive)
@@ -23,7 +23,7 @@ parent: Cahier des Charges Projet
 - Guidage par flèche et distance GPS
 - Interface utilisable avec gants (testée)
 
-## Limites
+## <span style="color:#d62828;">Limites</span>
 
 - Délais d'obtention du logiciel et dee la veste de feu par le SDIS
 - Projet partant de rien et nécessitant une grande phase de recherches au préalable (donc moins de temps pour la phase technique)
