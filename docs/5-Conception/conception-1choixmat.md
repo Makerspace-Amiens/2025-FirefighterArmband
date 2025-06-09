@@ -36,12 +36,39 @@ L’enveloppe devait protéger efficacement l’électronique embarquée, sans v
 
 <div style="background-color:#fff7f7; padding: 1rem 1.5rem; border-radius: 6px;">
 
-- **Compatibilité avec la tenue de feu** : tests réalisés avec une veste réelle, prêtée par un pompier professionnel.<br>
-- **Facilité de fabrication** : impression 3D, assemblage standard, découpe manuelle réalisable dans un Fablab.<br>
-- **Solidité suffisante** : bon compromis entre rigidité, légèreté et coût.<br>
-- **Évolutivité** : le boîtier et ses composants peuvent être intégrés dans un dispositif ignifugé dans une version avancée.<br>
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="width:40%; font-weight: bold; vertical-align: top;">Compatibilité avec la tenue de feu</td>
+    <td style="text-align: right;">Tests réalisés avec une veste réelle, prêtée par un pompier professionnel.</td>
+  </tr>
+</table>
+<hr>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="width:40%; font-weight: bold; vertical-align: top;">Facilité de fabrication</td>
+    <td style="text-align: right;">Impression 3D, assemblage standard, découpe manuelle réalisable dans un Fablab.</td>
+  </tr>
+</table>
+<hr>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="width:40%; font-weight: bold; vertical-align: top;">Solidité suffisante</td>
+    <td style="text-align: right;">Bon compromis entre rigidité, légèreté et coût.</td>
+  </tr>
+</table>
+<hr>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="width:40%; font-weight: bold; vertical-align: top;">Évolutivité</td>
+    <td style="text-align: right;">Le boîtier et ses composants peuvent être intégrés dans un dispositif ignifugé dans une version avancée.</td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
