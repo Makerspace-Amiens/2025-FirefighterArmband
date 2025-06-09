@@ -16,7 +16,7 @@ nav_order: 12
 
 <!-- PHOTO DE GROUPE -->
 <p align="center">
-  <img src="../assets/img/photo_groupe.webp" alt="Photo de groupe FirefighterArmband" style="width:100%; max-width:800px; border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+  <img src="photo_groupe.webp" alt="Photo de groupe FirefighterArmband" style="width:100%; max-width:800px; border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 </p>
 
 ---
