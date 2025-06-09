@@ -29,14 +29,31 @@ Cette section présente les différentes étapes de conception du prototype, div
   border-radius: 12px;
   padding: 1.2rem;
   box-sizing: border-box;
-  text-align: center;
-  font-weight: bold;
-  font-size: 15px;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  text-wrap: wrap;
+  text-align: center;
+  font-size: 15px;
   z-index: 1;
+}
+
+.bubble-title {
+  font-weight: bold;
+  margin-bottom: 0.4rem;
+}
+
+.separator {
+  width: 20px;
+  height: 1.2rem;
+  border-left: 2px solid #d62828;
+  margin: 0.3rem 0;
+}
+
+.bubble-desc {
+  font-size: 13px;
+  color: #333;
+  max-width: 90%;
 }
 
 #bubble1 {
@@ -66,13 +83,21 @@ Cette section présente les différentes étapes de conception du prototype, div
 
   <!-- Bulles -->
   <div class="bubble" id="bubble1">
-    Électronique<br><small>Choix des composants, schémas, alimentation…</small>
+    <div class="bubble-title">Électronique</div>
+    <div class="separator"></div>
+    <div class="bubble-desc">Choix des composants, schémas, alimentation…</div>
   </div>
+
   <div class="bubble" id="bubble2">
-    Modélisation d’un boîtier<br><small>Conception, impression 3D, ergonomie…</small>
+    <div class="bubble-title">Modélisation d’un boîtier</div>
+    <div class="separator"></div>
+    <div class="bubble-desc">Conception, impression 3D, ergonomie…</div>
   </div>
+
   <div class="bubble" id="bubble3">
-    Programmation du brassard<br><small>Architecture, contraintes, affichage…</small>
+    <div class="bubble-title">Programmation du brassard</div>
+    <div class="separator"></div>
+    <div class="bubble-desc">Architecture, contraintes, affichage…</div>
   </div>
 
   <!-- Lignes courbes SVG -->
