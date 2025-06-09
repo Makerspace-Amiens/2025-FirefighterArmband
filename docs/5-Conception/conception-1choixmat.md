@@ -32,12 +32,14 @@ L’enveloppe devait protéger efficacement l’électronique embarquée, sans v
 
 ---
 
+## <span style="color:#d62828;">Démarche et critères de choix</span>
+
 <div style="background-color:#fff7f7; padding: 1rem 1.5rem; border-radius: 6px;">
 
-- **Compatibilité avec la tenue de feu** : tests réalisés avec une veste réelle, prêtée par un pompier professionnel.
-- **Facilité de fabrication** : impression 3D, assemblage standard, découpe manuelle réalisable dans un Fablab.
-- **Solidité suffisante** : bon compromis entre rigidité, légèreté et coût.
-- **Évolutivité** : le boîtier et ses composants peuvent être intégrés dans un dispositif ignifugé dans une version avancée.
+- **Compatibilité avec la tenue de feu** : tests réalisés avec une veste réelle, prêtée par un pompier professionnel.<br>
+- **Facilité de fabrication** : impression 3D, assemblage standard, découpe manuelle réalisable dans un Fablab.<br>
+- **Solidité suffisante** : bon compromis entre rigidité, légèreté et coût.<br>
+- **Évolutivité** : le boîtier et ses composants peuvent être intégrés dans un dispositif ignifugé dans une version avancée.<br>
 
 </div>
 

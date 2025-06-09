@@ -5,32 +5,31 @@ nav_order: 3
 parent: Conception
 ---
 
-# Approvisionnement et Budget
-
 ## <span style="color:#d62828;">Objectif</span>
 
 Rester sous un budget de **250 € TTC**, frais de port compris, pour l’ensemble du prototype.
 
 ## <span style="color:#d62828;">Dépenses par catégorie</span>
 
-| Élément | Détail | Coût approximatif |
-|--------|--------|-------------------|
-| ESP32-S3 CrowPanel 7” | Wi-Fi, BLE, écran intégré | ~110 € |
-| Module GPS TEL0094 | Compatible ESP32 | ~25 € |
-| Module Boussole Grove V2 | Orientation | ~15 € |
-| Batterie Li-ion 3.7V + câbles | Alimentation | ~20 € |
-| Matériaux impression 3D | PLA + mousse | ~25 € |
-| Connectique divers (Grove, câbles, etc.) | Tests et montage | ~15 € |
-| **Total estimé** |  | **~210 €** |
+| Élément                                   | Détail                                   | Coût exact (€)            |
+|-------------------------------------------|-----------------------------------------|--------------------------|
+| Écran 7” CrowPanel (RobotShop)             | Wi-Fi, BLE, écran intégré                | 46,80                    |
+| Module GPS TEL0094 (GOTRONIC)               | Compatible ESP32                         | 18,60                    |
+| Module Boussole Grove V2 (GOTRONIC)         | Orientation                             | 13,70                    |
+| Batterie Li-ion 3.7V + câbles               | Alimentation                            | ~20                      |
+| Matériaux impression 3D                      | PLA + mousse                           | ~25                      |
+| Connectique divers (Grove, câbles, etc.)    | Tests et montage (fournis par labo)    | 0 (fourni par l’école)   |
+| **Total estimé**                            |                                         | **~124,80 € + ~45 €** (batterie + impression 3D) |
 
-## <span style="color:#d62828;">Fournisseurs</span>
+## <span style="color:#d62828;">Fournisseurs et commande</span>
 
-- **DFRobot** : GPS, boussole Grove, connectique
-- **Mouser / Digikey** : composants électroniques
-- **Amazon / Aliexpress** : éléments standards, câbles
-- **Fablab / imprimante perso** : impression 3D en interne
+- **RobotShop** : écran 7” CrowPanel  
+- **GOTRONIC** : GPS TEL0094 et module boussole Grove V2  
+- **Laboratoires électroniques de l'école** : câbles et connectique supplémentaires  
+- **Impression 3D** : matériaux PLA fournis par l'école  
 
-> Nous avons conservé une **marge de 40 €** pour pallier d’éventuels imprévus (batterie défectueuse, connectique supplémentaire…).
+> Pour les commandes, nous devions passer par un onglet dédié sur le Teams général de la matière, où chaque demande était soumise à validation. Chaque soumission comportait les informations suivantes : nom du composant, prix, lien vers le site fournisseur, capture d’écran, etc. Après approbation, l’école regroupait les commandes de plusieurs groupes par site de livraison afin de réduire les coûts, puis passait la commande globale.
+
 
 
 <!----------------------------------------------------------------------------->

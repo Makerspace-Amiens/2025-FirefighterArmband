@@ -10,26 +10,81 @@ parent: Conception
 ## <span style="color:#d62828;">Objectif</span>
 
 Rassembler les composants nécessaires pour assurer les trois fonctions essentielles du prototype :
-- Acquisition de position GPS
-- Orientation via boussole
-- Affichage graphique clair et interactif
+
+<div style="background-color:#f9f9f9; padding: 1rem 1.5rem; border-left: 5px solid #d62828; border-radius: 6px; margin-bottom: 1.5rem;">
+
+- Acquisition de position GPS  <br>
+- Orientation via boussole  <br>
+- Affichage graphique clair et interactif<br>
+
+</div>
+
+---
 
 ## <span style="color:#d62828;">Liste des composants</span>
 
-| Composant | Référence | Fonction |
-|----------|------------|----------|
-| Microcontrôleur | **ESP32-S3 CrowPanel** | Affichage, GPS, gestion interface |
-| Écran | intégré (7” tactile) | Interface utilisateur principale |
-| GPS | **Module TEL0094** | Localisation des points d’eau |
-| Boussole | **Grove 3-Axis Compass V2** | Orientation / calcul direction |
-| Batterie | 3.7V Li-ion | Alimentation autonome (usage ponctuel) |
-| Divers | Câbles, connecteurs Grove | Intégration simple, fiable et modulaire |
+<table style="width:100%; border-collapse: collapse; margin-bottom: 2rem;">
+  <thead>
+    <tr style="background-color:#f0f0f0;">
+      <th style="padding: 10px; text-align: left;">Composant</th>
+      <th style="padding: 10px; text-align: left;">Référence</th>
+      <th style="padding: 10px; text-align: left;">Fonction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Microcontrôleur</td>
+      <td><strong>ESP32-S3 CrowPanel</strong></td>
+      <td>Affichage, GPS, gestion interface</td>
+    </tr>
+    <tr>
+      <td>Écran</td>
+      <td>Intégré (7” tactile)</td>
+      <td>Interface utilisateur principale</td>
+    </tr>
+    <tr>
+      <td>GPS</td>
+      <td><strong>Module TEL0094</strong></td>
+      <td>Localisation des points d’eau</td>
+    </tr>
+    <tr>
+      <td>Boussole</td>
+      <td><strong>Grove 3-Axis Compass V2</strong></td>
+      <td>Orientation / calcul direction</td>
+    </tr>
+    <tr>
+      <td>Batterie</td>
+      <td>3.7V Li-ion</td>
+      <td>Alimentation autonome (usage ponctuel)</td>
+    </tr>
+    <tr>
+      <td>Divers</td>
+      <td>Câbles, connecteurs Grove</td>
+      <td>Intégration simple, fiable et modulaire</td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ## <span style="color:#d62828;">Justification des choix</span>
 
-- **ESP32-S3 CrowPanel** : puissant, compatible Arduino/Micropython, écran intégré
-- **Connecteurs Grove** : simplifient le câblage, réduisent les erreurs
-- **Modules compatibles entre eux**, testés dans des projets similaires
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
+
+  <div style="flex: 1; min-width: 260px;">
+    <p><strong>ESP32-S3 CrowPanel</strong> : puissant, compatible Arduino et Micropython, intégrant un écran tactile 7".</p>
+    <p><strong>Connecteurs Grove</strong> : permettent un câblage modulaire et sécurisé, réduisant les erreurs de branchement.</p>
+    <p><strong>Modules GPS et Boussole</strong> : éprouvés dans des projets similaires, tous deux compatibles avec l'ESP32.</p>
+  </div>
+
+  <div style="flex: 0 0 auto; text-align: center;">
+    <img src="../images/ecran.png" alt="Écran 7 pouces" title="Écran tactile 7'' intégré au CrowPanel" style="width: 80px; margin-bottom: 10px;"><br/>
+    <img src="../images/GPS.png" alt="Module GPS TEL0094" title="Module GPS utilisé pour la localisation" style="width: 80px; margin-bottom: 10px;"><br/>
+    <img src="../images/boussole.png" alt="Module boussole Grove" title="Boussole Grove utilisée pour l’orientation" style="width: 80px;">
+  </div>
+
+</div>
+
 
 > Tous les composants ont été choisis pour leur **compatibilité logicielle**, leur **disponibilité** et leur **coût maîtrisé**.
 
