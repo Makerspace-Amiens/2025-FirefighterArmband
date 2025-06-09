@@ -11,7 +11,7 @@ nav_order: 12
 
 
 <div style="text-align: center; font-size: 1.3em; margin-bottom: 1.5em;">
-  Retrouvez ci-dessous la photo d’équipe, puis les profils des membres du projet et des encadrants.
+  Retrouvez ci-dessous la photo d’équipe, puis les profils cliquables des membres du projet et des encadrants.
 </div>
 
 <!-- PHOTO DE GROUPE -->
@@ -53,7 +53,7 @@ nav_order: 12
 
 <!-- Adrien -->
 <div class="team-member">
-  <img src="img/photo_adrien.jpg" alt="Adrien Bracq">
+  <img src="photo_adrien.jpg" alt="Adrien Bracq">
   <p><a href="javascript:void(0);" onclick="openModal('modal-adrien')">Adrien Bracq</a></p>
 </div>
 
