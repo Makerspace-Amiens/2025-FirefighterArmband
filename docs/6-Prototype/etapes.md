@@ -13,23 +13,29 @@ has_children: true
 Cette section présente les différentes étapes de conception du prototype, divisées en trois volets principaux :
 
 <style>
-.triangle-container {
+.triangle-wrapper {
   position: relative;
   width: 400px;
   height: 360px;
-  margin: 2rem auto;
+  margin: 3rem auto;
 }
 
 .bubble {
   position: absolute;
-  width: 150px;
-  padding: 1rem;
-  background-color: #fefefe;
+  width: 160px;
+  height: 100px;
+  background-color: #fff7f7;
   border: 2px solid #d62828;
-  border-radius: 1rem;
+  border-radius: 12px;
+  padding: 0.8rem;
+  box-sizing: border-box;
   text-align: center;
   font-weight: bold;
-  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-wrap: wrap;
 }
 
 #bubble1 {
@@ -46,51 +52,38 @@ Cette section présente les différentes étapes de conception du prototype, div
   right: 0;
 }
 
-.arrow {
+.svg-lines {
   position: absolute;
-  width: 120px;
-  height: 120px;
-  border: 2px solid transparent;
-  border-top-color: #6a040f;
-  border-left-color: #6a040f;
-  border-radius: 50%;
-  transform: rotate(45deg);
-}
-
-#arrow1 {
-  top: 60px;
-  left: 145px;
-  transform: rotate(225deg);
-}
-#arrow2 {
-  bottom: 95px;
-  left: 30px;
-  transform: rotate(315deg);
-}
-#arrow3 {
-  bottom: 95px;
-  right: 30px;
-  transform: rotate(135deg);
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 0;
 }
 </style>
 
-<div class="triangle-container">
+<div class="triangle-wrapper">
+
+  <!-- Bulles -->
   <div class="bubble" id="bubble1">
-    Électronique<br>
-    <small>Choix des composants, schémas, alimentation…</small>
+    Électronique<br><small>Choix des composants, schémas, alimentation…</small>
   </div>
   <div class="bubble" id="bubble2">
-    Modélisation d’un boîtier<br>
-    <small>Conception, impression 3D, ergonomie…</small>
+    Modélisation d’un boîtier<br><small>Conception, impression 3D, ergonomie…</small>
   </div>
   <div class="bubble" id="bubble3">
-    Programmation du brassard<br>
-    <small>Architecture logicielle, affichage, contraintes…</small>
+    Programmation du brassard<br><small>Architecture, contraintes, affichage…</small>
   </div>
 
-  <div class="arrow" id="arrow1"></div>
-  <div class="arrow" id="arrow2"></div>
-  <div class="arrow" id="arrow3"></div>
+  <!-- Lignes courbes SVG -->
+  <svg class="svg-lines" width="400" height="360">
+    <!-- Ligne de Électronique vers centre -->
+    <path d="M 200 50 Q 200 180 200 180" stroke="#6a040f" stroke-width="2" fill="none" />
+    <!-- Ligne de Modélisation vers centre -->
+    <path d="M 80 310 Q 200 220 200 180" stroke="#6a040f" stroke-width="2" fill="none" />
+    <!-- Ligne de Programmation vers centre -->
+    <path d="M 320 310 Q 200 220 200 180" stroke="#6a040f" stroke-width="2" fill="none" />
+  </svg>
+
 </div>
 
 
