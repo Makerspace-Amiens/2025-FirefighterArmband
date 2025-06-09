@@ -43,13 +43,6 @@ Cette section présente les différentes étapes de conception du prototype, div
   margin-bottom: 0.4rem;
 }
 
-.separator {
-  width: 20px;
-  height: 1.2rem;
-  border-left: 2px solid #d62828;
-  margin: 0.3rem 0;
-}
-
 .bubble-desc {
   font-size: 13px;
   color: #333;
@@ -84,19 +77,16 @@ Cette section présente les différentes étapes de conception du prototype, div
   <!-- Bulles -->
   <div class="bubble" id="bubble1">
     <div class="bubble-title">Électronique</div>
-    <div class="separator"></div>
     <div class="bubble-desc">Choix des composants, schémas, alimentation…</div>
   </div>
 
   <div class="bubble" id="bubble2">
     <div class="bubble-title">Modélisation d’un boîtier</div>
-    <div class="separator"></div>
     <div class="bubble-desc">Conception, impression 3D, ergonomie…</div>
   </div>
 
   <div class="bubble" id="bubble3">
     <div class="bubble-title">Programmation du brassard</div>
-    <div class="separator"></div>
     <div class="bubble-desc">Architecture, contraintes, affichage…</div>
   </div>
 
