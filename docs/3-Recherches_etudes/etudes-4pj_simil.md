@@ -92,7 +92,7 @@ Logiciel professionnel pour la gestion des points d’eau incendie (cartographie
 
 ---
 
-## Points d’attention majeurs
+## <span style="color:#d62828;">Points d’attention majeurs</span>
 
 - **Technologies de communication** : Bluetooth, Wi-Fi, GPS  
 - **Ergonomie et confort** : Adaptabilité au port prolongé et aux conditions d’intervention  
@@ -103,7 +103,7 @@ Logiciel professionnel pour la gestion des points d’eau incendie (cartographie
 
 ---
 
-## Synthèse comparative
+## <span style="color:#d62828;">Synthèse comparative</span> 
 
 | Critère             | Projets existants                         | Notre projet FirefighterArmband                 |
 |---------------------|-----------------------------------------|------------------------------------------------|

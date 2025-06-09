@@ -21,7 +21,7 @@ nav_order: 12
 
 ---
 
-## Membres du projet
+##  <span style="color:#d62828;">Membres du projet</span>
 
 <div class="team-container">
 
@@ -47,7 +47,7 @@ nav_order: 12
 
 ---
 
-## Encadrants du Projet I3
+##  <span style="color:#d62828;">Encadrants du Projet I3</span>
 
 <div class="team-container">
 
@@ -67,7 +67,7 @@ nav_order: 12
 
 ---
 
-## Makerspace Amiens
+##  <span style="color:#d62828;">Makerspace Amiens</span>
 
 <p style="text-align: center; font-size: 1.1em;">
 🔗 <a href="https://makerspace-amiens.fr" target="_blank" rel="noopener noreferrer">https://makerspace-amiens.fr</a>

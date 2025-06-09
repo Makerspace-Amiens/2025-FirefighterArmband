@@ -12,13 +12,13 @@ Pour garantir la pertinence du projet, nous avons sollicité l’aide de plusieu
 - **Adjudant-chef RADKE Robert**, pompier professionnel et connaissance, a facilité les premiers échanges,
 - **Commandant DUCROS Mathieu**, a permis la prise de contact avec les services techniques en charge de la cartographie, de l'informatique et de la logistique vestimentaire.
 
-## Actions réalisées
+##  <span style="color:#d62828;">Actions réalisées</span>
 
 - Présentation du projet aux pompiers du SDIS,
 - Étude des contraintes opérationnelles liées aux tenues, déplacements, autonomie et ergonomie,
 - Attestation sur l’honneur rédigée pour encadrer l’usage des données issues du SDIS.
 
-## Soutiens concrets
+##  <span style="color:#d62828;">Soutiens concrets</span>
 
 - Prêt d’une **veste anti-feu complète** pour la journée des projets,
 - Présentation des interventions incendies en zone rurale (Mailly-Maillet) ainsi que des localisations et extractions de l'eau;

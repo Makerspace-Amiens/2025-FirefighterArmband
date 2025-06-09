@@ -111,7 +111,7 @@ title: Accueil
 <!-- --------------------------------------------------------------------------------- -->
 
 
-## Structure du site
+##  <span style="color:#d62828;">Structure du site</span>
 
 Vous trouverez dans les différentes sections :
 <div style="max-width: 800px; margin: auto; padding: 1rem; font-size: 1.1em; line-height: 1.8;">
@@ -145,7 +145,7 @@ Vous trouverez dans les différentes sections :
 <!-- --------------------------------------------------------------------------------- -->
 
 
-## À qui s'adresse ce projet ?
+##  <span style="color:#d62828;">À qui s'adresse ce projet ?</span>
 
 <div style="display: flex; justify-content: space-between; gap: 1rem; margin: 2rem 0; text-align: center;">
 <div style="flex: 1; padding: 1rem; border: 2px solid #d62828; border-radius: 12px; background-color: #fdf3f3;">

@@ -14,7 +14,7 @@ Le <strong>FirefighterArmband</strong> vise à fournir un outil embarqué permet
 
 ---
 
-## Contexte opérationnel
+## <span style="color:#d62828;">Contexte opérationnel</span>
 
 Lors des interventions, les pompiers doivent accéder rapidement à une source d’eau (bouche, poteau, citerne, point naturel). Actuellement, ces informations sont souvent disponibles uniquement depuis les véhicules via des cartographies embarquées, ce qui ralentit la prise de décision sur le terrain, en particulier dans :
 
@@ -26,7 +26,7 @@ Le besoin d’un outil individuel, mobile, accessible **directement sur l’équ
 
 ---
 
-## Objectifs techniques
+##  <span style="color:#d62828;">Objectifs techniques</span>
 
 Le dispositif vise à répondre à plusieurs impératifs :
 
@@ -40,7 +40,7 @@ Le dispositif vise à répondre à plusieurs impératifs :
 
 ---
 
-## Existant et inspiration
+##  <span style="color:#d62828;">Existant et inspiration</span>
 
 Des solutions partielles existent déjà :
 
@@ -52,7 +52,7 @@ Cependant, aucune ne répond entièrement aux **contraintes d’usage terrain de
 
 ---
 
-## Cahier des charges fonctionnel (résumé)
+##  <span style="color:#d62828;">Cahier des charges fonctionnel (résumé)</span>
 
 - Localisation des points d’eau par GPS
 - Indication directionnelle + distance
