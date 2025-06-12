@@ -13,23 +13,34 @@ Ce projet n'aurait jamais pu voir le jour sans l'aide, le soutien et l'engagemen
 
 ---
 
-### <span style="color:#003049;">Nos collaborateurs</span>
+## <span style="color:#d62828;">Nos collaborateurs</span>
 
 Nous remercions chaleureusement l’ensemble de nos **camarades de classe** pour leur implication, leurs retours constructifs et leur soutien.  
 Nos remerciements vont tout particulièrement à **nos enseignants encadrants**, dont vous trouverez les noms dans l’onglet [Contacts](./contacts.html). Leur expertise, leur écoute et leur accompagnement ont été des atouts déterminants pour structurer notre démarche, approfondir notre compréhension et donner de la cohérence à notre travail.
 
 ---
 
-### <span style="color:#003049;">Mlle LELEU Clémence</span>
+## <span style="color:#d62828;">Mlle LELEU Clémence</span>
 
-Nous tenons à remercier **Mlle LELEU Clémence** pour son accueil, ses échanges et l’inspiration apportée par son propre projet.  
-Son travail, à la fois technique et abouti, a représenté une référence concrète dans notre réflexion.  
-Son projet est accessible à l’adresse suivante :  
-[https://makerspace-amiens.fr/2025-BipedRobot/](https://makerspace-amiens.fr/2025-BipedRobot/)
+<div style="border-left: 4px solid #d62828; padding-left: 1rem; margin: 1.5rem 0; background-color: #f9f9f9; padding: 1rem; border-radius: 6px;">
+
+Nous remercions tout spécialement <strong>Mlle LELEU Clémence</strong>, dont l’aide a été déterminante pour la mise en ligne de ce site.  
+Grâce à ses conseils et à son accompagnement, nous avons pu :
+- prendre en main <strong>GitHub Pages</strong> efficacement,  
+- structurer proprement notre dépôt Git,  
+- et rendre notre projet visible et accessible en ligne.
+
+Son projet personnel, à la fois rigoureux et inspirant, est consultable ici :  
+<a href="https://makerspace-amiens.fr/2025-BipedRobot/" target="_blank" style="color:#d62828; font-weight:bold; text-decoration: none;">
+makerspace-amiens.fr/2025-BipedRobot/
+</a>
+
+</div>
+
 
 ---
 
-### <span style="color:#003049;">Adjudant-chef RADKE Robert</span>
+## <span style="color:#d62828;">Adjudant-chef RADKE Robert</span>
 
 Nos remerciements les plus sincères vont à **l’Adjudant-chef RADKE Robert**, pompier professionnel et précieux appui tout au long du projet. Son implication a largement dépassé nos attentes. Il a notamment :
 
@@ -45,14 +56,14 @@ Son engagement personnel et professionnel a été un soutien inestimable pour do
 
 ---
 
-### <span style="color:#003049;">L'école</span>
+## <span style="color:#d62828;">L'école</span>
 
 Enfin, nous remercions **l'école** pour l’attribution d’un **budget de 250 €**, dont environ **120 €** ont été utilisés pour la fabrication de notre **premier prototype**.  
 Ce soutien financier nous a permis d’acquérir les composants nécessaires et de mener à bien la première phase de développement du dispositif.
 
 ---
 
-Grâce à ces soutiens variés et précieux, ce projet a pu se concrétiser dans les meilleures conditions possibles.
+> Grâce à ces soutiens variés et précieux, ce projet a pu se concrétiser dans les meilleures conditions possibles.
 
 
 <!----------------------------------------------------------------------------->
