@@ -43,13 +43,29 @@ Le boîtier a été conçu en deux parties emboîtables avec emplacements prévu
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: flex-start; gap: 30px; margin-bottom: 2rem;">
 
   <div style="flex: 1 1 400px; order: 1;">
-    <ul>
-      <li>Création de maquettes plates à la découpeuse laser pour valider les dimensions de l’écran et des modules.</li>
-      <li>Impression d’un premier boîtier 3D pour tester l’encombrement général et les passages de câbles.</li>
-      <li>Échec d’un prototype final (défaut d’impression), mais validation de tous les ajustements nécessaires.</li>
-      <li>Conception finale modifiée et ajustée pour une impression réussie et un emboîtement propre.</li>
+    <ul style="margin: 0; padding-left: 1.2rem;">
+      <li>
+        <strong>1<sup>er</sup> prototype – Découpeuse laser</strong><br/>
+        Réalisé en bois fin. L’espace entre les boutons et les bords était trop réduit, rendant la structure fragile. L’épaisseur insuffisante provoquait des cassures à la manipulation. Ce test a permis d’identifier les zones à renforcer.
+      </li>
+      <br/>
+      <li>
+        <strong>2<sup>e</sup> prototype – Découpeuse laser</strong><br/>
+        Découpe plus nette et épaisse, mais bord de l’écran et zones de bouton trop rigides. Le positionnement nécessitait des ajustements de profondeur. Nous avons alors intégré des <em>congés</em> et une <em>courbure</em> sur OnShape pour mieux épouser la forme des composants.
+      </li>
+      <br/>
+      <li>
+        <strong>3<sup>e</sup> prototype – Impression 3D (test d'ajustement)</strong><br/>
+        Ce prototype a permis de valider l'ensemble des dimensions : écran, boutons, câblage. L'ajustement était bon et les composants s’inséraient correctement. Cela nous a permis de passer à la modélisation complète du boîtier.
+      </li>
+      <br/>
+      <li>
+        <strong>4<sup>e</sup> prototype – Impression 3D (boîtier final raté)</strong><br/>
+        L’impression complète a échoué à cause d’un affaissement lors de l’impression des bords verticaux. Le résultat présentait des irrégularités bloquant l’insertion de l’écran. Cette erreur nous a permis de corriger les points faibles du modèle pour réussir la version finale.
+      </li>
     </ul>
   </div>
+
 
   <div style="flex: 0 1 300px; text-align: center; order: 2;">
     <img src="../images/protosmod.png" alt="Prototypes de test" style="width:100%; max-width:320px; border-radius:8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
