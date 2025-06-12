@@ -5,12 +5,67 @@ parent: Supports
 nav_order: 1
 ---
 
-## <span style="color:#d62828;">Poster</span>
+# Poster de Présentation
 
-Pour un peu plus d'imagination !
+## <span style="color:#d62828;">Objectif</span>
 
-![Poster projet](images/Poster9.pdf)
+Le poster synthétise le projet **FirefighterArmband** pour une communication claire lors d’événements publics ou pédagogiques.  
+Il a été construit en plusieurs étapes, avec des allers-retours pour améliorer sa lisibilité, son impact visuel et la clarté du message.
 
+---
+
+## <span style="color:#d62828;">Prototype 1</span>
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; margin-bottom: 2rem;">
+
+  <div style="flex: 1 1 300px;">
+    <img src="../images/ProtoPoster1.png" alt="Prototype Poster 1" style="width:100%; max-width:500px; border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  </div>
+
+  <div style="flex: 1 1 300px;">
+    <p><strong>Problèmes identifiés :</strong></p>
+    <ul>
+      <li>Trop de texte réparti de manière dense</li>
+      <li>Absence de hiérarchisation visuelle</li>
+      <li>Projet pas suffisamment mis en valeur au centre</li>
+    </ul>
+  </div>
+
+</div>
+
+---
+
+## <span style="color:#d62828;">Prototype 2</span>
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; margin-bottom: 2rem;">
+
+  <div style="flex: 1 1 300px;">
+    <img src="../images/ProtoPoster2.png" alt="Prototype Poster 2" style="width:100%; max-width:500px; border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  </div>
+
+  <div style="flex: 1 1 300px;">
+    <p><strong>Évolutions apportées :</strong></p>
+    <ul>
+      <li>Meilleure structuration du contenu</li>
+      <li>Ajout de visuels techniques</li>
+      <li>Mais encore trop d’éléments textuels</li>
+    </ul>
+  </div>
+
+</div>
+
+---
+
+## <span style="color:#d62828;">Poster final</span>
+
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="../images/Poster9.pdf" target="_blank" style="font-weight: bold; font-size: 1.1em; color: #d62828; text-decoration: underline;">
+    ▶️ Télécharger le poster final (PDF)
+  </a>
+  <br/><br/>
+  <img src="../images/Poster9.pdf" alt="Poster Final" style="width:100%; max-width:700px; border-radius:8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
+  <p style="font-size: 0.9em; margin-top: 0.5rem;">Poster n°9 – utilisé lors de la Journée des Projets</p>
+</div>
 
 
 <!----------------------------------------------------------------------------->

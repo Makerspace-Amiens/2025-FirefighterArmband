@@ -25,21 +25,27 @@ Développer un dispositif portable et robuste, intégré à la manche des vestes
 | `tests/` *(à venir)* | Plans de tests (autonomie, robustesse, précision GPS...). |
 
 
-## Comment Utiliser ce Repository ?
 
-1. 📖 Lire la documentation dans `docs/` pour comprendre l’architecture.
-2. 💾 Télécharger et tester le code dans `software/` sur une carte ESP32-S3.
-3. 🖨️ Imprimer le boîtier à l’aide des fichiers dans `3D_models/`.
-4. 🧪 Effectuer vos propres tests ou proposer des améliorations.
+## Utilisation du Repository
+
+1. Lire la documentation dans `docs/` pour comprendre la structure du projet.
+2. Flasher le code du dossier `software/` sur une carte **ESP32-S3 CrowPanel**.
+3. Imprimer le boîtier final à partir des modèles disponibles dans `3D_models/`.
+4. Intégrer les modules (GPS, boussole) et procéder aux tests.
 
 
-##  Contribution
 
-Nous **accueillons volontiers les contributions** au projet !
+## Contribution
 
-- Avant toute PR, merci de consulter les **[directives de contribution](./CONTRIBUTING.md)** *(à ajouter)*.
-- Testez les modifications et documentez-les clairement.
-- Si vous ajoutez du matériel, précisez les références techniques.
+Ce projet est ouvert aux retours, idées et propositions d’amélioration.
+
+Si vous souhaitez contribuer ou en savoir plus :
+
+- Consultez notre **documentation complète** sur le site du projet : [makerspace-amiens.fr/firefighter-armband](https://makerspace-amiens.fr/firefighter-armband) *(ou lien direct vers le GitHub Pages si différent)*  
+- Contactez directement l’équipe via la page **[Contact](./docs/12-Contacts/contacts.md)** ou par email (voir documentation).
+
+> Toute contribution technique ou logicielle devra être discutée en amont pour garantir la cohérence du projet avec ses objectifs pédagogiques et fonctionnels.
+
 
 
 ## Contact
