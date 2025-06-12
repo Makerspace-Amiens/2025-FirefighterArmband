@@ -16,7 +16,8 @@ Ce projet n'aurait jamais pu voir le jour sans l'aide, le soutien et l'engagemen
 ## <span style="color:#d62828;">Nos collaborateurs</span>
 
 Nous remercions chaleureusement l’ensemble de nos **camarades de classe** pour leur implication, leurs retours constructifs et leur soutien.  
-Nos remerciements vont tout particulièrement à **nos enseignants encadrants**, dont vous trouverez les noms dans l’onglet [Contacts](./contacts.html). Leur expertise, leur écoute et leur accompagnement ont été des atouts déterminants pour structurer notre démarche, approfondir notre compréhension et donner de la cohérence à notre travail.
+
+>Nos remerciements vont tout particulièrement à **nos enseignants encadrants**, dont vous trouverez les noms dans l’onglet [Contacts](./contacts.html). Leur expertise, leur écoute et leur accompagnement ont été des atouts déterminants pour structurer notre démarche, approfondir notre compréhension et donner de la cohérence à notre travail.
 
 ---
 
@@ -44,13 +45,42 @@ makerspace-amiens.fr/2025-BipedRobot/
 
 Nos remerciements les plus sincères vont à **l’Adjudant-chef RADKE Robert**, pompier professionnel et précieux appui tout au long du projet. Son implication a largement dépassé nos attentes. Il a notamment :
 
-- Organisé plusieurs présentations sur les missions et contraintes du métier de pompier.
-- Pris le temps de répondre à toutes nos questions avec précision.
-- Mis à notre disposition une **tenue de feu professionnelle**, utilisée pour notre présentation à la **Journée des Projets**.
-- Facilitée la prise de contact avec des **officiers supérieurs**.
+- 
+- 
+- M
+- 
 - Fait tout son possible pour nous aider à obtenir :
-  - **Le logiciel de localisation des points d’eau** utilisé par les pompiers, que nous souhaitions intégrer au brassard.
-  - Une **veste de feu** pour réaliser des tests concrets d’intégration.
+  - 
+  - 
+<div style="max-width: 800px; margin: auto; padding: 1rem; font-size: 1.1em; line-height: 1.8;">
+<ul style="list-style-type: none; padding-left: 0;">
+  <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
+    🔹 Organisé plusieurs présentations sur les missions et contraintes du métier de pompier.
+  </li>
+  <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
+    🔹 Pris le temps de répondre à toutes nos questions avec précision.
+  </li>
+  <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
+    🔹 Mis à notre disposition une **tenue de feu professionnelle**, utilisée pour notre présentation à la **Journée des Projets**.
+  </li>
+  <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
+    🔹 Facilitée la prise de contact avec des **officiers supérieurs**.
+  </li>
+  <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
+    🔹 Fait tout son possible pour nous aider à obtenir :
+  </li>
+  <ul>
+    </li>
+    <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solidrgba(214, 40, 40, 0.74);">
+      🔹 **Le logiciel de localisation des points d’eau** utilisé par les pompiers, que nous souhaitions intégrer au brassard.
+    </li>
+    <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solidrgba(214, 40, 40, 0.74);">
+      🔹 Une **veste de feu** pour réaliser des tests concrets d’intégration.
+    </li>
+  </ul>
+</ul>
+
+</div>
 
 Son engagement personnel et professionnel a été un soutien inestimable pour donner au projet une dimension réaliste et pertinente.
 
