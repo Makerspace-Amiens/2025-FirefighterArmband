@@ -59,14 +59,14 @@ Il a été construit en plusieurs étapes, avec des allers-retours pour amélior
 ## <span style="color:#d62828;">Poster final</span>
 
 <div style="text-align: center; margin-top: 2rem;">
-  <a href="../images/Poster9.pdf" target="_blank" style="font-weight: bold; font-size: 1.1em; color: #d62828; text-decoration: underline;">
-    ▶️ Télécharger le poster final (PDF)
+  <a href="../images/PosterFinal.png" target="_blank" style="font-weight: bold; font-size: 1.1em; color: #d62828; text-decoration: underline;">
+    ▶️ Télécharger le poster final
   </a>
   <br/><br/>
-  <img src="../images/Poster9.pdf" alt="Poster Final" style="width:100%; max-width:700px; border-radius:8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
+  <img src="../images/PosterFinal.png" alt="Poster Final" style="width:100%; max-width:700px; border-radius:8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
   <p style="font-size: 0.9em; margin-top: 0.5rem;">Poster n°9 – utilisé lors de la Journée des Projets</p>
 </div>
-
+../images/PosterFinal.png
 
 <!----------------------------------------------------------------------------->
 
