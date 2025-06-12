@@ -28,10 +28,26 @@ Elle permet d’en visualiser les fonctionnalités, la conception, le prototype,
 
 ## <span style="color:#d62828;">Vidéo</span>
 
-<div style="text-align: center; margin-top: 2rem; margin-bottom: 1rem;">
-  <video controls src="../images/Vidéo_Final.mp4" title="Vidéo de présentation du FirefighterArmband" style="width:100%; max-width:800px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"></video>
-  <p style="font-size: 0.9em; margin-top: 0.5rem;">Vidéo de présentation du projet – format court (1min30)</p>
+La vidéo étant trop volumineuse pour GitHub Pages (124 Mo), elle est hébergée sur Google Drive.
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://drive.google.com/file/d/1uaQsOHQRo6gNZOQUum38T-cCwVlf8Z7x/view?usp=sharing"
+     target="_blank"
+     style="display: inline-block; border: 4px solid #d62828; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="../images/introvideo.png" alt="Vidéo de présentation" style="display: block; max-width: 100%; height: auto; cursor: pointer;">
+  </a>
 </div>
+
+<div style="text-align: center; margin: 1rem 0;">
+  <a href="https://drive.google.com/file/d/1uaQsOHQRo6gNZOQUum38T-cCwVlf8Z7x/view?usp=sharing"
+     target="_blank"
+     style="display: inline-block; background-color: #d62828; color: white; padding: 12px 24px; border-radius: 8px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    ▶️ Voir la vidéo de présentation sur Google Drive
+  </a>
+</div>
+
+> N'hésitez pas à activer le plein écran sur Google Drive pour un meilleur confort de visionnage.
+
 
 ---
 

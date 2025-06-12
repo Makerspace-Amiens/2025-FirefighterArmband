@@ -5,7 +5,7 @@ parent: Supports
 nav_order: 4
 ---
 
-# Dépôt GitHub et gestion du site
+# Dépôt GitHub 
 
 ## <span style="color:#d62828;">Objectif</span>
 

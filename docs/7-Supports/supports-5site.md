@@ -35,7 +35,7 @@ Grâce à l’usage de **github.dev**, une interface d’édition directement ac
 
 ---
 
-## <span style="color:#d62828;">Aperçu du site</span>
+## <span style="color:#d62828;">Aperçu de la programmation du site</span>
 
 <div style="text-align: center; margin-top: 2rem; margin-bottom: 1rem;">
   <img src="../images/sitegitdev.png" alt="Capture du site web GitHub Pages" style="width:100%; max-width:700px; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.2);" />
