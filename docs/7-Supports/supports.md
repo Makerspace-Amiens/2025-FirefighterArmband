@@ -5,10 +5,59 @@ nav_order: 7
 has_children: true
 ---
 
-
+# Supports
 
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
+
+---
+layout: default
+title: Supports
+nav_order: 7
+has_children: true
+---
+
+# Supports de communication et de suivi
+
+## <span style="color:#d62828;">Présentation de la section</span>
+
+Le projet **FirefighterArmband** a nécessité la création de nombreux supports de travail, de présentation et de documentation.  
+Cette section regroupe l’ensemble des outils et livrables qui ont accompagné la conception et la mise en valeur du projet.
+
+Ils témoignent de notre capacité à :
+
+- Organiser efficacement un projet court et contraint (75h, 250 €)
+- Communiquer nos résultats de manière professionnelle
+- Exploiter des outils collaboratifs (Trello, Teams, GitHub)
+- Présenter un prototype fonctionnel avec clarté et rigueur
+
+---
+
+## <span style="color:#d62828;">Contenu de cette section</span>
+
+Chaque sous-page détaille un type de support :
+
+| Thématique            | Description |
+|-----------------------|-------------|
+| [Poster](supports-1poster.md)            | Versions du poster, de l’ébauche au modèle final |
+| [Trello](supports-2trello.md)            | Organisation des tâches, suivi de l’avancement |
+| [Teams](supports-3teams.md)              | Plateforme centrale d’échange et de partage |
+| [GitHub](supports-4github.md)            | Hébergement, gestion du dépôt, difficultés rencontrées |
+| [Site Web](supports-5site.md)            | Création du site via GitHub Pages |
+| [Vidéo de présentation](supports-6vidéo.md) | Présentation synthétique et visuelle du projet |
+
+---
+
+## <span style="color:#d62828;">Utilité des supports</span>
+
+L’ensemble de ces supports permet :
+
+- Un suivi rigoureux et traçable du projet
+- Une documentation complète accessible en ligne
+- Une valorisation du travail réalisé
+- Une base de référence pour des projets futurs
+
+> Ce travail de structuration et de présentation fait pleinement partie des compétences attendues en gestion de projet technique et en ingénierie de terrain.
 
 
 <!----------------------------------------------------------------------------->

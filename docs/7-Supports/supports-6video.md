@@ -5,19 +5,44 @@ parent: Supports
 nav_order: 6
 ---
 
+# Vidéo de Présentation
 
-##  <span style="color:#d62828;">Vidéo</span>
+## <span style="color:#d62828;">Objectif</span>
 
-Ici vous publierez la vidéo de votre projet. 
-- Moins de 1min30
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
+Présenter le projet **FirefighterArmband** de manière claire et dynamique à travers une courte vidéo.  
+Elle permet d’en visualiser les fonctionnalités, la conception, le prototype, et de comprendre les choix réalisés, en complément du site et du poster.
 
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
+---
+
+## <span style="color:#d62828;">Consignes respectées</span>
+
+- Durée : **moins de 1min30**
+- Introduction du contexte et des objectifs
+- Présentation du fonctionnement du dispositif
+- Vues du **prototype physique** et de l’**interface logicielle**
+- Plans explicatifs du fonctionnement global
+- Conclusion claire et synthétique
+- Stockée localement (poids < 50 Mo)
+
+---
+
+## <span style="color:#d62828;">Vidéo</span>
+
+<div style="text-align: center; margin-top: 2rem; margin-bottom: 1rem;">
+  <video controls src="../images/Vidéo_Final.mp4" title="Vidéo de présentation du FirefighterArmband" style="width:100%; max-width:800px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"></video>
+  <p style="font-size: 0.9em; margin-top: 0.5rem;">Vidéo de présentation du projet – format court (1min30)</p>
+</div>
+
+---
+
+## <span style="color:#d62828;">Remarques</span>
+
+Cette vidéo peut être utilisée en tant que :
+- Support visuel lors de soutenances ou présentations publiques
+- Aperçu rapide du projet pour des recruteurs ou visiteurs
+- Démonstration intégrée dans un portfolio ou dossier technique
+
+> Le ton est volontairement pédagogique et synthétique, à l’image du projet.
 
 
 

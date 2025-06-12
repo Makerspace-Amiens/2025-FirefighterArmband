@@ -66,7 +66,7 @@ Il a été construit en plusieurs étapes, avec des allers-retours pour amélior
   <img src="../images/PosterFinal.png" alt="Poster Final" style="width:100%; max-width:700px; border-radius:8px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
   <p style="font-size: 0.9em; margin-top: 0.5rem;">Poster n°9 – utilisé lors de la Journée des Projets</p>
 </div>
-../images/PosterFinal.png
+
 
 <!----------------------------------------------------------------------------->
 

@@ -30,7 +30,10 @@ Rester sous un budget de **250 € TTC**, frais de port compris, pour l’ensemb
 
 > Pour les commandes, nous devions passer par un onglet dédié sur le Teams général de la matière, où chaque demande était soumise à validation. Chaque soumission comportait les informations suivantes : nom du composant, prix, lien vers le site fournisseur, capture d’écran, etc. Après approbation, l’école regroupait les commandes de plusieurs groupes par site de livraison afin de réduire les coûts, puis passait la commande globale.
 
-
+<div style="text-align: center; margin-top: 1rem; margin-bottom: 2rem;">
+  <img src="../images/ApproComAchat.png" alt="Schéma d'approvisionnement, commande et achat" style="width:100%; max-width:800px; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.2);" />
+  <p style="font-size: 0.9em; margin-top: 0.5rem;">Illustration du processus d’approvisionnement, de commande et d’achat des composants du projet</p>
+</div>
 
 <!----------------------------------------------------------------------------->
 
