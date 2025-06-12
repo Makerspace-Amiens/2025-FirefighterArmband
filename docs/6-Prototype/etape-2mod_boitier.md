@@ -30,7 +30,7 @@ Le boîtier a été conçu en deux parties emboîtables avec emplacements prévu
   </div>
 
   <div style="flex: 1 1 45%; text-align: center;">
-    <img src="../images/protomodfin.png" alt="Modèle prêt à l'impression" style="width:100%; max-width:320px; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
+    <img src="../images/protofinal3D.png" alt="Modèle prêt à l'impression" style="width:100%; max-width:320px; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
     <p style="font-size: 0.9em; margin-top: 0.5rem;">Modèle final prêt pour l'impression 3D</p>
   </div>
 
@@ -40,9 +40,9 @@ Le boîtier a été conçu en deux parties emboîtables avec emplacements prévu
 
 ## <span style="color:#d62828;">Étapes de prototypage</span>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px; margin-bottom: 2rem;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: flex-start; gap: 30px; margin-bottom: 2rem;">
 
-  <div style="flex: 1 1 420px;">
+  <div style="flex: 1 1 400px; order: 1;">
     <ul>
       <li>Création de maquettes plates à la découpeuse laser pour valider les dimensions de l’écran et des modules.</li>
       <li>Impression d’un premier boîtier 3D pour tester l’encombrement général et les passages de câbles.</li>
@@ -51,12 +51,13 @@ Le boîtier a été conçu en deux parties emboîtables avec emplacements prévu
     </ul>
   </div>
 
-  <div style="flex: 1 1 300px; text-align: center;">
-    <img src="../images/protosmod.png" alt="Prototypes de test" style="width:100%; max-width:320px; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
+  <div style="flex: 0 1 300px; text-align: center; order: 2;">
+    <img src="../images/protosmod.png" alt="Prototypes de test" style="width:100%; max-width:320px; border-radius:8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
     <p style="font-size: 0.9em; margin-top: 0.5rem;">Maquettes testées (laser + 3D)</p>
   </div>
 
 </div>
+
 
 ---
 
@@ -71,7 +72,7 @@ Le boîtier a été conçu en deux parties emboîtables avec emplacements prévu
   </div>
 
   <div style="flex: 1 1 300px; text-align: center;">
-    <img src="../images/protofinal3D.png" alt="Prototype final assemblé" style="width:100%; max-width:320px; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
+    <img src="../images/protomodfin.png" alt="Prototype final assemblé" style="width:100%; max-width:320px; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
     <p style="font-size: 0.9em; margin-top: 0.5rem;">Prototype final assemblé</p>
   </div>
 
