@@ -74,7 +74,7 @@ Nos remerciements les plus sincères vont à **l’Adjudant-chef RADKE Robert**,
 
 </div>
 
-Son engagement personnel et professionnel a été un soutien inestimable pour donner au projet une dimension réaliste et pertinente.
+> Son engagement personnel et professionnel a été un soutien inestimable pour donner au projet une dimension réaliste et pertinente.
 
 ---
 
@@ -85,7 +85,9 @@ Ce soutien financier nous a permis d’acquérir les composants nécessaires et 
 
 ---
 
-> Grâce à ces soutiens variés et précieux, ce projet a pu se concrétiser dans les meilleures conditions possibles.
+<div style="border-left: 4px solid #d62828; background-color: #ffeaea; padding: 1rem; margin: 1.5rem 0; border-radius: 6px; font-style: italic;">
+  Grâce à ces soutiens variés et précieux, ce projet a pu se concrétiser dans les meilleures conditions possibles.
+</div>
 
 
 <!----------------------------------------------------------------------------->
