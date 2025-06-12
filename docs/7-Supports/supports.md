@@ -10,15 +10,6 @@ has_children: true
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
----
-layout: default
-title: Supports
-nav_order: 7
-has_children: true
----
-
-# Supports de communication et de suivi
-
 ## <span style="color:#d62828;">Présentation de la section</span>
 
 Le projet **FirefighterArmband** a nécessité la création de nombreux supports de travail, de présentation et de documentation.  
