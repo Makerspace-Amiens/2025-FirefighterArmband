@@ -5,6 +5,11 @@ parent: Prototype
 nav_order: 1
 ---
 
+à mettre : 
+- précime recherche et doc tech
+- élec boussole et gps
+- boussole dans le boitier
+- gps HS
 
 <!----------------------------------------------------------------------------->
 

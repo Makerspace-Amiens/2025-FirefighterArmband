@@ -5,6 +5,17 @@ parent: Retour
 nav_order: 2
 ---
 
+# Difficultés rencontrées
+
+à mettre : 
+- rappel rapide gps boussole
+- taille de l'écran
+- logiciel et veste de feu
+- Site GitHub
+- TEMPS
+  - phase de recherches (projet de 0)
+  - moitié du temps pour la partie technique (pas le temps de gérer les imprévus)
+  -...
 
 <!----------------------------------------------------------------------------->
 

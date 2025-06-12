@@ -5,6 +5,22 @@ parent: Retour
 nav_order: 3
 ---
 
+# Amélioration possibles
+
+(intro)
+
+- du prototype :
+  - gps
+  - boussole
+  - librairie lgfx de l'interface graphique
+  - logiciel des pompiers adaptés au brassard
+  - veste de feu pour intégrer le brassard
+  - avoir une batterie
+  - ...
+
+- du projet : 
+  - ajout localisation des DAE, hopitaux,...
+  - ...
 
 <!----------------------------------------------------------------------------->
 

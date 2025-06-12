@@ -5,6 +5,14 @@ parent: Programmation du brassard
 nav_order: 1
 ---
 
+# Contraintes techniques de programmation
+
+à mettre : 
+- l'inconnu de l'écran et la marque CrowPanel
+- flèche directionnelle
+- distance et orientation avec gps et boussole
+- affichage simple et clair
+- rapide et visible
 
 <!----------------------------------------------------------------------------->
 

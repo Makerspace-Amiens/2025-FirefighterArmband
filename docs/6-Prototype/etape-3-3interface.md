@@ -5,6 +5,13 @@ parent: Programmation du brassard
 nav_order: 3
 ---
 
+# Interface et Interface graphique
+
+à mettre : 
+- problème de librairies
+- abandon de la fflèche directionnelle
+- interface simple sans librairies
+- adaptabilité
 
 <!----------------------------------------------------------------------------->
 

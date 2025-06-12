@@ -5,6 +5,13 @@ parent: Programmation du brassard
 nav_order: 2
 ---
 
+# Programmation du brassard
+
+à mettre 
+- environnement : IDE Arduino
+- utilisation de bibliothèque crowpanel
+- explique les grande ligne de ton code et des librairies
+(-mettre un lien pour télécharger le code)
 
 
 <!----------------------------------------------------------------------------->

@@ -45,13 +45,6 @@ makerspace-amiens.fr/2025-BipedRobot/
 
 Nos remerciements les plus sincères vont à **l’Adjudant-chef RADKE Robert**, pompier professionnel et précieux appui tout au long du projet. Son implication a largement dépassé nos attentes. Il a notamment :
 
-- 
-- 
-- M
-- 
-- Fait tout son possible pour nous aider à obtenir :
-  - 
-  - 
 <div style="max-width: 800px; margin: auto; padding: 1rem; font-size: 1.1em; line-height: 1.8;">
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
@@ -61,21 +54,20 @@ Nos remerciements les plus sincères vont à **l’Adjudant-chef RADKE Robert**,
     🔹 Pris le temps de répondre à toutes nos questions avec précision.
   </li>
   <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
-    🔹 Mis à notre disposition une **tenue de feu professionnelle**, utilisée pour notre présentation à la **Journée des Projets**.
+    🔹 Mis à notre disposition une <strong>tenue de feu professionnelle</strong>, utilisée pour notre présentation à la <strong>Journée des Projets</strong>.
   </li>
   <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
-    🔹 Facilitée la prise de contact avec des **officiers supérieurs**.
+    🔹 Facilitée la prise de contact avec des <strong>officiers supérieurs</strong>.
   </li>
   <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solid #d62828;">
     🔹 Fait tout son possible pour nous aider à obtenir :
   </li>
   <ul>
+    <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solidrgba(214, 40, 40, 0.74);">
+      🔹 <strong>Le logiciel de localisation des points d’eau</strong> utilisé par les pompiers, que nous souhaitions intégrer au brassard.
     </li>
     <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solidrgba(214, 40, 40, 0.74);">
-      🔹 **Le logiciel de localisation des points d’eau** utilisé par les pompiers, que nous souhaitions intégrer au brassard.
-    </li>
-    <li style="margin-bottom: 0.5em; padding: 0.5em; background: #f8f9fa; border-left: 5px solidrgba(214, 40, 40, 0.74);">
-      🔹 Une **veste de feu** pour réaliser des tests concrets d’intégration.
+      🔹 Une <strong>veste de feu</strong> pour réaliser des tests concrets d’intégration.
     </li>
   </ul>
 </ul>

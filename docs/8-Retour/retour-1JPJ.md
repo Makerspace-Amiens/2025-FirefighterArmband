@@ -5,6 +5,14 @@ parent: Retour
 nav_order: 1
 ---
 
+# La Journée Des Projets du Mercredi 4 Juin 2025
+
+à mettre : 
+- contexte
+- présentation
+- attitudes à avoir
+- ce qu'on a présenter
+- retour conclusion
 
 <!----------------------------------------------------------------------------->
 
