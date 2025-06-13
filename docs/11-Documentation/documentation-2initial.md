@@ -12,7 +12,7 @@ Ces documents ont été essentiels pour clarifier la vision du projet, définir 
 
 ---
 
-## Mes documents de préparation
+## <span style="color:#d62828;">Mes documents de préparation</span>
 
 <ul>
   <li>
@@ -30,7 +30,7 @@ Ces documents ont été essentiels pour clarifier la vision du projet, définir 
 
 ---
 
-## Présentation des consignes de la matière
+## <span style="color:#d62828;">Présentation des consignes de la matière</span>
 
 <ul>
   <li>

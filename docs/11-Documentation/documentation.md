@@ -15,7 +15,7 @@ Cette section regroupe toutes les ressources, guides et documents techniques que
 
 ---
 
-## Structure de la documentation
+## <span style="color:#d62828;">Structure de la documentation</span>
 
 Nous avons organisé la documentation en trois parties distinctes pour plus de clarté et pour faciliter la consultation.
 
@@ -53,7 +53,7 @@ Cette partie contient toutes les informations techniques détaillées pour pours
 
 ---
 
-## Objectif de cette documentation
+## <span style="color:#d62828;">Objectif de cette documentation</span>
 
 Cette documentation a pour but de :
 <div style="display: flex; justify-content: center; gap: 20px; margin: 2rem 0;">
@@ -71,7 +71,6 @@ Cette documentation a pour but de :
   </div>
 
 </div>
-
 
 
 Bonne lecture !

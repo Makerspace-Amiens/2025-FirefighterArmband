@@ -7,8 +7,37 @@ parent: Documentation
 
 # Documentation Technique détaillée du projet
 
+doc en local pdf:
+doc de normes d'étanchéité :
 [text](../Docs_Tech/Certif_normes-etanch.pdf)
+
+document technique et d'inplémentation de l'écran
 [text](../Docs_Tech/DocTech_EcranCrowPanel.pdf)
+
+manuel de l'écran : 
+[text](../Docs_Tech/esp32-display-datasheet.pdf)
+[text](../Docs_Tech/esp32-user-manual.pdf)
+
+logiciel pompier manuel :
+[text](../Docs_Tech/Guide_LogicielPompier.pdf)
+
+
+liens : 
+achats:
+écran:
+https://eu.robotshop.com/fr/products/crowpanel-esp32-ecran-tactile-hmi-7-pouces-800x480-wi-fi-ble?qd=aa333dea406c3f1735552f31bd18a365
+boussole :
+https://www.gotronic.fr/art-module-boussole-grove-v2-101020492-27807.htm
+gps:
+https://www.gotronic.fr/art-module-gps-tel0094-25732.htm
+
+liens multimédia associé à l'écran :
+wiki : 
+https://www.elecrow.com/wiki/esp32-display-702727-intelligent-touch-screen-wi-fi26ble-800480-hmi-display.html?h=crow+panel+esp32
+tuto d'inplémentation :
+https://www.elecrow.com/wiki/Tutorials.html
+
+
 
 <!----------------------------------------------------------------------------->
 

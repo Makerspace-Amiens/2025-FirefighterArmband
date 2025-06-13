@@ -57,7 +57,7 @@ Le code principal s’articule autour de plusieurs modules :
 
 > Cette architecture simple mais robuste permet de maintenir le code facilement, tout en assurant une bonne réactivité lors de l’utilisation sur le terrain.
 
-(-mettre un lien pour télécharger le code)
+<!--(-mettre un lien pour télécharger le code)--->
 
 
 <!----------------------------------------------------------------------------->
