@@ -5,17 +5,22 @@ parent: Retour
 nav_order: 2
 ---
 
-# Difficultés rencontrées
+# ⚠️ Difficultés rencontrées
 
-à mettre : 
-- rappel rapide gps boussole
-- taille de l'écran
-- logiciel et veste de feu
-- Site GitHub
-- TEMPS
-  - phase de recherches (projet de 0)
-  - moitié du temps pour la partie technique (pas le temps de gérer les imprévus)
-  -...
+📡 Problème d’intégration du module GPS
+L’un des principaux obstacles a été l’intégration du module GPS. Malgré plusieurs tentatives, nous n’avons pas réussi à faire communiquer le GPS de manière fiable avec l’ESP32. En conséquence, les coordonnées utilisées dans le prototype étaient simulées pour la démonstration.
+
+📏 Erreur de format d’écran
+Nous avions initialement prévu un écran de 6 × 10 cm, compatible avec un format de brassard. Cependant, nous avons reçu un écran de 16 × 10 cm, soit beaucoup plus large que prévu. Ce changement a impacté :
+
+Le design du boîtier,
+
+L’équilibre du brassard porté au bras,
+
+Et l’ergonomie globale de l’appareil.
+
+⏱️ Contraintes de temps
+Enfin, le temps imparti au développement a été relativement court. Entre le choix du matériel, l’attente des livraisons, la conception mécanique, le codage et les tests, nous avons dû faire des compromis. Certains modules (comme le GPS) n’ont pas pu être pleinement intégrés, et la finition matérielle est restée partielle.
 
 <!----------------------------------------------------------------------------->
 

@@ -10,7 +10,9 @@ has_children: true
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
-(intro de la partie retour sur le projet)
+Le projet Firefighter Armband a été mené dans le cadre du semestre 6 à UniLaSalle. Notre objectif était de concevoir un brassard électronique destiné aux pompiers, capable d’afficher en temps réel la position GPS, la destination d’intervention et la distance restante. Ce retour fait le point sur la présentation du projet, les obstacles rencontrés, et les perspectives d’amélioration du prototype.
+
+
 
 <!----------------------------------------------------------------------------->
 

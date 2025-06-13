@@ -5,15 +5,24 @@ parent: Retour
 nav_order: 1
 ---
 
-# La Journée Des Projets du Mercredi 4 Juin 2025
+# 🧪 Journée des Projets – 4 juin 2025
 
-à mettre : 
-- contexte
-- présentation
-- attitudes à avoir
-- ce qu'on a présenter
-- retour conclusion
+🎤 Présentation devant le jury
+La Journée des Projets s’est tenue le mercredi 4 juin 2025. Nous avons présenté notre prototype à un jury composé principalement de nos enseignants. Cette session a été l’occasion de valoriser le travail réalisé en équipe tout au long du semestre.
 
+Nous avons expliqué le fonctionnement du brassard, le matériel utilisé (ESP32, écran TFT, GPS), et les contraintes spécifiques liées à une utilisation en contexte d’intervention.
+
+👨‍🔬 Déroulé de la démonstration
+Lors de la démonstration, le prototype affichait correctement :
+
+La position actuelle (en coordonnées GPS),
+
+La destination prédéfinie,
+
+Et la distance calculée en ligne droite entre les deux.
+
+Malgré les limites techniques rencontrées que nous expliquons juste après, nous avons pu mettre en avant la logique du système et les solutions implémentées. Le projet a suscité l’intérêt des jurys, notamment sur ses applications concrètes et les choix techniques faits avec les ressources disponibles.
+![alt text](../12-Contacts/photo_groupe.webp)
 <!----------------------------------------------------------------------------->
 
 <style>

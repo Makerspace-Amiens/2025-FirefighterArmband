@@ -6,21 +6,43 @@ nav_order: 3
 ---
 
 # Amélioration possibles
+🔧 Améliorations possibles
+🔥 Résistance à la chaleur et à l’environnement
+Pour un usage en intervention réelle, le brassard devra être :
 
-(intro)
+Résistant à la chaleur (plastique technique ou silicone),
 
-- du prototype :
-  - gps
-  - boussole
-  - librairie lgfx de l'interface graphique
-  - logiciel des pompiers adaptés au brassard
-  - veste de feu pour intégrer le brassard
-  - avoir une batterie
-  - ...
+Étanche à la poussière et à l’eau,
 
-- du projet : 
-  - ajout localisation des DAE, hopitaux,...
-  - ...
+Solide face aux chocs mécaniques.
+
+L’ensemble de l’électronique devra être isolé dans un boîtier robuste.
+
+🛰️ Intégration complète du GPS
+L’une des priorités est d’intégrer un module GPS fonctionnel et fiable, capable de :
+
+Récupérer la position actuelle en temps réel,
+
+Suivre un itinéraire défini,
+
+Communiquer potentiellement avec une base de données ou une appli mobile.
+
+🖥️ Interface graphique améliorée
+L’interface actuelle est fonctionnelle mais basique. Une version améliorée pourrait inclure :
+
+Une carte simplifiée ou des icônes directionnelles,
+
+Un affichage plus lisible avec des contrastes adaptés,
+
+Des alertes visuelles ou sonores en cas d’urgence ou d’erreur GPS.
+
+🧩 Conception mécanique retravaillée
+Le boîtier devra être redimensionné pour s’adapter à un écran plus petit ou adopter une disposition différente. Il faudra également :
+
+Ajouter une sangle confortable et ajustable,
+
+Prévoir un accès facile au port de charge et au bouton ON/OFF.
+
 
 <!----------------------------------------------------------------------------->
 
