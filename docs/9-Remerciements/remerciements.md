@@ -21,7 +21,7 @@ Nous remercions chaleureusement l’ensemble de nos **camarades de classe** pour
 
 ---
 
-## <span style="color:#d62828;">Mlle LELEU Clémence</span>
+## <span style="color:#d62828;">LELEU Clémence</span>
 
 <div style="border-left: 4px solid #d62828; padding-left: 1rem; margin: 1.5rem 0; background-color: #f9f9f9; padding: 1rem; border-radius: 6px;">
 
@@ -33,7 +33,7 @@ Grâce à ses conseils et à son accompagnement, nous avons pu :
 
 Son projet personnel, à la fois rigoureux et inspirant, est consultable ici :  
 <a href="https://makerspace-amiens.fr/2025-BipedRobot/" target="_blank" style="color:#d62828; font-weight:bold; text-decoration: none;">
-makerspace-amiens.fr/2025-BipedRobot/
+Robot Bipède
 </a>
 
 </div>
@@ -82,6 +82,17 @@ Nos remerciements les plus sincères vont à **l’Adjudant-chef RADKE Robert**,
 
 Enfin, nous remercions **l'école** pour l’attribution d’un **budget de 250 €**, dont environ **120 €** ont été utilisés pour la fabrication de notre **premier prototype**.  
 Ce soutien financier nous a permis d’acquérir les composants nécessaires et de mener à bien la première phase de développement du dispositif.
+
+---
+---
+
+<div style="border-left: 4px solid #d62828; background-color: #f9f9f9; padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 6px; line-height: 1.6;">
+
+Je tiens à exprimer ma profonde gratitude envers <strong>mes collègues de groupe, Roméo et Max</strong>, qui ont accepté de me rejoindre dans cette aventure technique et humaine.  
+C’est grâce à leur engagement et à leur confiance que nous avons pu choisir ce projet ambitieux et motivant.  
+Leur présence et leur implication ont largement contribué à rendre cette expérience aussi enrichissante que passionnante.
+
+</div>
 
 ---
 

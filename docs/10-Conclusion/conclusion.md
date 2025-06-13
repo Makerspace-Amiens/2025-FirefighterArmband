@@ -4,10 +4,41 @@ nav_order: 10
 title: Conclusion
 ---
 
-
+# Conclusion
 
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
+
+## 🎓 Conclusion du projet et de la matière *Projet I3*
+
+<div style="background-color: #f9f9f9; border-left: 4px solid #d62828; padding: 1.5rem; margin: 1.5rem 0; border-radius: 6px; line-height: 1.7;">
+
+Ce projet de <strong>brassard électronique pour les pompiers</strong> a été une aventure à la fois technique et humaine, menée dans le cadre de la matière <em>Projet I3</em>.<br><br>
+
+Tout au long de cette réalisation, nous avons su nous organiser efficacement, répartir les tâches intelligemment et collaborer dans une ambiance motivante et bienveillante.<br><br>
+
+Sur le plan technique, ce projet nous a permis de renforcer nos compétences en :
+<ul style="margin-top: 0.5rem; padding-left: 1.2rem;">
+  <li><strong>Programmation embarquée</strong> : maîtrise de l’écran, gestion des librairies spécifiques.</li>
+  <li><strong>Intégration de modules électroniques</strong> : notamment le module GPS (malgré quelques limites techniques).</li>
+  <li><strong>Développement et mise en ligne d’un site web</strong> grâce à une prise en main progressive de GitHub Pages et aux précieux conseils reçus.</li>
+</ul>
+
+Nous avons également progressé en <strong>gestion de projet</strong> : planification, suivi, gestion d’un budget restreint (250 €, dont environ 120 € utilisés pour ce premier prototype), communication, rédaction technique et vulgarisation.<br><br>
+
+Malgré ces contraintes, nous sommes fiers de présenter un prototype fonctionnel illustrant parfaitement notre concept.<br>
+Avec un <strong>module GPS pleinement opérationnel</strong> et la <strong>librairie graphique finalisée</strong>, nous disposerions déjà d’une première version complète et testable du brassard.<br>
+Nous restons convaincus qu’avec davantage de temps et de moyens, un prototype encore plus abouti, proche de notre vision initiale, pourrait voir le jour et être évalué en conditions réelles par des professionnels du secours.<br><br>
+
+En conclusion, ce projet démontre qu’un travail collectif bien organisé et motivé peut concrétiser une idée ambitieuse, même avec des ressources limitées.<br>
+Il illustre parfaitement l’esprit de <em>Projet I3</em> : apprendre par la pratique, s’adapter aux imprévus et aboutir à un résultat concret et valorisant.<br><br>
+
+Nous sortons de cette expérience fiers, enrichis de nouvelles compétences, et encore plus motivés à poursuivre dans cette voie technique et humaine passionnante.
+</div>
+
+> <strong>Nous sommes particulièrement fiers de ce projet incroyable, innovant et surtout concret, qui poursuit un objectif utile et vital&nbsp;: 
+> optimiser les interventions incendie des pompiers en leur permettant de localiser rapidement et efficacement leurs points d’eau grâce à ce brassard connecté.</strong>
+
 
 
 <!----------------------------------------------------------------------------->
