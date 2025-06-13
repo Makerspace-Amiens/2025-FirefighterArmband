@@ -5,6 +5,8 @@ parent: Retour
 nav_order: 3
 ---
 
+# Améliorations possibles
+
 ## <span style="color:#d62828;">Résistance à la chaleur et à l’environnement</span>
 
 Pour garantir une utilisation réelle lors d’interventions, le brassard devra être pensé pour résister à un environnement extrême :

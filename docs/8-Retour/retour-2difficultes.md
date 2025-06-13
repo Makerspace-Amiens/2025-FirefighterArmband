@@ -5,7 +5,7 @@ parent: Retour
 nav_order: 2
 ---
 
-# <span style="color:#d62828;">Difficultés rencontrées</span>
+# Difficultés rencontrées
 
 ## <span style="color:#d62828;">Problème d’intégration du module GPS</span>
 

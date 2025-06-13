@@ -35,7 +35,7 @@ Le module GPS a été choisi après plusieurs recherches en ligne, tandis que la
 Malheureusement, nous avons rencontré des problèmes techniques lors de l’intégration du GPS : dès que ce dernier était connecté, le microcontrôleur cessait de recevoir des données. Ce dysfonctionnement pourrait être lié à un conflit matériel ou une erreur de câblage que nous n’avons pas pu identifier à temps.
 
 
-## <span style="color:#d62828;">ÉProblèmes lors de l’assemblage final</span>
+## <span style="color:#d62828;">Problèmes lors de l’assemblage final</span>
 
 La veille de la **Journée des Projets**, en procédant à l’assemblage final dans le boîtier, nous avons constaté que la boussole ne fonctionnait plus correctement une fois intégrée. Après analyse, nous suspectons que des **interférences électromagnétiques** entre l’écran et la boussole — qui étaient collés l’un à l’autre — ont perturbé son fonctionnement.
 

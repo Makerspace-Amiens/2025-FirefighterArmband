@@ -11,8 +11,6 @@ has_children: true
 <br>
 <div style="border-bottom: 3px solidrgb(148, 38, 38); width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
-# Programmation et interface du brassard
-
 Dans cette section, je présente en détail les aspects liés à la programmation de mon brassard électronique pour les pompiers.  
 Le développement logiciel du projet a nécessité de prendre en compte des contraintes spécifiques, de structurer le code de manière efficace et de concevoir une interface simple, intuitive et adaptée aux conditions d’utilisation sur le terrain.
 
