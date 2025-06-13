@@ -5,7 +5,66 @@ nav_order: 2
 parent: Documentation
 ---
 
+# Documentation Technique Initiale du projet
 
+Cette page rassemble l’ensemble des documents techniques que j’ai préparés pour **concevoir, formaliser et proposer mon projet personnel** de brassard électronique destiné aux pompiers, dans le cadre de la matière **Projet I3**.  
+Ces documents ont été essentiels pour clarifier la vision du projet, définir les objectifs, et obtenir l’accord des enseignants responsables avant de lancer la phase de réalisation.
+
+---
+
+## Mes documents de préparation
+
+<ul>
+  <li>
+    <a href="#" onclick="openDocPopup('../Docs_Tech/Initial_Dossier-Tech.pdf', 'Dossier technique initial'); return false;">
+      Dossier technique initial
+    </a><br>
+    Ce dossier complet décrit en détail le contexte du projet, le **cahier des charges** précisant les besoins et contraintes, ainsi que les objectifs fonctionnels et techniques que nous souhaitons atteindre.  
+    Il présente également la méthodologie envisagée, les différentes étapes du projet, un planning prévisionnel, et une estimation des ressources nécessaires (budget, matériel, etc.).  
+    Ce document a servi de base à la validation officielle du projet par les enseignants.
+  </li>
+  <li>
+    <a href="#" onclick="openDocPopup('../Docs_Tech/Initial_Liste-composants-tech.pdf', 'Liste des composants techniques'); return false;">
+      Liste des composants techniques
+    </a><br>
+    Ce document liste tous les composants et modules électroniques sélectionnés pour le prototype, avec leurs caractéristiques principales et références.  
+    Il s’agit d’un inventaire technique précis qui a permis de planifier les achats et d’assurer la cohérence matérielle du projet.
+  </li>
+</ul>
+
+---
+
+## Présentation des consignes de la matière
+
+<ul>
+  <li>
+    <a href="#" onclick="openDocPopup('../Docs_Tech/Présentation-Projet-I3_Prof.pdf', 'Présentation officielle du Projet I3'); return false;">
+      Présentation officielle du Projet I3 (enseignants)
+    </a><br>
+    Document fourni par les enseignants responsables de la matière, il décrit les objectifs pédagogiques du projet, les attentes concernant le travail à réaliser, les critères d’évaluation, ainsi que les contraintes spécifiques.  
+    Cette présentation a encadré l’ensemble de notre démarche et nous a guidés dans la réalisation du projet.
+  </li>
+</ul>
+
+---
+
+<script>
+function openDocPopup(url, title) {
+  const popup = window.open('', '_blank', 'width=400,height=200,top=200,left=400,resizable=no');
+  popup.document.write(`
+    <html>
+      <head><title>${title}</title></head>
+      <body style="font-family: Arial, sans-serif; text-align: center; padding: 20px;">
+        <h2>${title}</h2>
+        <p>Que souhaitez-vous faire avec ce document ?</p>
+        <button style="margin: 10px; padding: 8px 16px; font-size: 16px;" onclick="window.open('${url}', '_blank');">Ouvrir dans un nouvel onglet</button>
+        <button style="margin: 10px; padding: 8px 16px; font-size: 16px;" onclick="window.location.href='${url}';">Télécharger</button>
+      </body>
+    </html>
+  `);
+  popup.document.close();
+}
+</script>
 
 <!----------------------------------------------------------------------------->
 
