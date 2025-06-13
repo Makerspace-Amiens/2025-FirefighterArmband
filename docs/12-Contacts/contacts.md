@@ -208,6 +208,67 @@ function closeModal(id) {
 }
 </script>
 
+<!-- QR Code avec boutons à droite -->
+
+##  <span style="color:#d62828;">Partager notre QRCode ! </span>
+
+<div class="qr-section">
+  <img src="qrcodesite.png" alt="QR Code du site" class="qr-image">
+  <div class="qr-buttons">
+    <button onclick="copyLink()" class="qr-btn">Copier le lien</button>
+    <a href="qrcodesite.png" download="QR_FirefighterArmband.png" class="qr-btn">Télécharger le QR code</a>
+  </div>
+</div>
+
+<script>
+  function copyLink() {
+    navigator.clipboard.writeText('https://makerspace-amiens.fr/2025-FirefighterArmband/')
+      .then(() => alert('Lien copié dans le presse-papiers !'))
+      .catch(err => alert('Erreur lors de la copie'));
+  }
+</script>
+
+<style>
+  .qr-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin: 40px 0;
+    flex-wrap: wrap;
+  }
+
+  .qr-image {
+    max-width: 200px;
+    height: auto;
+    border: 2px solid #333;
+    border-radius: 8px;
+  }
+
+  .qr-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .qr-btn {
+    background-color: #d62828;
+    color: #fff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    transition: background-color 0.3s;
+  }
+
+  .qr-btn:hover {
+    background-color: #a31d1d;
+  }
+</style>
+
 
 <!----------------------------------------------------------------------------->
 
