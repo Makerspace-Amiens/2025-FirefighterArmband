@@ -56,11 +56,23 @@ Cette partie contient toutes les informations techniques détaillées pour pours
 ## Objectif de cette documentation
 
 Cette documentation a pour but de :
-- Centraliser toutes les informations techniques.
-- Faciliter la reprise et l’évolution du projet.
-- Illustrer la démarche rigoureuse que nous avons suivie dans le cadre de la matière **Projet I3**.
+<div style="display: flex; justify-content: center; gap: 20px; margin: 2rem 0;">
 
-Pour toute question ou contribution, vous pouvez nous contacter via la page [Contact](contact.md).
+  <div style="flex: 1; min-width: 200px; max-width: 300px; border: 2px solid #d62828; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(214,40,40,0.15); text-align: center; font-weight: 600; color: #d62828;">
+    Centraliser toutes les informations techniques.
+  </div>
+
+  <div style="flex: 1; min-width: 200px; max-width: 300px; border: 2px solid #d62828; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(214,40,40,0.15); text-align: center; font-weight: 600; color: #d62828;">
+    Illustrer la démarche rigoureuse que nous avons suivie dans le cadre de la matière <strong>Projet I3</strong>.
+  </div>
+
+  <div style="flex: 1; min-width: 200px; max-width: 300px; border: 2px solid #d62828; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(214,40,40,0.15); text-align: center; font-weight: 600; color: #d62828;">
+    Faciliter la reprise et l’évolution du projet.
+  </div>
+
+</div>
+
+
 
 Bonne lecture !
 

@@ -16,17 +16,17 @@ Ces documents ont été essentiels pour clarifier la vision du projet, définir 
 
 <ul>
   <li>
-    <a href="#" onclick="openDocPopup('../Docs_Tech/Initial_Dossier-Tech.pdf', 'Dossier technique initial'); return false;">
-      Dossier technique initial
-    </a><br>
+    <strong>Dossier technique initial</strong><br>
+    <a href="../Docs_Tech/Initial_Dossier-Tech.pdf" target="_blank" rel="noopener noreferrer">Ouvrir dans un nouvel onglet</a> | 
+    <a href="../Docs_Tech/Initial_Dossier-Tech.pdf" download>Télécharger</a><br>
     Ce dossier complet décrit en détail le contexte du projet, le **cahier des charges** précisant les besoins et contraintes, ainsi que les objectifs fonctionnels et techniques que nous souhaitons atteindre.  
     Il présente également la méthodologie envisagée, les différentes étapes du projet, un planning prévisionnel, et une estimation des ressources nécessaires (budget, matériel, etc.).  
     Ce document a servi de base à la validation officielle du projet par les enseignants.
   </li>
   <li>
-    <a href="#" onclick="openDocPopup('../Docs_Tech/Initial_Liste-composants-tech.pdf', 'Liste des composants techniques'); return false;">
-      Liste des composants techniques
-    </a><br>
+    <strong>Liste des composants techniques</strong><br>
+    <a href="../Docs_Tech/Initial_Liste-composants-tech.pdf" target="_blank" rel="noopener noreferrer">Ouvrir dans un nouvel onglet</a> | 
+    <a href="../Docs_Tech/Initial_Liste-composants-tech.pdf" download>Télécharger</a><br>
     Ce document liste tous les composants et modules électroniques sélectionnés pour le prototype, avec leurs caractéristiques principales et références.  
     Il s’agit d’un inventaire technique précis qui a permis de planifier les achats et d’assurer la cohérence matérielle du projet.
   </li>
@@ -38,13 +38,14 @@ Ces documents ont été essentiels pour clarifier la vision du projet, définir 
 
 <ul>
   <li>
-    <a href="#" onclick="openDocPopup('../Docs_Tech/Présentation-Projet-I3_Prof.pdf', 'Présentation officielle du Projet I3'); return false;">
-      Présentation officielle du Projet I3 (enseignants)
-    </a><br>
+    <strong>Présentation officielle du Projet I3 (enseignants)</strong><br>
+    <a href="../Docs_Tech/Présentation-Projet-I3_Prof.pdf" target="_blank" rel="noopener noreferrer">Ouvrir dans un nouvel onglet</a> | 
+    <a href="../Docs_Tech/Présentation-Projet-I3_Prof.pdf" download>Télécharger</a><br>
     Document fourni par les enseignants responsables de la matière, il décrit les objectifs pédagogiques du projet, les attentes concernant le travail à réaliser, les critères d’évaluation, ainsi que les contraintes spécifiques.  
     Cette présentation a encadré l’ensemble de notre démarche et nous a guidés dans la réalisation du projet.
   </li>
 </ul>
+
 
 ---
 
