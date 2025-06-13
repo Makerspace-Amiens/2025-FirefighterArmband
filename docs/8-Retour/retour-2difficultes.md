@@ -5,22 +5,40 @@ parent: Retour
 nav_order: 2
 ---
 
-#  Difficultés rencontrées
+# <span style="color:#d62828;">Difficultés rencontrées</span>
 
- Problème d’intégration du module GPS
-L’un des principaux obstacles a été l’intégration du module GPS. Malgré plusieurs tentatives, nous n’avons pas réussi à faire communiquer le GPS de manière fiable avec l’ESP32. En conséquence, les coordonnées utilisées dans le prototype étaient simulées pour la démonstration.
+## <span style="color:#d62828;">Problème d’intégration du module GPS</span>
 
- Erreur de format d’écran
-Nous avions initialement prévu un écran de 6 × 10 cm, compatible avec un format de brassard. Cependant, nous avons reçu un écran de 16 × 10 cm, soit beaucoup plus large que prévu. Ce changement a impacté :
+L’un des principaux obstacles a été l’intégration du **module GPS**. Malgré plusieurs tentatives, nous n’avons pas réussi à établir une communication stable entre le GPS et l’**ESP32**. Des problèmes de compatibilité matérielle et de configuration logicielle ont bloqué l’acquisition des données en temps réel.  
+En conséquence, pour la démonstration finale, les coordonnées ont été **simulées** afin de présenter le fonctionnement général du brassard.
 
-Le design du boîtier,
+## <span style="color:#d62828;">Problème de calibration de la boussole</span>
 
-L’équilibre du brassard porté au bras,
+La **boussole numérique** installée dans le boîtier posait aussi problème : à cause de perturbations magnétiques internes et d’un manque de place pour un étalonnage correct, elle tournait de manière aléatoire, rendant son utilisation impossible pour orienter le pompier de façon fiable.
 
-Et l’ergonomie globale de l’appareil.
+## <span style="color:#d62828;">Erreur de format d’écran</span>
 
- Contraintes de temps
-Enfin, le temps imparti au développement a été relativement court. Entre le choix du matériel, l’attente des livraisons, la conception mécanique, le codage et les tests, nous avons dû faire des compromis. Certains modules (comme le GPS) n’ont pas pu être pleinement intégrés, et la finition matérielle est restée partielle.
+Nous avions commandé un écran aux dimensions compatibles avec le brassard (environ **6 × 10 cm**). Or, à la livraison, l’écran mesurait **16 × 10 cm**, soit **10 cm de plus en largeur** qu’annoncé sur le site fournisseur.  
+Cette erreur a eu plusieurs impacts :
+
+- Obligation de **revoir le design du boîtier** pour accueillir l’écran surdimensionné.
+- Déséquilibre du brassard une fois porté au bras.
+- **Perte d’ergonomie**, car l’écran dépasse du format compact initialement prévu.
+
+## <span style="color:#d62828;">Accès limité aux ressources logicielles et matérielles</span>
+
+Nous n’avons pas pu intégrer le **logiciel métier des pompiers** dans notre prototype, faute d’autorisation et de délai suffisant pour collaborer directement avec le service concerné. De même, nous n’avons pas pu obtenir une **veste de feu** officielle pour tester l’intégration du brassard directement sur l’équipement réel, car les démarches administratives ont dépassé la durée du projet.
+
+## <span style="color:#d62828;">Problèmes avec le dépôt GitHub</span>
+
+Au début du projet, nous n’avions pas d’accès fonctionnel au **dépôt GitHub** de l’équipe. Cela a retardé la mise en commun du code et la gestion collaborative, compliquant le suivi et les tests partagés entre membres.
+
+## <span style="color:#d62828;">Contraintes de temps et imprévus</span>
+
+Une contrainte majeure a été le **temps limité** : nous partions de zéro, sans base de prototype existant. Il a donc fallu consacrer une part importante du calendrier à la **recherche documentaire**, à la comparaison de solutions techniques et à l’apprentissage des outils nécessaires (ESP32, modules GPS, affichage TFT, etc.).  
+Cette phase de préparation, indispensable pour prendre de bonnes décisions techniques, a réduit le temps disponible pour le développement pratique.  
+Au final, il n’est resté **quasiment aucun créneau pour gérer les imprévus matériels ou techniques**, ce qui a limité l’avancement sur certaines fonctionnalités pourtant prévues initialement.
+
 
 <!----------------------------------------------------------------------------->
 

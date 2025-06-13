@@ -5,43 +5,43 @@ parent: Retour
 nav_order: 3
 ---
 
-# Amélioration possibles
+## <span style="color:#d62828;">Résistance à la chaleur et à l’environnement</span>
 
- Résistance à la chaleur et à l’environnement
-Pour un usage en intervention réelle, le brassard devra être :
+Pour garantir une utilisation réelle lors d’interventions, le brassard devra être pensé pour résister à un environnement extrême :
+- Utiliser des matériaux **ignifuges** ou des **plastiques techniques** capables de supporter des températures élevées.
+- Assurer une **étanchéité** contre la poussière, la pluie et les projections d’eau, avec une norme de protection IP élevée.
+- Protéger l’électronique grâce à un boîtier interne renforcé, capable d’absorber chocs et vibrations sans altérer le fonctionnement.
 
-Résistant à la chaleur (plastique technique ou silicone),
+## <span style="color:#d62828;">Intégration complète du GPS et de la librairie graphique</span>
 
-Étanche à la poussière et à l’eau,
+Une évolution indispensable pour atteindre un premier prototype pleinement opérationnel :
+- **Intégrer un module GPS fiable**, capable de fournir une position précise et stable en temps réel, même en déplacement ou en zone complexe.
+- Déployer une **librairie d’interface graphique plus performante**, pour améliorer la fluidité et la clarté des affichages : coordonnées, directions et informations de mission.
+- Garantir le **suivi d’itinéraire et la communication** avec une base de données ou une application mobile pour synchroniser missions et points d’intérêt.
 
-Solide face aux chocs mécaniques.
+## <span style="color:#d62828;">Logiciel pompier et veste de feu</span>
 
-L’ensemble de l’électronique devra être isolé dans un boîtier robuste.
+Pour rapprocher le brassard d’un usage concret en conditions réelles :
+- **Obtenir et intégrer le logiciel utilisé par les pompiers**, afin de tester la compatibilité, récupérer les données de mission et afficher des instructions à jour.
+- **Tester le brassard sur une veste de feu réelle**, pour ajuster l’ergonomie, la fixation et la facilité d’utilisation, même avec l’équipement complet et des gants.
 
- Intégration complète du GPS
-L’une des priorités est d’intégrer un module GPS fonctionnel et fiable, capable de :
+## <span style="color:#d62828;">Interface enrichie et nouvelles options</span>
 
-Récupérer la position actuelle en temps réel,
+Pour rendre l’outil plus complet et plus utile sur le terrain :
+- Développer une **interface graphique plus riche** : carte simplifiée, icônes directionnelles et informations dynamiques facilement compréhensibles.
+- Ajouter des **alertes visuelles et sonores** en cas de problème GPS ou d’erreur de suivi.
+- Intégrer de **nouvelles fonctionnalités de localisation**, comme :
+  - **Les DAE** (Défibrillateurs Automatisés Externes) à proximité,
+  - Les **hôpitaux les plus proches** et autres points de secours,
+  - Des informations supplémentaires pour aider la prise de décision en situation d’urgence.
 
-Suivre un itinéraire défini,
+## <span style="color:#d62828;">Conception mécanique optimisée</span>
 
-Communiquer potentiellement avec une base de données ou une appli mobile.
-
- Interface graphique améliorée
-L’interface actuelle est fonctionnelle mais basique. Une version améliorée pourrait inclure :
-
-Une carte simplifiée ou des icônes directionnelles,
-
-Un affichage plus lisible avec des contrastes adaptés,
-
-Des alertes visuelles ou sonores en cas d’urgence ou d’erreur GPS.
-
- Conception mécanique retravaillée
-Le boîtier devra être redimensionné pour s’adapter à un écran plus petit ou adopter une disposition différente. Il faudra également :
-
-Ajouter une sangle confortable et ajustable,
-
-Prévoir un accès facile au port de charge et au bouton ON/OFF.
+Enfin, pour améliorer la praticité et le confort du brassard :
+- **Réduire la taille du boîtier** en adéquation avec un écran aux bonnes dimensions, pour un encombrement minimal.
+- **Rééquilibrer le poids** pour qu’il reste stable au bras sans gêner les mouvements.
+- Ajouter une **sangle réglable, confortable et compatible** avec la veste de feu réglementaire.
+- Prévoir un **accès direct au port de charge et au bouton ON/OFF**, sans avoir à ouvrir le boîtier ou retirer la sangle.
 
 
 <!----------------------------------------------------------------------------->
