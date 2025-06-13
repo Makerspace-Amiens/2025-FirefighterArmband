@@ -57,7 +57,36 @@ Le code principal s’articule autour de plusieurs modules :
 
 > Cette architecture simple mais robuste permet de maintenir le code facilement, tout en assurant une bonne réactivité lors de l’utilisation sur le terrain.
 
-<!--(-mettre un lien pour télécharger le code)--->
+<!-- Bouton de téléchargement ZIP -->
+
+<div class="download-btn-container">
+  <a href="https://drive.google.com/uc?export=download&id=1EbtYvdha1yKQOr8VS6X0izoO0WbX5HNk" class="download-btn" target="_blank">
+    Télécharger le programme complet (.zip)
+  </a>
+</div>
+
+<style>
+  .download-btn-container {
+    text-align: center;
+    margin: 40px 0;
+  }
+
+  .download-btn {
+    background-color: #d62828;
+    color: #fff;
+    padding: 15px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+
+  .download-btn:hover {
+    background-color: #a31d1d;
+  }
+</style>
+
 
 
 <!----------------------------------------------------------------------------->
