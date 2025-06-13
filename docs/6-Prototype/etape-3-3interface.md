@@ -6,14 +6,15 @@ nav_order: 3
 ---
 
 # Interface et Interface graphique
-## Contraintes et choix liés à la programmation
+
+## <span style="color:#d62828;">Contraintes et choix liés à la programmation</span>
 
 Dans cette section, nous revenons sur plusieurs choix techniques importants qui ont influencé la structure finale de notre code.  
 Certains problèmes nous ont forcés à revoir nos objectifs initiaux pour garantir un fonctionnement fiable et adapté au terrain.
 
 ---
 
-### 1. Problèmes liés aux bibliothèques
+## <span style="color:#d62828;">1. Problèmes liés aux bibliothèques</span>
 
 L’un des principaux obstacles rencontrés a été la **gestion des bibliothèques**, notamment celles liées à l’affichage sur le **CrowPanel**.
 
@@ -25,7 +26,7 @@ Ces difficultés nous ont poussés à **réduire notre dépendance aux biblioth�
 
 ---
 
-### 2. Abandon de la flèche directionnelle
+## <span style="color:#d62828;">2. Abandon de la flèche directionnelle</span>
 
 Initialement, nous avions prévu une **flèche orientée dynamiquement** pour indiquer la direction du point d’eau.  
 Cependant, plusieurs contraintes nous ont amenés à **abandonner cette fonctionnalité** dans la version finale :
@@ -38,7 +39,7 @@ Nous avons donc fait le choix de privilégier **la fiabilité du système** plut
 
 ---
 
-### 3. Interface simple, sans bibliothèque graphique
+## <span style="color:#d62828;">3. Interface simple, sans bibliothèque graphique</span>
 
 En réponse à ces limitations, nous avons conçu une **interface simple, claire, et sans dépendance à des bibliothèques graphiques complexes**.
 
@@ -50,7 +51,7 @@ Ce choix garantit une meilleure stabilité et une consommation minimale de resso
 
 ---
 
-### 4. Adaptabilité du système
+## <span style="color:#d62828;">4. Adaptabilité du système</span>
 
 Malgré ces simplifications, le système reste **entièrement adaptable** :
 
@@ -62,7 +63,7 @@ Nous avons donc préféré un système **fiable, adaptable et fonctionnel**, plu
 
 ---
 
-Ce retour d’expérience montre l’importance de faire des compromis techniques intelligents pour garantir **un usage concret sur le terrain**, là où l’efficacité prime sur l’apparence.
+> Ce retour d’expérience montre l’importance de faire des compromis techniques intelligents pour garantir <strong> un usage concret sur le terrain</strong>, là où l’efficacité prime sur l’apparence.
 
 
 <!----------------------------------------------------------------------------->

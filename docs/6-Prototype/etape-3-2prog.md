@@ -6,13 +6,14 @@ nav_order: 2
 ---
 
 # Programmation du brassard
-## Environnement et programmation
+
+## <span style="color:#d62828;">Environnement et programmation</span>
 
 Dans cette section, nous détaillons l’environnement logiciel utilisé pour développer notre projet, l’adaptation aux bibliothèques spécifiques à notre matériel, ainsi qu’un aperçu des grandes lignes du code.
 
 ---
 
-### 1. Environnement : IDE Arduino
+## <span style="color:#d62828;">1. Environnement : IDE Arduino</span>
 
 Pour la programmation du brassard, nous avons utilisé l’**IDE Arduino**, un environnement de développement très répandu dans le domaine de l’électronique embarquée.
 
@@ -24,7 +25,7 @@ Ce choix nous a permis de profiter d’une large communauté, de nombreux exempl
 
 ---
 
-### 2. Utilisation des bibliothèques spécifiques au CrowPanel
+## <span style="color:#d62828;">2. Utilisation des bibliothèques spécifiques au CrowPanel</span>
 
 La carte que nous avons utilisée, le **CrowPanel d’Elecrow**, n’est pas officiellement supportée par l’IDE Arduino.  
 Nous avons donc dû **chercher, tester et adapter plusieurs bibliothèques** pour réussir à exploiter son écran et ses fonctionnalités.
@@ -36,7 +37,7 @@ Grâce à ces adaptations, nous avons pu afficher notre interface (flèche, dist
 
 ---
 
-### 3. Grandes lignes du code et gestion des bibliothèques
+## <span style="color:#d62828;">3. Grandes lignes du code et gestion des bibliothèques</span>
 
 Le code principal s’articule autour de plusieurs modules :
 
@@ -54,7 +55,7 @@ Le code principal s’articule autour de plusieurs modules :
 
 ---
 
-Cette architecture simple mais robuste permet de maintenir le code facilement, tout en assurant une bonne réactivité lors de l’utilisation sur le terrain.
+> Cette architecture simple mais robuste permet de maintenir le code facilement, tout en assurant une bonne réactivité lors de l’utilisation sur le terrain.
 
 (-mettre un lien pour télécharger le code)
 
