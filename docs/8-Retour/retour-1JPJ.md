@@ -5,24 +5,57 @@ parent: Retour
 nav_order: 1
 ---
 
-#  Journée des Projets – 4 juin 2025
+#  Retour sur la Journée des Projets – 4 juin 2025
 
- Présentation devant le jury
-La Journée des Projets s’est tenue le mercredi 4 juin 2025. Nous avons présenté notre prototype à un jury composé principalement de nos enseignants. Cette session a été l’occasion de valoriser le travail réalisé en équipe tout au long du semestre.
+La **Journée des Projets** a constitué une étape importante pour présenter et évaluer notre brassard électronique destiné aux pompiers.  
+Cet événement, organisé le **mercredi 4 juin 2025**, a rassemblé enseignants, étudiants et invités extérieurs, venus découvrir les solutions techniques développées dans le cadre de la matière **Projet I3**.
 
-Nous avons expliqué le fonctionnement du brassard, le matériel utilisé (ESP32, écran TFT, GPS), et les contraintes spécifiques liées à une utilisation en contexte d’intervention.
+---
 
- Déroulé de la démonstration
-Lors de la démonstration, le prototype affichait correctement :
+## <span style="color:#d62828;">Présentation devant le jury</span>
 
-La position actuelle (en coordonnées GPS),
+Pendant cette journée, nous avons présenté notre prototype à un **jury composé principalement de nos enseignants**, mais également à d’autres visiteurs intéressés par les applications concrètes de nos projets.  
+Cette session a été l’occasion de valoriser le travail fourni tout au long du semestre et de démontrer nos compétences en conception et en développement.
 
-La destination prédéfinie,
+Nous avons détaillé :
 
-Et la distance calculée en ligne droite entre les deux.
+- Le **contexte** et les **objectifs** du brassard,
+- Le **fonctionnement général** du système,
+- Le **choix des composants** : microcontrôleur **ESP32**, écran **TFT**, module **GPS**, alimentation autonome,
+- Les **contraintes spécifiques** liées à l’utilisation par des pompiers (robustesse, faible consommation, lisibilité).
 
-Malgré les limites techniques rencontrées que nous expliquons juste après, nous avons pu mettre en avant la logique du système et les solutions implémentées. Le projet a suscité l’intérêt des jurys, notamment sur ses applications concrètes et les choix techniques faits avec les ressources disponibles.
-![alt text](../12-Contacts/photo_groupe.webp)
+---
+
+## <span style="color:#d62828;">Déroulé de la démonstration</span>
+
+La démonstration a suivi une structure claire pour mettre en valeur chaque aspect du projet :
+
+- **Présentation du contexte et de l’objectif** : nous avons rappelé les besoins des pompiers en matière de localisation en intervention, et expliqué comment notre brassard pourrait s’intégrer directement à la **tenue de feu** sans gêner les mouvements ni alourdir l’équipement.
+
+- **Présentation du prototype** : nous avons détaillé les choix techniques pour garantir la robustesse et la fiabilité, en insistant sur le choix de l’**ESP32**, du module **GPS**, de l’**écran TFT** et de l’alimentation embarquée.
+
+- **Explication de l’électronique embarquée** : nous avons expliqué comment les différents modules communiquent entre eux, comment les données GPS sont traitées en temps réel, et comment les calculs de distance sont réalisés pour fournir une information claire et actualisée.
+
+- **Présentation de la programmation et de l’interface** : nous avons montré l’interface conçue pour être lisible même dans des conditions extrêmes : position actuelle affichée en temps réel, destination fixe et distance restante. L’interface a été pensée pour une **consultation rapide**, sans interaction complexe, afin que le pompier puisse se concentrer sur sa mission.
+
+Cette démonstration a illustré la **logique de conception** : un brassard simple, fonctionnel, et directement adaptable à l’équipement des pompiers tout en répondant aux contraintes techniques d’un environnement exigeant.
+
+## <span style="color:#d62828;">Bilan et échanges</span>
+
+À l’issue de la démonstration, nous avons échangé avec le jury et les visiteurs pour recueillir leurs impressions et suggestions.  
+Ces retours ont mis en avant :
+
+- L’intérêt concret du projet pour améliorer la sécurité en intervention,
+- Des idées d’améliorations comme l’intégration de modules de communication plus robustes,
+- L’optimisation de la batterie pour prolonger l’autonomie,
+- Des pistes pour rendre l’interface encore plus ergonomique, même avec des gants.
+
+La **Journée des Projets** a ainsi validé la cohérence de notre solution et ouvert des perspectives pour de futures améliorations.
+
+---
+
+![Présentation de l’équipe](../12-Contacts/photo_groupe.webp)
+
 <!----------------------------------------------------------------------------->
 
 <style>
