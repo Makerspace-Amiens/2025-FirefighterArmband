@@ -7,7 +7,6 @@ parent: Documentation
 
 # Documentation Technique détaillée du projet
 
-
 [text](../Docs_Tech/Certif_normes-etanch.pdf)
 [text](../Docs_Tech/DocTech_EcranCrowPanel.pdf)
 

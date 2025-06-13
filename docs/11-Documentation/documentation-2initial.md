@@ -158,7 +158,7 @@ function closeDocModal(id) {
 }
 </style>
 
-<a class="bouton-suivant" href="../12-Contacts/contacts">Next→</a>
+<a class="bouton-suivant" href="../11-Documentation/documentation-3technique.md">Next→</a>
 
 <!----------------------------------------------------------------------------->
 
