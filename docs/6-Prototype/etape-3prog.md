@@ -7,6 +7,11 @@ has_children: true
 ---
 
 # Programmation 
+ 
+
+Dans cette partie, nous allons présenter les aspects liés à la **programmation** de notre projet.  
+Le développement logiciel a été une étape essentielle pour faire fonctionner l’ensemble des composants électroniques et permettre au brassard GPS de remplir pleinement sa fonction.  
+Nous aborderons ici les différents défis rencontrés, les choix techniques effectués, ainsi que les solutions mises en œuvre pour répondre aux contraintes spécifiques de notre application.
 
 <br>
 <div style="border-bottom: 3px solidrgb(148, 38, 38); width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>

@@ -6,11 +6,56 @@ nav_order: 2
 ---
 
 # Programmation du brassard
+## Environnement et programmation
 
-à mettre 
-- environnement : IDE Arduino
-- utilisation de bibliothèque crowpanel
-- explique les grande ligne de ton code et des librairies
+Dans cette section, nous détaillons l’environnement logiciel utilisé pour développer notre projet, l’adaptation aux bibliothèques spécifiques à notre matériel, ainsi qu’un aperçu des grandes lignes du code.
+
+---
+
+### 1. Environnement : IDE Arduino
+
+Pour la programmation du brassard, nous avons utilisé l’**IDE Arduino**, un environnement de développement très répandu dans le domaine de l’électronique embarquée.
+
+- L’IDE Arduino permet de programmer en **C/C++**, avec une interface simple adaptée aux microcontrôleurs comme l’ESP32.
+- Il offre un système de **gestion de bibliothèques** facilitant l’intégration de composants externes (affichage, GPS, capteurs…).
+- Nous avons configuré l’IDE pour qu’il soit compatible avec la **carte ESP32 intégrée dans le CrowPanel**.
+
+Ce choix nous a permis de profiter d’une large communauté, de nombreux exemples de code, et d’un déploiement rapide vers notre carte via USB.
+
+---
+
+### 2. Utilisation des bibliothèques spécifiques au CrowPanel
+
+La carte que nous avons utilisée, le **CrowPanel d’Elecrow**, n’est pas officiellement supportée par l’IDE Arduino.  
+Nous avons donc dû **chercher, tester et adapter plusieurs bibliothèques** pour réussir à exploiter son écran et ses fonctionnalités.
+
+- Nous avons utilisé des **bibliothèques graphiques compatibles avec les écrans TFT** comme `TFT_eSPI`, que nous avons adaptées pour les dimensions et la configuration du CrowPanel.
+- La configuration des broches de l’écran et la gestion tactile ont nécessité des ajustements manuels dans les fichiers de configuration.
+
+Grâce à ces adaptations, nous avons pu afficher notre interface (flèche, distance, texte) de manière fluide et responsive.
+
+---
+
+### 3. Grandes lignes du code et gestion des bibliothèques
+
+Le code principal s’articule autour de plusieurs modules :
+
+- **Initialisation matérielle** : configuration de l’écran, de la boussole (I²C) et du GPS (UART).
+- **Lecture des capteurs** : récupération des coordonnées GPS et de l’orientation magnétique.
+- **Calculs** :
+  - Calcul de la **distance** entre la position du pompier et un point d’eau (formule de Haversine).
+  - Calcul de la **direction à suivre** (angle entre le cap actuel et la cible).
+- **Affichage** :
+  - Affichage de la **flèche directionnelle** orientée dynamiquement.
+  - Affichage de la **distance** en mètres.
+  - Affichage d’un message si le point d’eau est atteint ou hors de portée.
+
+
+
+---
+
+Cette architecture simple mais robuste permet de maintenir le code facilement, tout en assurant une bonne réactivité lors de l’utilisation sur le terrain.
+
 (-mettre un lien pour télécharger le code)
 
 

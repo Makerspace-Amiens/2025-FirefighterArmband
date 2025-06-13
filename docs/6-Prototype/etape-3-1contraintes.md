@@ -7,12 +7,67 @@ nav_order: 1
 
 # Contraintes techniques de programmation
 
-à mettre : 
-- l'inconnu de l'écran et la marque CrowPanel
-- flèche directionnelle
-- distance et orientation avec gps et boussole
-- affichage simple et clair
-- rapide et visible
+### Introduction
+
+Notre objectif avec ce projet était clair : **concevoir un brassard GPS capable d’indiquer aux pompiers la direction et la distance jusqu’aux points d’eau les plus proches**, afin de leur faire **gagner un temps précieux en intervention**.  
+Mais transformer cette idée en un outil simple, fiable et efficace a soulevé plusieurs **contraintes techniques**, notamment liées à la programmation et à l’intégration matérielle. Voici les principales.
+
+---
+
+### 1. L’inconnu de l’écran Elecrow – S’adapter à une carte peu documentée
+
+Nous avons utilisé un écran tactile **Elecrow CrowPanel**, qui intègre un **ESP32**. Si ce composant répondait à nos attentes matérielles, la carte en elle-même était **mal documentée**.
+
+- Nous avons dû **chercher et tester manuellement plusieurs bibliothèques**, car aucune bibliothèque officielle spécifique au CrowPanel n’était fournie.
+- Il a fallu identifier et configurer les bons fichiers pour l’affichage graphique, notamment les bibliothèques **GFX** compatibles.
+- Cette phase a demandé beaucoup de temps de tests pour simplement afficher nos premières interfaces, et comprendre comment communiquer avec les capteurs via cette carte.
+
+Ce manque d’information a constitué l’une des **premières vraies difficultés du projet**.
+
+---
+
+### 2. Une flèche directionnelle – Traduire une direction en visuel clair
+
+Afficher une **flèche qui indique la direction du point d’eau** peut sembler simple… mais ça ne l’est pas.
+
+- Il a fallu convertir la **différence d’angle entre la position actuelle (détectée par la boussole)** et la **direction du point d’eau (calculée via GPS)**.
+- Une fois cette différence calculée, nous devions afficher dynamiquement une flèche tournée dans le bon sens, avec un rafraîchissement fluide.
+- Cela a nécessité la création de **fonctions trigonométriques** pour transformer ces données numériques en **repères visuels compréhensibles**.
+
+Ce système est **au cœur de l’interface utilisateur** : les pompiers doivent comprendre instinctivement dans quelle direction aller.
+
+---
+
+### 3. Distance et orientation – Le duo GPS + Boussole
+
+La navigation ne se limite pas à la direction : il faut aussi **connaître la distance** jusqu’au point d’eau, et la recalculer à chaque déplacement.
+
+- Nous avons utilisé le **GPS NEO6M** pour connaître la position géographique du pompier.
+- En parallèle, la **boussole Grove 3 axes** nous fournit l’orientation réelle (le cap).
+- Le programme calcule la **distance entre les coordonnées GPS actuelles** et celles du point d’eau, à l’aide de la **formule de Haversine**.
+- À chaque mise à jour du GPS, la distance et la direction sont recalculées en temps réel.
+
+Ce traitement dynamique assure que le **pompier a toujours une information à jour**, même s’il change de direction ou de position.
+
+---
+
+### 4. Affichage simple, clair, rapide, visible
+
+L’interface du brassard devait être **intuitive, minimaliste et lisible** dans n’importe quelle condition (fumée, faible lumière, stress…).
+
+- Nous avons fait le choix d’un **affichage épuré** : une flèche, une distance, et parfois une icône pour signaler un point d’eau à proximité.
+- Les couleurs et les polices ont été choisies pour être visibles rapidement.
+- Le tout est **pensé pour une lecture immédiate**, sans que l’utilisateur ait besoin de réfléchir : **l’outil doit être une aide, pas un obstacle.**
+
+Cet aspect était **fondamental** : en situation d’urgence, chaque seconde compte.
+
+---
+
+### Conclusion
+
+En résumé, chaque contrainte technique rencontrée avait un seul objectif : **offrir aux pompiers un outil fiable, intuitif, et immédiatement utile en intervention.**  
+Entre choix de composants, adaptation aux bibliothèques, calculs GPS, et affichage clair, notre travail a toujours été guidé par le terrain et ses exigences.
+
 
 <!----------------------------------------------------------------------------->
 
