@@ -7,14 +7,14 @@ nav_order: 1
 
 # Contraintes techniques de programmation
 
-### Introduction
+## <span style="color:#d62828;">Introduction</span>
 
 Notre objectif avec ce projet était clair : **concevoir un brassard GPS capable d’indiquer aux pompiers la direction et la distance jusqu’aux points d’eau les plus proches**, afin de leur faire **gagner un temps précieux en intervention**.  
 Mais transformer cette idée en un outil simple, fiable et efficace a soulevé plusieurs **contraintes techniques**, notamment liées à la programmation et à l’intégration matérielle. Voici les principales.
 
 ---
 
-### 1. L’inconnu de l’écran Elecrow – S’adapter à une carte peu documentée
+## <span style="color:#d62828;">1. L’inconnu de l’écran Elecrow – S’adapter à une carte peu documentée</span>
 
 Nous avons utilisé un écran tactile **Elecrow CrowPanel**, qui intègre un **ESP32**. Si ce composant répondait à nos attentes matérielles, la carte en elle-même était **mal documentée**.
 
@@ -26,7 +26,7 @@ Ce manque d’information a constitué l’une des **premières vraies difficult
 
 ---
 
-### 2. Une flèche directionnelle – Traduire une direction en visuel clair
+## <span style="color:#d62828;">2. Une flèche directionnelle – Traduire une direction en visuel clair</span>
 
 Afficher une **flèche qui indique la direction du point d’eau** peut sembler simple… mais ça ne l’est pas.
 
@@ -38,7 +38,7 @@ Ce système est **au cœur de l’interface utilisateur** : les pompiers doivent
 
 ---
 
-### 3. Distance et orientation – Le duo GPS + Boussole
+## <span style="color:#d62828;">3. Distance et orientation – Le duo GPS + Boussole</span>
 
 La navigation ne se limite pas à la direction : il faut aussi **connaître la distance** jusqu’au point d’eau, et la recalculer à chaque déplacement.
 
@@ -51,7 +51,7 @@ Ce traitement dynamique assure que le **pompier a toujours une information à jo
 
 ---
 
-### 4. Affichage simple, clair, rapide, visible
+## <span style="color:#d62828;">4. Affichage simple, clair, rapide, visible</span>
 
 L’interface du brassard devait être **intuitive, minimaliste et lisible** dans n’importe quelle condition (fumée, faible lumière, stress…).
 
@@ -63,7 +63,7 @@ Cet aspect était **fondamental** : en situation d’urgence, chaque seconde com
 
 ---
 
-### Conclusion
+## <span style="color:#d62828;">Conclusion</span>
 
 En résumé, chaque contrainte technique rencontrée avait un seul objectif : **offrir aux pompiers un outil fiable, intuitif, et immédiatement utile en intervention.**  
 Entre choix de composants, adaptation aux bibliothèques, calculs GPS, et affichage clair, notre travail a toujours été guidé par le terrain et ses exigences.
