@@ -14,8 +14,9 @@ La partie électronique de notre projet a été relativement simple à mettre en
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start; margin-bottom: 2rem;">
 
   <div style="flex: 1 1 45%; text-align: center;">
-    <img src="Makerspace-Amiens/2025-FirefighterArmband/docs/images/Schéma électronique Elecrow.png" alt="Vu de la carte électronique" style="width:100%; max-width:320px; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
+    <img src="../images/SchémaélectroniqueElecrow.png" alt="Vu de la carte électronique" style="width:100%; max-width:320px; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
     <p style="font-size: 0.9em; margin-top: 0.5rem;">Modèle sur OnShape – Vue globale</p>
+  </div>
   </div>
 
 ### Choix des Modules Complémentaires
