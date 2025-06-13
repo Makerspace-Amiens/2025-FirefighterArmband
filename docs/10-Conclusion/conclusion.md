@@ -9,10 +9,6 @@ title: Conclusion
 <br>
 <div style="border-bottom: 3px solid #d62828; width: 100%; margin-top: -1em; margin-bottom: 1em;"></div>
 
-## 🎓 Conclusion du projet et de la matière *Projet I3*
-
-<div style="background-color: #f9f9f9; border-left: 4px solid #d62828; padding: 1.5rem; margin: 1.5rem 0; border-radius: 6px; line-height: 1.7;">
-
 Ce projet de <strong>brassard électronique pour les pompiers</strong> a été une aventure à la fois technique et humaine, menée dans le cadre de la matière <em>Projet I3</em>.<br><br>
 
 Tout au long de cette réalisation, nous avons su nous organiser efficacement, répartir les tâches intelligemment et collaborer dans une ambiance motivante et bienveillante.<br><br>
