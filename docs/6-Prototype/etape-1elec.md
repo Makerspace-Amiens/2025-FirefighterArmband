@@ -7,8 +7,6 @@ nav_order: 1
 
 # Electronique
 
-## Partie Électronique du Projet
-
 La partie électronique de notre projet a été relativement simple à mettre en place grâce à l'utilisation d'une carte électronique déjà très complète. En effet, nous avons opté pour un écran **Elecrow** équipé d’un **ESP32**, qui répondait parfaitement à l’ensemble de nos besoins pour le développement logiciel. Ce choix stratégique nous a permis de gagner un temps précieux et de nous concentrer davantage sur l’intégration des composants complémentaires nécessaires au bon fonctionnement de notre système.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start; margin-bottom: 2rem;">
@@ -18,8 +16,8 @@ La partie électronique de notre projet a été relativement simple à mettre en
     <p style="font-size: 0.9em; margin-top: 0.5rem;">Modèle sur OnShape – Vue globale</p>
   </div>
   </div>
-
-### Choix des Modules Complémentaires
+ 
+## <span style="color:#d62828;">Choix des Modules Complémentaires</span>
 
 Après avoir validé notre support principal, nous avons recherché les modules nécessaires à notre application. Deux capteurs se sont révélés indispensables :
 
@@ -28,14 +26,16 @@ Après avoir validé notre support principal, nous avons recherché les modules 
 
 Le module GPS a été choisi après plusieurs recherches en ligne, tandis que la boussole Grove a été sélectionnée en raison de notre expérience préalable avec cette marque lors de travaux pratiques antérieurs.
 
-### Intégration des Composants
+
+## <span style="color:#d62828;">Intégration des Composants</span>
 
 - **La boussole** a été connectée via le **bus I²C**, une interface simple et fiable pour ce type de capteur.
 - **Le GPS**, quant à lui, devait être câblé sur **l’interface UART0** du microcontrôleur.
 
 Malheureusement, nous avons rencontré des problèmes techniques lors de l’intégration du GPS : dès que ce dernier était connecté, le microcontrôleur cessait de recevoir des données. Ce dysfonctionnement pourrait être lié à un conflit matériel ou une erreur de câblage que nous n’avons pas pu identifier à temps.
 
-### Problèmes lors de l’assemblage final
+
+## <span style="color:#d62828;">ÉProblèmes lors de l’assemblage final</span>
 
 La veille de la **Journée des Projets**, en procédant à l’assemblage final dans le boîtier, nous avons constaté que la boussole ne fonctionnait plus correctement une fois intégrée. Après analyse, nous suspectons que des **interférences électromagnétiques** entre l’écran et la boussole — qui étaient collés l’un à l’autre — ont perturbé son fonctionnement.
 
